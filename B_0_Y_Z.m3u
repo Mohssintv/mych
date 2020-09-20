@@ -1,6 +1,6 @@
 #EXTM3U
 ---------------------------The boys 1-------------
-#EXTINF:0 type="video" channelId="-1"group="The boys 1"logo="https://www.streamwijzer.nl/wp-content/uploads/2019/08/The-Boys-seizoen-2-Amazon-Prime-Video.jpg", TheBoys S1E01
+#EXTINF:-1 tvg-id="" tvg-name="TheBoys S1E01" tvg-logo="https://www.streamwijzer.nl/wp-content/uploads/2019/08/The-Boys-seizoen-2-Amazon-Prime-Video.jpg" group-title="The boys 1",TheBoys S1E01
 https://www40.uptostream.com/2ecudtt34ef/480/0/video.mp4
 #EXTINF:0 type="video" channelId="-1"group="The boys 1"logo="https://www.streamwijzer.nl/wp-content/uploads/2019/08/The-Boys-seizoen-2-Amazon-Prime-Video.jpg", TheBoys S1E02
 https://www40.uptostream.com/2ecufue17d7/480/0/video.mp4
