@@ -1,76 +1,71 @@
 #EXTM3U
 -----------مسلسل الحفرة4 ----------------
-#EXTINF:-1 tvg-id="" tvg-name="الحفرة  S4E01" tvg-logo="https://1.bp.blogspot.com/-YtZY-3EJLb8/Wt-56QHv_nI/AAAAAAAAABw/wbJw4sEdCOk-lbaD7LXev7mczYTQW3nYwCLcBGAs/s640/%25D9%2585%25D8%25B3%25D9%2584%25D8%25B3%25D9%2584%2B%25D8%25A7%25D9%2584%25D8%25AD%25D9%2581%25D8%25B1%25D8%25A9%2BCukur-min.png" group-title="الحفرة 4", 1
+#EXTINF:-1 tvg-id="" tvg-name="الحفرة  S4E01" tvg-logo="https://1.bp.blogspot.com/-YtZY-3EJLb8/Wt-56QHv_nI/AAAAAAAAABw/wbJw4sEdCOk-lbaD7LXev7mczYTQW3nYwCLcBGAs/s640/%25D9%2585%25D8%25B3%25D9%2584%25D8%25B3%25D9%2584%2B%25D8%25A7%25D9%2584%25D8%25AD%25D9%2581%25D8%25B1%25D8%25A9%2BCukur-min.png" group-title="الحفرة 4"
 http://conv.alarab.com/media/videos/h264/158933_720p.mp4
-#EXTINF:-1 tvg-id="" tvg-name="الحفرة  S4E01" tvg-logo="https://1.bp.blogspot.com/-YtZY-3EJLb8/Wt-56QHv_nI/AAAAAAAAABw/wbJw4sEdCOk-lbaD7LXev7mczYTQW3nYwCLcBGAs/s640/%25D9%2585%25D8%25B3%25D9%2584%25D8%25B3%25D9%2584%2B%25D8%25A7%25D9%2584%25D8%25AD%25D9%2581%25D8%25B1%25D8%25A9%2BCukur-min.png" group-title="الحفرة 4", 2
+#EXTINF:-1 tvg-id="" tvg-name="الحفرة  S4E01" tvg-logo="https://1.bp.blogspot.com/-YtZY-3EJLb8/Wt-56QHv_nI/AAAAAAAAABw/wbJw4sEdCOk-lbaD7LXev7mczYTQW3nYwCLcBGAs/s640/%25D9%2585%25D8%25B3%25D9%2584%25D8%25B3%25D9%2584%2B%25D8%25A7%25D9%2584%25D8%25AD%25D9%2581%25D8%25B1%25D8%25A9%2BCukur-min.png" group-title="الحفرة 4"
 http://conv.alarab.com/media/videos/h264/159103_720p.mp4
 
 ----------------------مسلسل دانتيل-----------------
-#EXTINF:0 type="video" channelId="-1" group="دانتيل"logo="https://img.7lm.online/thumbs/188ce16e-1.jpg", 1
+#EXTINF:-1 tvg-id="" tvg-name=" دانتيل 01" tvg-logo="logo="https://img.7lm.online/thumbs/188ce16e-1.jpg" group-title="دانتيل"
 http://conv.alarab.com/media/videos/h264/158688_720p.mp4
-#EXTINF:0 type="video" channelId="-1" group="دانتيل"logo="https://img.7lm.online/thumbs/188ce16e-1.jpg", 2
+#EXTINF:-1 tvg-id="" tvg-name=" دانتيل 02" tvg-logo="logo="https://img.7lm.online/thumbs/188ce16e-1.jpg" group-title="دانتيل"
 http://conv.alarab.com/media/videos/h264/158691_720p.mp4
-#EXTINF:0 type="video" channelId="-1" group="دانتيل"logo="https://img.7lm.online/thumbs/188ce16e-1.jpg", 3
+#EXTINF:-1 tvg-id="" tvg-name=" دانتيل 03" tvg-logo="logo="https://img.7lm.online/thumbs/188ce16e-1.jpg" group-title="دانتيل"
 http://conv.alarab.com/media/videos/h264/158692_720p.mp4
-#EXTINF:0 type="video" channelId="-1" group="دانتيل"logo="https://img.7lm.online/thumbs/188ce16e-1.jpg", 4
+#EXTINF:-1 tvg-id="" tvg-name=" دانتيل 04" tvg-logo="logo="https://img.7lm.online/thumbs/188ce16e-1.jpg" group-title="دانتيل"
 http://conv.alarab.com/media/videos/h264/158695_720p.mp4
-#EXTINF:0 type="video" channelId="-1" group="دانتيل"logo="https://img.7lm.online/thumbs/188ce16e-1.jpg", 5
+#EXTINF:-1 tvg-id="" tvg-name=" دانتيل 05" tvg-logo="logo="https://img.7lm.online/thumbs/188ce16e-1.jpg" group-title="دانتيل"
 http://conv.alarab.com/media/videos/h264/158770_720p.mp4
-#EXTINF:0 type="video" channelId="-1" group="دانتيل"logo="https://img.7lm.online/thumbs/188ce16e-1.jpg", 6
+#EXTINF:-1 tvg-id="" tvg-name=" دانتيل 06" tvg-logo="logo="https://img.7lm.online/thumbs/188ce16e-1.jpg" group-title="دانتيل"
 http://conv.alarab.com/media/videos/h264/158763_720p.mp4
-#EXTINF:0 type="video" channelId="-1" group="دانتيل"logo="https://img.7lm.online/thumbs/188ce16e-1.jpg", 7
+#EXTINF:-1 tvg-id="" tvg-name=" دانتيل 07" tvg-logo="logo="https://img.7lm.online/thumbs/188ce16e-1.jpg" group-title="دانتيل"
 http://conv.alarab.com/media/videos/h264/158776_720p.mp4
-#EXTINF:0 type="video" channelId="-1" group="دانتيل"logo="https://img.7lm.online/thumbs/188ce16e-1.jpg", 8
+#EXTINF:-1 tvg-id="" tvg-name=" دانتيل 08" tvg-logo="logo="https://img.7lm.online/thumbs/188ce16e-1.jpg" group-title="دانتيل"
 http://conv.alarab.com/media/videos/h264/158791_720p.mp4
-#EXTINF:0 type="video" channelId="-1" group="دانتيل"logo="https://img.7lm.online/thumbs/188ce16e-1.jpg", 9
+#EXTINF:-1 tvg-id="" tvg-name=" دانتيل 09" tvg-logo="logo="https://img.7lm.online/thumbs/188ce16e-1.jpg" group-title="دانتيل"
 http://conv.alarab.com/media/videos/h264/158818_720p.mp4
-#EXTINF:0 type="video" channelId="-1" group="دانتيل"logo="https://img.7lm.online/thumbs/188ce16e-1.jpg", 10
+#EXTINF:-1 tvg-id="" tvg-name=" دانتيل 10" tvg-logo="logo="https://img.7lm.online/thumbs/188ce16e-1.jpg" group-title="دانتيل"
 http://conv.alarab.com/media/videos/h264/158903_720p.mp4
-#EXTINF:0 type="video" channelId="-1" group="دانتيل"logo="https://img.7lm.online/thumbs/188ce16e-1.jpg", 11
+#EXTINF:-1 tvg-id="" tvg-name=" دانتيل 11" tvg-logo="logo="https://img.7lm.online/thumbs/188ce16e-1.jpg" group-title="دانتيل"
 http://conv.alarab.com/media/videos/h264/158904_720p.mp4
-#EXTINF:0 type="video" channelId="-1" group="دانتيل"logo="https://img.7lm.online/thumbs/188ce16e-1.jpg", 12
+#EXTINF:-1 tvg-id="" tvg-name=" دانتيل 12" tvg-logo="logo="https://img.7lm.online/thumbs/188ce16e-1.jpg" group-title="دانتيل"
 http://conv.alarab.com/media/videos/h264/158920_720p.mp4
-#EXTINF:0 type="video" channelId="-1" group="دانتيل"logo="https://img.7lm.online/thumbs/188ce16e-1.jpg", 13
+#EXTINF:-1 tvg-id="" tvg-name=" دانتيل 13" tvg-logo="logo="https://img.7lm.online/thumbs/188ce16e-1.jpg" group-title="دانتيل"
 http://conv.alarab.com/media/videos/h264/158940_720p.mp4
-#EXTINF:0 type="video" channelId="-1" group="دانتيل"logo="https://img.7lm.online/thumbs/188ce16e-1.jpg", 14
+#EXTINF:-1 tvg-id="" tvg-name=" دانتيل 14" tvg-logo="logo="https://img.7lm.online/thumbs/188ce16e-1.jpg" group-title="دانتيل"
 http://conv.alarab.com/media/videos/h264/158976_720p.mp4
-#EXTINF:0 type="video" channelId="-1" group="دانتيل"logo="https://img.7lm.online/thumbs/188ce16e-1.jpg", 15
+#EXTINF:-1 tvg-id="" tvg-name=" دانتيل 15" tvg-logo="logo="https://img.7lm.online/thumbs/188ce16e-1.jpg" group-title="دانتيل"
 http://conv.alarab.com/media/videos/h264/158999_720p.mp4
-#EXTINF:0 type="video" channelId="-1" group="دانتيل"logo="https://img.7lm.online/thumbs/188ce16e-1.jpg", 16
+#EXTINF:-1 tvg-id="" tvg-name=" دانتيل 16" tvg-logo="logo="https://img.7lm.online/thumbs/188ce16e-1.jpg" group-title="دانتيل"
 http://conv.alarab.com/media/videos/h264/159083_720p.mp4
-#EXTINF:0 type="video" channelId="-1" group="دانتيل"logo="https://img.7lm.online/thumbs/188ce16e-1.jpg", 17
+#EXTINF:-1 tvg-id="" tvg-name=" دانتيل 17" tvg-logo="logo="https://img.7lm.online/thumbs/188ce16e-1.jpg" group-title="دانتيل"
 http://conv.alarab.com/media/videos/h264/159085_720p.mp4
-#EXTINF:0 type="video" channelId="-1" group="دانتيل"logo="https://img.7lm.online/thumbs/188ce16e-1.jpg", 18
+#EXTINF:-1 tvg-id="" tvg-name=" دانتيل 18" tvg-logo="logo="https://img.7lm.online/thumbs/188ce16e-1.jpg" group-title="دانتيل"
 http://conv.alarab.com/media/videos/h264/159110_720p.mp4
-#EXTINF:0 type="video" channelId="-1" group="دانتيل"logo="https://img.7lm.online/thumbs/188ce16e-1.jpg", 19
+#EXTINF:-1 tvg-id="" tvg-name=" دانتيل 19" tvg-logo="logo="https://img.7lm.online/thumbs/188ce16e-1.jpg" group-title="دانتيل"
 http://conv.alarab.com/media/videos/h264/159137_720p.mp4
-#EXTINF:0 type="video" channelId="-1" group="دانتيل"logo="https://img.7lm.online/thumbs/188ce16e-1.jpg", 20
+#EXTINF:-1 tvg-id="" tvg-name=" دانتيل 20" tvg-logo="logo="https://img.7lm.online/thumbs/188ce16e-1.jpg" group-title="دانتيل"
 http://conv.alarab.com/media/videos/h264/159167_720p.mp4
 
 
-
-
 --------------------------------قوت القلوب-----------------------------------------
-#EXTINF:0 type="video" channelId="-1" group="قوت القلوب"logo="https://media.elcinema.com/uploads/_315x420_3cc946430158edfa09463f8487cf51041012c850c02e7270901ca763d14be53e.jpg", 1
+
+#EXTINF:-1 tvg-id="" tvg-name=" قوت القلوب 01" tvg-logo="https://media.elcinema.com/uploads/_315x420_3cc946430158edfa09463f8487cf51041012c850c02e7270901ca763d14be53e.jpg" group-title="قوت القلوب 2"
 http://conv.alarab.com/media/videos/h264/158902_720p.mp4
-#EXTINF:0 type="video" channelId="-1" group="قوت القلوب"logo="https://media.elcinema.com/uploads/_315x420_3cc946430158edfa09463f8487cf51041012c850c02e7270901ca763d14be53e.jpg", 2
+#EXTINF:-1 tvg-id="" tvg-name=" قوت القلوب 02" tvg-logo="https://media.elcinema.com/uploads/_315x420_3cc946430158edfa09463f8487cf51041012c850c02e7270901ca763d14be53e.jpg" group-title="قوت القلوب 2"
 http://conv.alarab.com/media/videos/h264/158918_720p.mp4
-#EXTINF:0 type="video" channelId="-1" group="قوت القلوب"logo="https://media.elcinema.com/uploads/_315x420_3cc946430158edfa09463f8487cf51041012c850c02e7270901ca763d14be53e.jpg", 3
+#EXTINF:-1 tvg-id="" tvg-name=" قوت القلوب 03" tvg-logo="https://media.elcinema.com/uploads/_315x420_3cc946430158edfa09463f8487cf51041012c850c02e7270901ca763d14be53e.jpg" group-title="قوت القلوب 2"
 http://conv.alarab.com/media/videos/h264/158928_720p.mp4
-#EXTINF:0 type="video" channelId="-1" group="قوت القلوب"logo="https://media.elcinema.com/uploads/_315x420_3cc946430158edfa09463f8487cf51041012c850c02e7270901ca763d14be53e.jpg", 4
+#EXTINF:-1 tvg-id="" tvg-name=" قوت القلوب 04" tvg-logo="https://media.elcinema.com/uploads/_315x420_3cc946430158edfa09463f8487cf51041012c850c02e7270901ca763d14be53e.jpg" group-title="قوت القلوب 2"
 http://conv.alarab.com/media/videos/h264/158967_720p.mp4
-#EXTINF:0 type="video" channelId="-1" group="قوت القلوب"logo="https://media.elcinema.com/uploads/_315x420_3cc946430158edfa09463f8487cf51041012c850c02e7270901ca763d14be53e.jpg", 5
+#EXTINF:-1 tvg-id="" tvg-name=" قوت القلوب 05" tvg-logo="https://media.elcinema.com/uploads/_315x420_3cc946430158edfa09463f8487cf51041012c850c02e7270901ca763d14be53e.jpg" group-title="قوت القلوب 2"
 http://conv.alarab.com/media/videos/h264/158989_720p.mp4
-#EXTINF:0 type="video" channelId="-1" group="قوت القلوب"logo="https://media.elcinema.com/uploads/_315x420_3cc946430158edfa09463f8487cf51041012c850c02e7270901ca763d14be53e.jpg", 6
+#EXTINF:-1 tvg-id="" tvg-name=" قوت القلوب 06" tvg-logo="https://media.elcinema.com/uploads/_315x420_3cc946430158edfa09463f8487cf51041012c850c02e7270901ca763d14be53e.jpg" group-title="قوت القلوب 2"
 http://conv.alarab.com/media/videos/h264/159073_720p.mp4
-#EXTINF:0 type="video" channelId="-1" group="قوت القلوب"logo="https://media.elcinema.com/uploads/_315x420_3cc946430158edfa09463f8487cf51041012c850c02e7270901ca763d14be53e.jpg", 7
+#EXTINF:-1 tvg-id="" tvg-name=" قوت القلوب 07" tvg-logo="https://media.elcinema.com/uploads/_315x420_3cc946430158edfa09463f8487cf51041012c850c02e7270901ca763d14be53e.jpg" group-title="قوت القلوب 2"
 http://conv.alarab.com/media/videos/h264/159072_720p.mp4
-#EXTINF:0 type="video" channelId="-1" group="قوت القلوب"logo="https://media.elcinema.com/uploads/_315x420_3cc946430158edfa09463f8487cf51041012c850c02e7270901ca763d14be53e.jpg", 8
+#EXTINF:-1 tvg-id="" tvg-name=" قوت القلوب 08" tvg-logo="https://media.elcinema.com/uploads/_315x420_3cc946430158edfa09463f8487cf51041012c850c02e7270901ca763d14be53e.jpg" group-title="قوت القلوب 2"
 http://conv.alarab.com/media/videos/h264/159106_720p.mp4
-#EXTINF:0 type="video" channelId="-1" group="قوت القلوب"logo="https://media.elcinema.com/uploads/_315x420_3cc946430158edfa09463f8487cf51041012c850c02e7270901ca763d14be53e.jpg", 9
-http://conv.alarab.com/media/videos/h264/159129_720p.mp4
-#EXTINF:0 type="video" channelId="-1" group="قوت القلوب"logo="https://media.elcinema.com/uploads/_315x420_3cc946430158edfa09463f8487cf51041012c850c02e7270901ca763d14be53e.jpg", 10
-http://conv.alarab.com/media/videos/h264/159156_720p.mp4
 
 
 
