@@ -54,8 +54,8 @@ http://conv.alarab.com/media/videos/h264/159236_720p.mp4
 http://conv.alarab.com/media/videos/h264/159241_720p.mp4
 #EXTINF:-1 tvg-id="" tvg-name=" دانتيل 23" tvg-logo="https://img.7lm.online/thumbs/188ce16e-1.jpg" group-title="دانتيل"
 http://conv.alarab.com/media/videos/h264/159265_720p.mp4
---------------------------------قوت القلوب-----------------------------------------
 
+--------------------------------قوت القلوب-----------------------------------------
 #EXTINF:-1 tvg-id="" tvg-name=" قوت القلوب 01" tvg-logo="https://media.elcinema.com/uploads/_315x420_3cc946430158edfa09463f8487cf51041012c850c02e7270901ca763d14be53e.jpg" group-title="قوت القلوب 2"
 http://conv.alarab.com/media/videos/h264/158902_720p.mp4
 #EXTINF:-1 tvg-id="" tvg-name=" قوت القلوب 02" tvg-logo="https://media.elcinema.com/uploads/_315x420_3cc946430158edfa09463f8487cf51041012c850c02e7270901ca763d14be53e.jpg" group-title="قوت القلوب 2"
@@ -85,7 +85,6 @@ http://conv.alarab.com/media/videos/h264/159263_720p.mp4
 
 
 --------------------------------------------------------الوجه الاخر--------------
-
 #EXTINF:-1 tvg-id="" tvg-name=" الوجه الأخر 01" tvg-logo="https://video.itfaragtv.com/uploads/thumbs/467980d37-1.jpg" group-title="الوجه الأخر"
 http://conv.alarab.com/media/videos/h264/158895_720p.mp4
 #EXTINF:-1 tvg-id="" tvg-name=" الوجه الأخر 02" tvg-logo="https://video.itfaragtv.com/uploads/thumbs/467980d37-1.jpg" group-title="الوجه الأخر"
@@ -130,6 +129,13 @@ http://conv.alarab.com/media/videos/h264/159257_720p.mp4
 http://conv.alarab.com/media/videos/h264/159256_720p.mp4
 #EXTINF:-1 tvg-id="" tvg-name=" إبنة السفير2 09" tvg-logo="https://m.alwafd.news/images/news/9162c5522a7af5343817af994566ec24.jpg" group-title="إبنة السفير2"
 http://conv.alarab.com/media/videos/h264/159260_720p.mp4
+
+-------------------------------مسلسل علي رضا-----------------------
+#EXTINF:-1 tvg-id="" tvg-name=" علي رضا 01" tvg-logo="https://3sk.tube/wp-content/uploads/2020/09/series.alotol.online.season.1.jpg" group-title="علي رضا"
+http://conv.alarab.com/media/videos/h264/159079_720p.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" علي رضا 02" tvg-logo="https://3sk.tube/wp-content/uploads/2020/09/series.alotol.online.season.1.jpg" group-title="علي رضا"
+http://conv.alarab.com/media/videos/h264/159237_720p.mp4
+
 
 
 
