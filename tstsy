@@ -1,0 +1,59 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="iptvtools_1" tvg-logo="",iptvtools_1
+ https://mysat-live.ercdn.net/syriadrama/syriadrama.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-name="iptvtools_2" tvg-logo="",iptvtools_2
+ https://mysat-live.ercdn.net/syriatv/syriatv.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-name="iptvtools_3" tvg-logo="",iptvtools_3
+ https://mysat-live.ercdn.net/lanatv/lanatv.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-name="iptvtools_4" tvg-logo="",iptvtools_4
+ http://172.105.89.215:5080/LiveApp/streams/270434322502251479308014.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-name="iptvtools_5" tvg-logo="",iptvtools_5
+ http://streaming.tootvs.com:1935/8010/8010/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-name="iptvtools_6" tvg-logo="",iptvtools_6
+ https://mysat-live.ercdn.net/lanatv/lanatv.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-name="iptvtools_7" tvg-logo="",iptvtools_7
+ http://82.137.248.16:1935/Nour/stream31122019/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-name="iptvtools_8" tvg-logo="",iptvtools_8
+ http://82.137.248.16:1935/Sat/stream31122019/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-name="iptvtools_9" tvg-logo="",iptvtools_9
+ https://mysat-live.ercdn.net/syriadrama/syriadrama.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-name="iptvtools_10" tvg-logo="",iptvtools_10
+ https://mysat-live.ercdn.net/syriatv/syriatv.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-name="iptvtools_11" tvg-logo="",iptvtools_11
+ http://82.137.248.16:1935/Snews/stream31122019/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-name="iptvtools_12" tvg-logo="",iptvtools_12
+ https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatvpublish/syriatv/chunks.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-name="iptvtools_13" tvg-logo="",iptvtools_13
+ http://185.96.70.242:1935/live/alltv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-name="iptvtools_14" tvg-logo="",iptvtools_14
+ http://172.105.89.215:5080/LiveApp/streams/270434322502251479308014.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-name="iptvtools_15" tvg-logo="",iptvtools_15
+ http://streaming.tootvs.com:1935/8010/8010/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-name="iptvtools_16" tvg-logo="",iptvtools_16
+ https://mysat-live.ercdn.net/lanatv/lanatv.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-name="iptvtools_17" tvg-logo="",iptvtools_17
+ http://82.137.248.16:1935/Nour/stream31122019/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-name="iptvtools_18" tvg-logo="",iptvtools_18
+ http://82.137.248.16:1935/Sat/stream31122019/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-name="iptvtools_19" tvg-logo="",iptvtools_19
+ https://mysat-live.ercdn.net/syriadrama/syriadrama.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-name="iptvtools_20" tvg-logo="",iptvtools_20
+ https://mysat-live.ercdn.net/syriatv/syriatv.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-name="iptvtools_21" tvg-logo="",iptvtools_21
+ http://82.137.248.16:1935/Snews/stream31122019/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-name="iptvtools_22" tvg-logo="",iptvtools_22
+ https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatvpublish/syriatv/chunks.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-name="iptvtools_23" tvg-logo="",iptvtools_23
+ http://185.96.70.242:1935/live/alltv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-name="iptvtools_24" tvg-logo="",iptvtools_24
+ https://mysat-live.ercdn.net/lanatv/lanatv.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-name="iptvtools_25" tvg-logo="",iptvtools_25
+ https://mysat-live.ercdn.net/syriadrama/syriadrama.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-name="iptvtools_26" tvg-logo="",iptvtools_26
+ https://mysat-live.ercdn.net/syriatv/syriatv.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-name="iptvtools_27" tvg-logo="",iptvtools_27
+ https://mysat-live.ercdn.net/lanatv/lanatv.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-name="iptvtools_28" tvg-logo="",iptvtools_28
+ https://mysat-live.ercdn.net/syriadrama/syriadrama.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-name="iptvtools_29" tvg-logo="",iptvtools_29
+ https://mysat-live.ercdn.net/syriatv/syriatv.m3u8?checkedby:iptvcat.com
