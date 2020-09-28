@@ -61,6 +61,10 @@ http://conv.alarab.com/media/videos/h264/159265_720p.mp4
 http://conv.alarab.com/media/videos/h264/159274_720p.mp4
 #EXTINF:-1 tvg-id="" tvg-name=" دانتيل 25" tvg-logo="https://img.7lm.online/thumbs/188ce16e-1.jpg" group-title="دانتيل",25
 http://conv.alarab.com/media/videos/h264/159300_720p.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" دانتيل 26" tvg-logo="https://img.7lm.online/thumbs/188ce16e-1.jpg" group-title="دانتيل",26
+http://conv.alarab.com/media/videos/h264/159381_720p.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" دانتيل 27" tvg-logo="https://img.7lm.online/thumbs/188ce16e-1.jpg" group-title="دانتيل",27
+http://conv.alarab.com/media/videos/h264/159371_720p.mp4
 
 
 --------------------------------قوت القلوب-----------------------------------------
@@ -268,10 +272,12 @@ https://static.videezy.com/system/resources/previews/000/051/767/original/200717
 #EXTINF
 
 -------------------------------مسلسل علي رضا-----------------------
-#EXTINF:-1 tvg-id="" tvg-name=" علي رضا 01" tvg-logo="https://3sk.tube/wp-content/uploads/2020/09/series.alotol.online.season.1.jpg" group-title="علي رضا",1
+#EXTINF:-1 tvg-id=" tvg-name=""علي رضا S1E1"tvg-logo="https://3sk.tube/wp-content/uploads/2020/09/series.alotol.online.season.1.jpg"group-title="علي رضا",علي رضا S1E1
 http://conv.alarab.com/media/videos/h264/159079_720p.mp4
-#EXTINF:-1 tvg-id="" tvg-name=" علي رضا 02" tvg-logo="https://3sk.tube/wp-content/uploads/2020/09/series.alotol.online.season.1.jpg" group-title="علي رضا",2
+#EXTINF:-1 tvg-id=" tvg-name=""علي رضا S1E2"tvg-logo="https://3sk.tube/wp-content/uploads/2020/09/series.alotol.online.season.1.jpg"group-title="علي رضا",علي رضا S1E2
 http://conv.alarab.com/media/videos/h264/159237_720p.mp4
+#EXTINF:-1 tvg-id=" tvg-name=""علي رضا S1E2"tvg-logo="https://3sk.tube/wp-content/uploads/2020/09/series.alotol.online.season.1.jpg"group-title="علي رضا",علي رضا S1E2
+http://conv.alarab.com/media/videos/h264/159379_720p.mp4
 
 --------------------------------------من الآخر-------------------------------------------------
 #EXTINF:-1 tvg-id=" tvg-name=""من الآخر S1E1"tvg-logo="https://cima4film.live/wp-content/uploads/2020/09/%D9%85%D8%B3%D9%84%D8%B3%D9%84-%D9%85%D9%86-%D8%A7%D9%84%D8%A7%D8%AE%D8%B1.jpg"group-title="من الآخر",من الآخر S1E1
