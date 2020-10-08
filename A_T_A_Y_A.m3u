@@ -1,7 +1,7 @@
 #EXTM3U
 -------------------------------------- 1 ------------------------
 #EXTINF:-1 tvg-id="tvg-name=""عطية S1E1" tvg-logo="https://pbs.twimg.com/media/ENTrX4zW4AEc3Xz.jpg"group-title="عطية",عطية S1E1
-https://s37.vidshar.net/hls/,pdomounmksm4f4kmlgvchyteprtj5yya7u5tfpyvpefjr6bhtirsjkjdapwa,.urlset/master.m3u8
+http://192.168.1.103:81/ataya1-1.mp4
 #EXTINF:-1 tvg-id="tvg-name=""عطية S1E2" tvg-logo="https://pbs.twimg.com/media/ENTrX4zW4AEc3Xz.jpg"group-title="عطية",عطية S1E2
 https://s39.vidshar.net/hls/,pdomku5mksm4f4kmlgvch5d6p2sbj5elnnimksgtnkjpezdh2clllfri7jfa,.urlset/master.m3u8
 #EXTINF:-1 tvg-id="tvg-name=""عطية S1E3" tvg-logo="https://pbs.twimg.com/media/ENTrX4zW4AEc3Xz.jpg"group-title="عطية",عطية S1E3
