@@ -2,3 +2,5 @@
 
 #EXTINF:-1 tvg-id="tvg-name="من OK"
 https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=c40f3fe66e2e5425cbeaa4de1f79bf9bb1279c1c&st.uid=579098039426&st.mq=3&st.mvid=1875927042615&st.ip=85.144.185.78&st.dla=on&st.exp=1602537330567&st.hls=on&_prevCmd=movieLayer&tkn=5177
+#EXTINF:-1 tvg-id="tvg-name="اسود فاتح من dialymotion 11"
+https://www.dailymotion.com/cdn/manifest/video/x7wozbx.m3u8?sec=9KTlhTTDGjPQLVxGZNGs8vNGJeiy1Wfp9tMUm1eKLbO6riIGWGTvJRkk5ia_ACj0
