@@ -1,9 +1,5 @@
 #EXTM3U
 
---------------------------------------عروس بيروت-------------------------------------------------
-
-#EXTINF:-1 tvg-id="tvg-name=""عروس بيروت S2E1" tvg-logo="https://algamal.net/UserFiles/News/2019/10/31/47394.jpg"group-title="عروس بيروت",عروس بيروت S2E1
-https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=8551ae8c4705d5503b7ba99c0c5ccdbc35e725c2&st.uid=579098039426&st.mq=1&st.mvid=1902535051845&st.ip=85.144.185.78&st.dla=on&st.exp=1602624155033&st.hls=on&_prevCmd=movieLayer&tkn=227
  
 --------------------------------------The Voice SENIOR-------------------------------------------------
 #EXTINF:-1 tvg-id="tvg-name=""The Voice SENIOR SE1" tvg-logo="https://www.annahar.com/ContentFiles/15377Image1-1180x677_d.jpg?version=103554"group-title="The Voice SENIOR",The Voice SENIOR SE1
@@ -18,6 +14,43 @@ http://conv.alarab.com/media/videos/h264/159596_720p.mp4
 #EXTINF:-1 tvg-id="tvg-name=""The Voice SENIOR SE8" tvg-logo="https://www.annahar.com/ContentFiles/15377Image1-1180x677_d.jpg?version=103554"group-title="The Voice SENIOR",The Voice SENIOR SE8
 #EXTINF:-1 tvg-id="tvg-name=""The Voice SENIOR SE9" tvg-logo="https://www.annahar.com/ContentFiles/15377Image1-1180x677_d.jpg?version=103554"group-title="The Voice SENIOR",The Voice SENIOR SE9
 #EXTINF
+
+--------------------------------------عروس بيروت-------------------------------------------------
+
+#EXTINF:-1 tvg-id="tvg-name=""عروس بيروت S2E1" tvg-logo="https://algamal.net/UserFiles/News/2019/10/31/47394.jpg"group-title="عروس بيروت",عروس بيروت S2E1
+https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=8551ae8c4705d5503b7ba99c0c5ccdbc35e725c2&st.uid=579098039426&st.mq=1&st.mvid=1902535051845&st.ip=85.144.185.78&st.dla=on&st.exp=1602624155033&st.hls=on&_prevCmd=movieLayer&tkn=227
+#EXTINF
+#EXTINF:-1 tvg-id="tvg-name=""عروس بيروت S2E2" tvg-logo="https://algamal.net/UserFiles/News/2019/10/31/47394.jpg"group-title="عروس بيروت",عروس بيروت S2E2
+#EXTINF:-1 tvg-id="tvg-name=""عروس بيروت S2E3" tvg-logo="https://algamal.net/UserFiles/News/2019/10/31/47394.jpg"group-title="عروس بيروت",عروس بيروت S2E3
+#EXTINF:-1 tvg-id="tvg-name=""عروس بيروت S2E4" tvg-logo="https://algamal.net/UserFiles/News/2019/10/31/47394.jpg"group-title="عروس بيروت",عروس بيروت S2E4
+#EXTINF:-1 tvg-id="tvg-name=""عروس بيروت S2E5" tvg-logo="https://algamal.net/UserFiles/News/2019/10/31/47394.jpg"group-title="عروس بيروت",عروس بيروت S2E5
+#EXTINF:-1 tvg-id="tvg-name=""عروس بيروت S2E6" tvg-logo="https://algamal.net/UserFiles/News/2019/10/31/47394.jpg"group-title="عروس بيروت",عروس بيروت S2E6
+#EXTINF:-1 tvg-id="tvg-name=""عروس بيروت S2E7" tvg-logo="https://algamal.net/UserFiles/News/2019/10/31/47394.jpg"group-title="عروس بيروت",عروس بيروت S2E7
+#EXTINF:-1 tvg-id="tvg-name=""عروس بيروت S2E8" tvg-logo="https://algamal.net/UserFiles/News/2019/10/31/47394.jpg"group-title="عروس بيروت",عروس بيروت S2E8
+#EXTINF:-1 tvg-id="tvg-name=""عروس بيروت S2E9" tvg-logo="https://algamal.net/UserFiles/News/2019/10/31/47394.jpg"group-title="عروس بيروت",عروس بيروت S2E9
+#EXTINF:-1 tvg-id="tvg-name=""عروس بيروت S2E10" tvg-logo="https://algamal.net/UserFiles/News/2019/10/31/47394.jpg"group-title="عروس بيروت",عروس بيروت S2E10
+#EXTINF:-1 tvg-id="tvg-name=""عروس بيروت S2E11" tvg-logo="https://algamal.net/UserFiles/News/2019/10/31/47394.jpg"group-title="عروس بيروت",عروس بيروت S2E11
+#EXTINF:-1 tvg-id="tvg-name=""عروس بيروت S2E12" tvg-logo="https://algamal.net/UserFiles/News/2019/10/31/47394.jpg"group-title="عروس بيروت",عروس بيروت S2E12
+#EXTINF:-1 tvg-id="tvg-name=""عروس بيروت S2E13" tvg-logo="https://algamal.net/UserFiles/News/2019/10/31/47394.jpg"group-title="عروس بيروت",عروس بيروت S2E13
+#EXTINF:-1 tvg-id="tvg-name=""عروس بيروت S2E14" tvg-logo="https://algamal.net/UserFiles/News/2019/10/31/47394.jpg"group-title="عروس بيروت",عروس بيروت S2E14
+#EXTINF:-1 tvg-id="tvg-name=""عروس بيروت S2E15" tvg-logo="https://algamal.net/UserFiles/News/2019/10/31/47394.jpg"group-title="عروس بيروت",عروس بيروت S2E15
+#EXTINF:-1 tvg-id="tvg-name=""عروس بيروت S2E16" tvg-logo="https://algamal.net/UserFiles/News/2019/10/31/47394.jpg"group-title="عروس بيروت",عروس بيروت S2E16
+#EXTINF:-1 tvg-id="tvg-name=""عروس بيروت S2E17" tvg-logo="https://algamal.net/UserFiles/News/2019/10/31/47394.jpg"group-title="عروس بيروت",عروس بيروت S2E17
+#EXTINF:-1 tvg-id="tvg-name=""عروس بيروت S2E18" tvg-logo="https://algamal.net/UserFiles/News/2019/10/31/47394.jpg"group-title="عروس بيروت",عروس بيروت S2E18
+#EXTINF:-1 tvg-id="tvg-name=""عروس بيروت S2E19" tvg-logo="https://algamal.net/UserFiles/News/2019/10/31/47394.jpg"group-title="عروس بيروت",عروس بيروت S2E19
+#EXTINF:-1 tvg-id="tvg-name=""عروس بيروت S2E20" tvg-logo="https://algamal.net/UserFiles/News/2019/10/31/47394.jpg"group-title="عروس بيروت",عروس بيروت S2E20
+#EXTINF:-1 tvg-id="tvg-name=""عروس بيروت S2E21" tvg-logo="https://algamal.net/UserFiles/News/2019/10/31/47394.jpg"group-title="عروس بيروت",عروس بيروت S2E21
+#EXTINF:-1 tvg-id="tvg-name=""عروس بيروت S2E22" tvg-logo="https://algamal.net/UserFiles/News/2019/10/31/47394.jpg"group-title="عروس بيروت",عروس بيروت S2E22
+#EXTINF:-1 tvg-id="tvg-name=""عروس بيروت S2E23" tvg-logo="https://algamal.net/UserFiles/News/2019/10/31/47394.jpg"group-title="عروس بيروت",عروس بيروت S2E23
+#EXTINF:-1 tvg-id="tvg-name=""عروس بيروت S2E24" tvg-logo="https://algamal.net/UserFiles/News/2019/10/31/47394.jpg"group-title="عروس بيروت",عروس بيروت S2E24
+#EXTINF:-1 tvg-id="tvg-name=""عروس بيروت S2E25" tvg-logo="https://algamal.net/UserFiles/News/2019/10/31/47394.jpg"group-title="عروس بيروت",عروس بيروت S2E25
+#EXTINF:-1 tvg-id="tvg-name=""عروس بيروت S2E26" tvg-logo="https://algamal.net/UserFiles/News/2019/10/31/47394.jpg"group-title="عروس بيروت",عروس بيروت S2E26
+#EXTINF:-1 tvg-id="tvg-name=""عروس بيروت S2E27" tvg-logo="https://algamal.net/UserFiles/News/2019/10/31/47394.jpg"group-title="عروس بيروت",عروس بيروت S2E27
+#EXTINF:-1 tvg-id="tvg-name=""عروس بيروت S2E28" tvg-logo="https://algamal.net/UserFiles/News/2019/10/31/47394.jpg"group-title="عروس بيروت",عروس بيروت S2E28
+#EXTINF:-1 tvg-id="tvg-name=""عروس بيروت S2E29" tvg-logo="https://algamal.net/UserFiles/News/2019/10/31/47394.jpg"group-title="عروس بيروت",عروس بيروت S2E29
+#EXTINF:-1 tvg-id="tvg-name=""عروس بيروت S2E30" tvg-logo="https://algamal.net/UserFiles/News/2019/10/31/47394.jpg"group-title="عروس بيروت",عروس بيروت S2E30
+#EXTINF:-1 tvg-id="tvg-name=""عروس بيروت S2E31" tvg-logo="https://algamal.net/UserFiles/News/2019/10/31/47394.jpg"group-title="عروس بيروت",عروس بيروت S2E31
+
 -----------مسلسل الحفرة4 ----------------
 #EXTINF:-1 tvg-id="tvg-name=""الحفرة TUR S4E1" tvg-logo="https://1.bp.blogspot.com/-YtZY-3EJLb8/Wt-56QHv_nI/AAAAAAAAABw/wbJw4sEdCOk-lbaD7LXev7mczYTQW3nYwCLcBGAs/s640/%25D9%2585%25D8%25B3%25D9%2584%25D8%25B3%25D9%2584%2B%25D8%25A7%25D9%2584%25D8%25AD%25D9%2581%25D8%25B1%25D8%25A9%2BCukur-min.png"group-title="الحفرة TUR",الحفرة TUR S4E1
 http://conv.alarab.com/media/videos/h264/158933_720p.mp4
