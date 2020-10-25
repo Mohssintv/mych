@@ -91,13 +91,13 @@ https://kwmedia.hibridmedia.com/kwmedia/kwtv2_dabr/kwmedia/kwtv2_720p/chunks.m3u
 https://kwmedia.hibridmedia.com/kwmedia/kwtvarabi_dabr/kwmedia/kwtvarabi_720p/chunks.m3u8
 
 ---------------------------------------------------------
-#EXTINF:-1  group-title="Kaicer 🃏🃏",AR: ART Aflam 1
+#EXTINF:-1  group-title="ART",AR: ART Aflam 1
 http://iptv.allkaicerteam.com:8080/kaicerteamapp/BpnTY4qdPP/997
-#EXTINF:-1  group-title="Kaicer 🃏🃏",AR: ART Aflam  2
+#EXTINF:-1  group-title="ART",AR: ART Aflam  2
 http://iptv.allkaicerteam.com:8080/kaicerteamapp/BpnTY4qdPP/102
-#EXTINF:-1  group-title="Kaicer 🃏🃏",AR: ART Cinema
+#EXTINF:-1  group-title="ART",AR: ART Cinema
 http://iptv.allkaicerteam.com:8080/kaicerteamapp/BpnTY4qdPP/103
-#EXTINF:-1  group-title="Kaicer 🃏🃏",AR: ART Hekayat 1
+#EXTINF:-1  group-title="ART",AR: ART Hekayat 1
 http://iptv.allkaicerteam.com:8080/kaicerteamapp/BpnTY4qdPP/104
-#EXTINF:-1  group-title="Kaicer 🃏🃏",AR: ART Hekayat 2
+#EXTINF:-1  group-title="ART",AR: ART Hekayat 2
 http://iptv.allkaicerteam.com:8080/kaicerteamapp/BpnTY4qdPP/105
