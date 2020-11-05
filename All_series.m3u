@@ -3,6 +3,7 @@
 --------------------------------------فلم خط الدم-------------------------------------------------
 #EXTINF:-1 tvg-id="tvg-name=""فلم خط الدم" tvg-logo="https://mediaaws.almasryalyoum.com/news/large/2020/10/31/1353509_0.jpg"group-title="فلم خط الدم",فلم خط الدم
 http://conv.alarab.com/media/videos/h264/160178_480p.mp4
+
 --------------------------------------الهيبة (الرد)-------------------------------------------------
 #EXTINF:-1 tvg-id="tvg-name=""الهيبة (الرد) S4E1" tvg-logo="https://ww.eg1.shahidmosalsalat.net/uploads/thumbs/1a0412cf4-1.jpg"group-title="الهيبة (الرد)",الهيبة (الرد) S4E1
 https://www28.uptostream.com/2lvdutq58cc/720/0/video.mp4
@@ -40,18 +41,7 @@ http://conv.alarab.com/media/videos/h264/160187_720p.mp4
 #EXTINF:-1 tvg-id="tvg-name=""الهيبة (الرد) S4E29" tvg-logo="https://ww.eg1.shahidmosalsalat.net/uploads/thumbs/1a0412cf4-1.jpg"group-title="الهيبة (الرد)",الهيبة (الرد) S4E29
 #EXTINF:-1 tvg-id="tvg-name=""الهيبة (الرد) S4E30" tvg-logo="https://ww.eg1.shahidmosalsalat.net/uploads/thumbs/1a0412cf4-1.jpg"group-title="الهيبة (الرد)",الهيبة (الرد) S4E30
 #EXTINF
---------------------------------------طبق الاصل-------------------------------------------------
-#EXTINF:-1 tvg-id="tvg-name=""طبق الاصل S1E1" tvg-logo="https://n300.tv/IMGCenter/SeriesImage/MainIMG/10122020102335PM2Untitled(42).jpg"group-title="طبق الاصل",طبق الاصل S1E1
-https://www89.uptostream.com/2hm38xhd571/480/0/video.mp4
-#EXTINF:-1 tvg-id="tvg-name=""طبق الاصل S1E2" tvg-logo="https://n300.tv/IMGCenter/SeriesImage/MainIMG/10122020102335PM2Untitled(42).jpg"group-title="طبق الاصل",طبق الاصل S1E2
-https://vd281.mycdn.me/expires/1602964741893/srcIp/85.144.185.78/srcAg/CHROME_ANDROID_TABLET/ms/185.226.52.31/type/3/sig/6q8O8ZHOzPc/ct/8/urls/45.136.22.30/clientType/1/id/808253327941/video/
-#EXTINF:-1 tvg-id="tvg-name=""طبق الاصل S1E3" tvg-logo="https://n300.tv/IMGCenter/SeriesImage/MainIMG/10122020102335PM2Untitled(42).jpg"group-title="طبق الاصل",طبق الاصل S1E3
-https://vd188.mycdn.me/expires/1602964806223/srcIp/85.144.185.78/srcAg/CHROME_ANDROID_TABLET/ms/45.136.21.35/type/3/sig/H1WPmHnqfH0/ct/8/urls/185.226.53.27/clientType/1/id/809578400325/video/
-#EXTINF:-1 tvg-id="tvg-name=""طبق الاصل S1E4" tvg-logo="https://n300.tv/IMGCenter/SeriesImage/MainIMG/10122020102335PM2Untitled(42).jpg"group-title="طبق الاصل",طبق الاصل S1E4
-https://vd338.mycdn.me/expires/1602964875997/srcIp/85.144.185.78/srcAg/CHROME_ANDROID_TABLET/ms/185.226.52.59/type/3/sig/ABCTpaka6NY/ct/8/urls/45.136.22.12/clientType/1/id/810566945349/video/
-#EXTINF:-1 tvg-id="tvg-name=""طبق الاصل S1E5" tvg-logo="https://n300.tv/IMGCenter/SeriesImage/MainIMG/10122020102335PM2Untitled(42).jpg"group-title="طبق الاصل",طبق الاصل S1E5
-https://vd258.mycdn.me/expires/1602964934834/srcIp/85.144.185.78/srcAg/CHROME_ANDROID_TABLET/ms/185.226.52.8/type/3/sig/Dfqhb6dfnMk/ct/8/urls/45.136.21.32/clientType/1/id/811305798213/video/
- 
+
  
 --------------------------------------The Voice SENIOR-------------------------------------------------
 #EXTINF:-1 tvg-id="tvg-name=""The Voice SENIOR SE1" tvg-logo="https://www.annahar.com/ContentFiles/15377Image1-1180x677_d.jpg?version=103554"group-title="The Voice SENIOR",The Voice SENIOR SE1
@@ -66,7 +56,6 @@ http://conv.alarab.com/media/videos/h264/160126_720p.mp4
 http://conv.alarab.com/media/videos/h264/160202_480p.mp4
 
 --------------------------------------عروس بيروت-------------------------------------------------
-
 #EXTINF:-1 tvg-id="tvg-name=""عروس بيروت S2E1" tvg-logo="https://algamal.net/UserFiles/News/2019/10/31/47394.jpg"group-title="عروس بيروت",عروس بيروت S2E1
 https://www34.uptostream.com/2hk01kq3d0f/480/0/video.mp4
 #EXTINF:-1 tvg-id="tvg-name=""عروس بيروت S2E2" tvg-logo="https://algamal.net/UserFiles/News/2019/10/31/47394.jpg"group-title="عروس بيروت",عروس بيروت S2E2
@@ -832,4 +821,5 @@ http://conv.alarab.com/media/videos/h264/159594_720p.mp4
 --------------------------------------مسلسل دارين-------------------------------------------------
 --------------------------------------بورتريه-------------------------------------------------
 -------------------------------------- 1 عطية------------------------
+--------------------------------------طبق الاصل-------------------------------------------------
 
