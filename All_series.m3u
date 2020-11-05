@@ -39,7 +39,7 @@ http://conv.alarab.com/media/videos/h264/160187_720p.mp4
 #EXTINF:-1 tvg-id="tvg-name=""الهيبة (الرد) S4E28" tvg-logo="https://ww.eg1.shahidmosalsalat.net/uploads/thumbs/1a0412cf4-1.jpg"group-title="الهيبة (الرد)",الهيبة (الرد) S4E28
 #EXTINF:-1 tvg-id="tvg-name=""الهيبة (الرد) S4E29" tvg-logo="https://ww.eg1.shahidmosalsalat.net/uploads/thumbs/1a0412cf4-1.jpg"group-title="الهيبة (الرد)",الهيبة (الرد) S4E29
 #EXTINF:-1 tvg-id="tvg-name=""الهيبة (الرد) S4E30" tvg-logo="https://ww.eg1.shahidmosalsalat.net/uploads/thumbs/1a0412cf4-1.jpg"group-title="الهيبة (الرد)",الهيبة (الرد) S4E30
-#EXTINF"
+#EXTINF
 --------------------------------------طبق الاصل-------------------------------------------------
 #EXTINF:-1 tvg-id="tvg-name=""طبق الاصل S1E1" tvg-logo="https://n300.tv/IMGCenter/SeriesImage/MainIMG/10122020102335PM2Untitled(42).jpg"group-title="طبق الاصل",طبق الاصل S1E1
 https://www89.uptostream.com/2hm38xhd571/480/0/video.mp4
@@ -105,8 +105,7 @@ http://conv.alarab.com/media/videos/h264/160140_720p.mp4
 http://conv.alarab.com/media/videos/h264/160157_720p.mp4
 #EXTINF:-1 tvg-id="tvg-name=""عروس بيروت S2E20" tvg-logo="https://algamal.net/UserFiles/News/2019/10/31/47394.jpg"group-title="عروس بيروت",عروس بيروت S2E20
 http://conv.alarab.com/media/videos/h264/160185_720p.mp4
-#EXTINF
-#EXTINF:-1 tvg-id="tvg-name=""عروس بيروت S2E21" tvg-logo="https://algamal.net/UserFiles/News/2019/10/31/47394.jpg"group-title="عروس بيروت",عروس بيروت S2E21
+"#EXTINF:-1 tvg-id="tvg-name=""عروس بيروت S2E21" tvg-logo="https://algamal.net/UserFiles/News/2019/10/31/47394.jpg"group-title="عروس بيروت",عروس بيروت S2E21
 #EXTINF:-1 tvg-id="tvg-name=""عروس بيروت S2E22" tvg-logo="https://algamal.net/UserFiles/News/2019/10/31/47394.jpg"group-title="عروس بيروت",عروس بيروت S2E22
 #EXTINF:-1 tvg-id="tvg-name=""عروس بيروت S2E23" tvg-logo="https://algamal.net/UserFiles/News/2019/10/31/47394.jpg"group-title="عروس بيروت",عروس بيروت S2E23
 #EXTINF:-1 tvg-id="tvg-name=""عروس بيروت S2E24" tvg-logo="https://algamal.net/UserFiles/News/2019/10/31/47394.jpg"group-title="عروس بيروت",عروس بيروت S2E24
@@ -116,8 +115,7 @@ http://conv.alarab.com/media/videos/h264/160185_720p.mp4
 #EXTINF:-1 tvg-id="tvg-name=""عروس بيروت S2E28" tvg-logo="https://algamal.net/UserFiles/News/2019/10/31/47394.jpg"group-title="عروس بيروت",عروس بيروت S2E28
 #EXTINF:-1 tvg-id="tvg-name=""عروس بيروت S2E29" tvg-logo="https://algamal.net/UserFiles/News/2019/10/31/47394.jpg"group-title="عروس بيروت",عروس بيروت S2E29
 #EXTINF:-1 tvg-id="tvg-name=""عروس بيروت S2E30" tvg-logo="https://algamal.net/UserFiles/News/2019/10/31/47394.jpg"group-title="عروس بيروت",عروس بيروت S2E30
-
-
+#EXTINF
 
 -----------مسلسل الحفرة4 ----------------
 #EXTINF:-1 tvg-id="tvg-name=""الحفرة TUR S4E1" tvg-logo="https://1.bp.blogspot.com/-YtZY-3EJLb8/Wt-56QHv_nI/AAAAAAAAABw/wbJw4sEdCOk-lbaD7LXev7mczYTQW3nYwCLcBGAs/s640/%25D9%2585%25D8%25B3%25D9%2584%25D8%25B3%25D9%2584%2B%25D8%25A7%25D9%2584%25D8%25AD%25D9%2581%25D8%25B1%25D8%25A9%2BCukur-min.png"group-title="الحفرة TUR",الحفرة TUR S4E1
@@ -185,8 +183,8 @@ http://conv.alarab.com/media/videos/h264/160200_720p.mp4
 #EXTINF:-1 tvg-id="tvg-name=""الخائن TUR S1E37" tvg-logo="https://m.brstej.com/uploads/articles/ed387739.jpg"group-title="الخائن TUR",الخائن TUR S1E37
 #EXTINF:-1 tvg-id="tvg-name=""الخائن TUR S1E38" tvg-logo="https://m.brstej.com/uploads/articles/ed387739.jpg"group-title="الخائن TUR",الخائن TUR S1E38
 #EXTINF:-1 tvg-id="tvg-name=""الخائن TUR S1E39" tvg-logo="https://m.brstej.com/uploads/articles/ed387739.jpg"group-title="الخائن TUR",الخائن TUR S1E39
-EXTINF:-1 tvg-id="tvg-name=""الخائن TUR S1E40" tvg-logo="https://m.brstej.com/uploads/articles/ed387739.jpg"group-title="الخائن TUR",الخائن TUR S1E40
-EXTINF"
+#EXTINF:-1 tvg-id="tvg-name=""الخائن TUR S1E40" tvg-logo="https://m.brstej.com/uploads/articles/ed387739.jpg"group-title="الخائن TUR",الخائن TUR S1E40
+#EXTINF
 
 --------------------------------------------------------الوجه الاخر--------------
 #EXTINF:-1 tvg-id="" tvg-name=" الوجه الأخر 01" tvg-logo="https://video.itfaragtv.com/uploads/thumbs/467980d37-1.jpg" group-title="الوجه الأخر",1
@@ -317,7 +315,7 @@ http://conv.alarab.com/media/videos/h264/160193_480p.mp4
 #EXTINF:-1 tvg-id="tvg-name=""ماوراء الطبيعة S1E28" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/6e84d398706807.Y3JvcCw0MzU5LDM0MDksMCww.jpg"group-title="ماوراء الطبيعة",ماوراء الطبيعة S1E28
 #EXTINF:-1 tvg-id="tvg-name=""ماوراء الطبيعة S1E29" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/6e84d398706807.Y3JvcCw0MzU5LDM0MDksMCww.jpg"group-title="ماوراء الطبيعة",ماوراء الطبيعة S1E29
 #EXTINF:-1 tvg-id="tvg-name=""ماوراء الطبيعة S1E30" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/6e84d398706807.Y3JvcCw0MzU5LDM0MDksMCww.jpg"group-title="ماوراء الطبيعة",ماوراء الطبيعة S1E30
-#EXTINF"
+#EXTINF
 
 ------------------------------------------------ابنة السفير2 ------------------------------------------------
 #EXTINF:-1 tvg-id=" tvg-name=""إبنة السفير TUR S2E1"tvg-logo="https://m.alwafd.news/images/news/9162c5522a7af5343817af994566ec24.jpg"group-title="إبنة السفير",إبنة السفير TUR S2E1
@@ -374,7 +372,7 @@ http://conv.alarab.com/media/videos/h264/160132_720p.mp4
 http://conv.alarab.com/media/videos/h264/160133_720p.mp4
 #EXTINF:-1 tvg-id=" tvg-name=""إبنة السفير TUR S2E27"tvg-logo="https://m.alwafd.news/images/news/9162c5522a7af5343817af994566ec24.jpg"group-title="إبنة السفير",إبنة السفير TUR S2E27
 http://conv.alarab.com/media/videos/h264/160134_720p.mp4
-#EXTINF:-1 tvg-id=" tvg-name=""إبنة السفير TUR S2E28"tvg-logo="https://m.alwafd.news/images/news/9162c5522a7af5343817af994566ec24.jpg"group-title="إبنة السفير",إبنة السفير TUR S2E28
+"#EXTINF:-1 tvg-id=" tvg-name=""إبنة السفير TUR S2E28"tvg-logo="https://m.alwafd.news/images/news/9162c5522a7af5343817af994566ec24.jpg"group-title="إبنة السفير",إبنة السفير TUR S2E28
 #EXTINF:-1 tvg-id=" tvg-name=""إبنة السفير TUR S2E29"tvg-logo="https://m.alwafd.news/images/news/9162c5522a7af5343817af994566ec24.jpg"group-title="إبنة السفير",إبنة السفير TUR S2E29
 #EXTINF:-1 tvg-id=" tvg-name=""إبنة السفير TUR S2E30"tvg-logo="https://m.alwafd.news/images/news/9162c5522a7af5343817af994566ec24.jpg"group-title="إبنة السفير",إبنة السفير TUR S2E30
 #EXTINF:-1 tvg-id=" tvg-name=""إبنة السفير TUR S2E31"tvg-logo="https://m.alwafd.news/images/news/9162c5522a7af5343817af994566ec24.jpg"group-title="إبنة السفير",إبنة السفير TUR S2E31
@@ -397,7 +395,7 @@ http://conv.alarab.com/media/videos/h264/159824_720p.mp4
 http://conv.alarab.com/media/videos/h264/159959_720p.mp4
 #EXTINF:-1 tvg-id="tvg-name=""علي رضا TUR S4E8" tvg-logo="https://3sk.tube/wp-content/uploads/2020/09/series.alotol.online.season.1.jpg"group-title="علي رضا TUR",علي رضا TUR S4E8
 http://conv.alarab.com/media/videos/h264/160117_720p.mp4
-#EXTINF:-1 tvg-id="tvg-name=""علي رضا TUR S4E9" tvg-logo="https://3sk.tube/wp-content/uploads/2020/09/series.alotol.online.season.1.jpg"group-title="علي رضا TUR",علي رضا TUR S4E9
+"#EXTINF:-1 tvg-id="tvg-name=""علي رضا TUR S4E9" tvg-logo="https://3sk.tube/wp-content/uploads/2020/09/series.alotol.online.season.1.jpg"group-title="علي رضا TUR",علي رضا TUR S4E9
 #EXTINF:-1 tvg-id="tvg-name=""علي رضا TUR S4E10" tvg-logo="https://3sk.tube/wp-content/uploads/2020/09/series.alotol.online.season.1.jpg"group-title="علي رضا TUR",علي رضا TUR S4E10
 #EXTINF:-1 tvg-id="tvg-name=""علي رضا TUR S4E11" tvg-logo="https://3sk.tube/wp-content/uploads/2020/09/series.alotol.online.season.1.jpg"group-title="علي رضا TUR",علي رضا TUR S4E11
 #EXTINF:-1 tvg-id="tvg-name=""علي رضا TUR S4E12" tvg-logo="https://3sk.tube/wp-content/uploads/2020/09/series.alotol.online.season.1.jpg"group-title="علي رضا TUR",علي رضا TUR S4E12
@@ -440,8 +438,7 @@ http://conv.alarab.com/media/videos/h264/159773_720p.mp4
 http://conv.alarab.com/media/videos/h264/159911_720p.mp4
 #EXTINF:-1 tvg-id="tvg-name=""حياة جديدة TUR S1E9" tvg-logo="https://arab-drama.tv/uploads/thumbs/f49d3bd48-1.jpg"group-title="حياة جديدة TUR",حياة جديدة TUR S1E9
 http://conv.alarab.com/media/videos/h264/153005_720p.mp4
-#EXTINF:-1 tvg-id="tvg-name=""حياة جديدة TUR S1E10" tvg-logo="https://arab-drama.tv/uploads/thumbs/f49d3bd48-1.jpg"group-title="حياة جديدة TUR",حياة جديدة TUR S1E10
-#EXTINF
+"#EXTINF:-1 tvg-id="tvg-name=""حياة جديدة TUR S1E10" tvg-logo="https://arab-drama.tv/uploads/thumbs/f49d3bd48-1.jpg"group-title="حياة جديدة TUR",حياة جديدة TUR S1E10
 #EXTINF:-1 tvg-id="tvg-name=""حياة جديدة TUR S1E11" tvg-logo="https://arab-drama.tv/uploads/thumbs/f49d3bd48-1.jpg"group-title="حياة جديدة TUR",حياة جديدة TUR S1E11
 #EXTINF:-1 tvg-id="tvg-name=""حياة جديدة TUR S1E12" tvg-logo="https://arab-drama.tv/uploads/thumbs/f49d3bd48-1.jpg"group-title="حياة جديدة TUR",حياة جديدة TUR S1E12
 #EXTINF:-1 tvg-id="tvg-name=""حياة جديدة TUR S1E13" tvg-logo="https://arab-drama.tv/uploads/thumbs/f49d3bd48-1.jpg"group-title="حياة جديدة TUR",حياة جديدة TUR S1E13
@@ -583,7 +580,7 @@ http://conv.alarab.com/media/videos/h264/160155_720p.mp4
 #EXTINF:-1 tvg-id=" tvg-name=""اسود فاتح S1E30"tvg-logo="https://w.arblionz.tv/photos/3838/5f6f8b68e622f.jpg"group-title="اسود فاتح",اسود فاتح S1E30
 http://conv.alarab.com/media/videos/h264/160182_720p.mp4
 "#EXTINF:-1 tvg-id=" tvg-name=""اسود فاتح S1E31"tvg-logo="https://w.arblionz.tv/photos/3838/5f6f8b68e622f.jpg"group-title="اسود فاتح",اسود فاتح S1E31
-#EXTINF"
+#EXTINF
 
 --------------------------------------القانون TUR-------------------------------------------------
 #EXTINF:-1 tvg-id="tvg-name=""القانون TUR S1E1" tvg-logo="https://www.video.wataan.com/uploads/2892017-115537PM.gif"group-title="القانون TUR",القانون TUR S1E1
@@ -605,8 +602,7 @@ http://conv.alarab.com/media/videos/h264/159369_720p.mp4
 #EXTINF:-1 tvg-id="tvg-name=""القانون TUR S1E9" tvg-logo="https://www.video.wataan.com/uploads/2892017-115537PM.gif"group-title="القانون TUR",القانون TUR S1E9
 http://conv.alarab.com/media/videos/h264/159610_720p.mp4
 #EXTINF:-1 tvg-id="tvg-name=""القانون TUR S1E10" tvg-logo="https://www.video.wataan.com/uploads/2892017-115537PM.gif"group-title="القانون TUR",القانون TUR S1E10
-#EXTINF
-#EXTINF:-1 tvg-id="tvg-name=""القانون TUR S1E11" tvg-logo="https://www.video.wataan.com/uploads/2892017-115537PM.gif"group-title="القانون TUR",القانون TUR S1E11
+"#EXTINF:-1 tvg-id="tvg-name=""القانون TUR S1E11" tvg-logo="https://www.video.wataan.com/uploads/2892017-115537PM.gif"group-title="القانون TUR",القانون TUR S1E11
 #EXTINF:-1 tvg-id="tvg-name=""القانون TUR S1E12" tvg-logo="https://www.video.wataan.com/uploads/2892017-115537PM.gif"group-title="القانون TUR",القانون TUR S1E12
 #EXTINF:-1 tvg-id="tvg-name=""القانون TUR S1E13" tvg-logo="https://www.video.wataan.com/uploads/2892017-115537PM.gif"group-title="القانون TUR",القانون TUR S1E13
 #EXTINF:-1 tvg-id="tvg-name=""القانون TUR S1E14" tvg-logo="https://www.video.wataan.com/uploads/2892017-115537PM.gif"group-title="القانون TUR",القانون TUR S1E14
