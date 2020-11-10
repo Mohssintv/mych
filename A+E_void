@@ -1,4 +1,8 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id=" TVG-NAME="absd" tvg-logo="https://i.ytimg.com/vi/fTznGVd8nyo/maxresdefault.jpg" GROUP-TITLE="A-move",جمال																									
+#EXTINF:-1 tvg-id=" TVG-NAME="E-move" tvg-logo="https://i.ytimg.com/vi/fTznGVd8nyo/maxresdefault.jpg" group-titl="E-move",665656565																										
+http://conv.alarab.com/media/videos/h264/160178_480p.mp4
+#EXTINF:-1 tvg-id=" TVG-NAME="A-move" tvg-logo="https://i.ytimg.com/vi/fTznGVd8nyo/maxresdefault.jpg" group-titl="A-move",شسسسسس																										
+http://conv.alarab.com/media/videos/h264/160178_480p.mp4
+#EXTINF:-1 tvg-id=" TVG-NAME="Tur-move" tvg-logo="https://i.ytimg.com/vi/fTznGVd8nyo/maxresdefault.jpg" group-titl="Tur-move",ؤيؤيؤيؤيؤؤيؤي																										
 http://conv.alarab.com/media/videos/h264/160178_480p.mp4
