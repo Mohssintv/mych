@@ -1,8 +1,7 @@
 #EXTM3U
-
-#EXTINF:-1 tvg-id="1"tvg-name=""tvg-logo="https://i.ytimg.com/vi/fTznGVd8nyo/maxresdefault.jpg"group-titl="Tur-move"
+#EXTINF:-1 tvg-id="1"tvg-name="effffff" tvg-logo="https://img.karamel.tv/thumbs/98adfd9d-1.jpg"group-title="ee"
 http://conv.alarab.com/media/videos/h264/160178_480p.mp4
-#EXTINF:-1 tvg-id="2"tvg-name=""tvg-logo="https://i.ytimg.com/vi/fTznGVd8nyo/maxresdefault.jpg"group-titl="A-move",ؤيؤيؤيؤيؤؤيؤي
+#EXTINF:-1 tvg-id=""2tvg-name="affffff" tvg-logo="https://img.karamel.tv/thumbs/98adfd9d-1.jpg"group-title="aaa"
 http://conv.alarab.com/media/videos/h264/160178_480p.mp4
-#EXTINF:-1 tvg-id="3"tvg-name=""tvg-logo="https://i.ytimg.com/vi/fTznGVd8nyo/maxresdefault.jpg"group-titl="E-move",oooooo
+#EXTINF:-1 tvg-id="3"tvg-name="tffffff" tvg-logo="https://img.karamel.tv/thumbs/98adfd9d-1.jpg"group-title="tttt"
 http://conv.alarab.com/media/videos/h264/160178_480p.mp4
