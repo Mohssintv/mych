@@ -1,8 +1,10 @@
 #EXTM3U
 
---------------------------------------فلم خط الدم-------------------------------------------------
-#EXTINF:-1 tvg-id="tvg-name=""فلم خط الدم" tvg-logo="https://mediaaws.almasryalyoum.com/news/large/2020/10/31/1353509_0.jpg"group-title="فلم خط الدم",فلم خط الدم
+--------------------------------------الافلام-------------------------------------------------
+#EXTINF:-1 tvg-id="" tvg-name="خط الدم" tvg-logo="https://ww.eg1.shahidmosalsalat.net/uploads/thumbs/5787ae402-1.jpg"group-title="افلام عربية",خط الدم
 http://conv.alarab.com/media/videos/h264/160178_480p.mp4
+#EXTINF:-1 tvg-id="" tvg-name="SPELL_2020" tvg-logo="https://i.ytimg.com/vi/fTznGVd8nyo/maxresdefault.jpg"group-title="أفلام E",SPELL_2020
+http://conv.alarab.com/media/videos/h264/160263_720p.mp4
 
 --------------------------------------الهيبة (الرد)-------------------------------------------------
 #EXTINF:-1 tvg-id="tvg-name=""الهيبة (الرد) S4E1" tvg-logo="https://ww.eg1.shahidmosalsalat.net/uploads/thumbs/1a0412cf4-1.jpg"group-title="الهيبة (الرد)",الهيبة (الرد) S4E1
