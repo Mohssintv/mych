@@ -24,7 +24,7 @@ http://conv.alarab.com/media/videos/h264/160239_720p.mp4
 #EXTINF:-1 tvg-id="tvg-name=""الهيبة (الرد) S4E8" tvg-logo="https://ww.eg1.shahidmosalsalat.net/uploads/thumbs/1a0412cf4-1.jpg"group-title="الهيبة (الرد)",الهيبة (الرد) S4E8
 http://conv.alarab.com/download.php?id=160277&label=720p
 #EXTINF:-1 tvg-id="tvg-name=""الهيبة (الرد) S4E9" tvg-logo="https://ww.eg1.shahidmosalsalat.net/uploads/thumbs/1a0412cf4-1.jpg"group-title="الهيبة (الرد)",الهيبة (الرد) S4E9
-http://turkish.trueiptv.re/Gulf/AlHayba/AlHayba.S04E09.mp4
+http://conv.alarab.com/media/videos/h264/160290_720p.mp4
 #EXTINF:-1 tvg-id="tvg-name=""الهيبة (الرد) S4E10" tvg-logo="https://ww.eg1.shahidmosalsalat.net/uploads/thumbs/1a0412cf4-1.jpg"group-title="الهيبة (الرد)",الهيبة (الرد) S4E10
 http://turkish.trueiptv.re/Gulf/AlHayba/AlHayba.S04E10.mp4
 #EXTINF:-1 tvg-id="tvg-name=""الهيبة (الرد) S4E11" tvg-logo="https://ww.eg1.shahidmosalsalat.net/uploads/thumbs/1a0412cf4-1.jpg"group-title="الهيبة (الرد)",الهيبة (الرد) S4E11
@@ -162,8 +162,9 @@ http://conv.alarab.com/media/videos/h264/160228_720p.mp4
 http://conv.alarab.com/media/videos/h264/160241_720p.mp4
 #EXTINF:-1 tvg-id="tvg-name=""عروس بيروت S2E23" tvg-logo="https://algamal.net/UserFiles/News/2019/10/31/47394.jpg"group-title="عروس بيروت",عروس بيروت S2E23
 http://conv.alarab.com/media/videos/h264/160278_720p.mp4
-"#EXTINF:-1 tvg-id="tvg-name=""عروس بيروت S2E24" tvg-logo="https://algamal.net/UserFiles/News/2019/10/31/47394.jpg"group-title="عروس بيروت",عروس بيروت S2E24
-#EXTINF:-1 tvg-id="tvg-name=""عروس بيروت S2E25" tvg-logo="https://algamal.net/UserFiles/News/2019/10/31/47394.jpg"group-title="عروس بيروت",عروس بيروت S2E25
+#EXTINF:-1 tvg-id="tvg-name=""عروس بيروت S2E24" tvg-logo="https://algamal.net/UserFiles/News/2019/10/31/47394.jpg"group-title="عروس بيروت",عروس بيروت S2E24
+http://conv.alarab.com/media/videos/h264/160289_720p.mp4
+"#EXTINF:-1 tvg-id="tvg-name=""عروس بيروت S2E25" tvg-logo="https://algamal.net/UserFiles/News/2019/10/31/47394.jpg"group-title="عروس بيروت",عروس بيروت S2E25
 #EXTINF:-1 tvg-id="tvg-name=""عروس بيروت S2E26" tvg-logo="https://algamal.net/UserFiles/News/2019/10/31/47394.jpg"group-title="عروس بيروت",عروس بيروت S2E26
 #EXTINF:-1 tvg-id="tvg-name=""عروس بيروت S2E27" tvg-logo="https://algamal.net/UserFiles/News/2019/10/31/47394.jpg"group-title="عروس بيروت",عروس بيروت S2E27
 #EXTINF:-1 tvg-id="tvg-name=""عروس بيروت S2E28" tvg-logo="https://algamal.net/UserFiles/News/2019/10/31/47394.jpg"group-title="عروس بيروت",عروس بيروت S2E28
