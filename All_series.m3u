@@ -49,8 +49,8 @@ http://conv.alarab.com/media/videos/h264/160432_720p.mp4
 http://conv.alarab.com/media/videos/h264/160501_720p.mp4
 #EXTINF:-1 tvg-id="tvg-name=""الهيبة (الرد) S4E17" tvg-logo="https://ww.eg1.shahidmosalsalat.net/uploads/thumbs/1a0412cf4-1.jpg"group-title="الهيبة (الرد)",الهيبة (الرد) S4E17
 http://conv.alarab.com/media/videos/h264/160504_720p.mp4
-"#EXTINF:-1 tvg-id="tvg-name=""الهيبة (الرد) S4E18" tvg-logo="https://ww.eg1.shahidmosalsalat.net/uploads/thumbs/1a0412cf4-1.jpg"group-title="الهيبة (الرد)",الهيبة (الرد) S4E18
-https://m.ok.ru/dk/video.mp4?st.cmd=moviePlaybackRedirect&st.sig=2ad54f0351768d50fb78df7b723cb74ebfad8b49&st.uid=579098039426&st.mq=3&st.mvid=2903665871564&st.ip=85.144.185.78&st.dla=on&st.exp=1606338927194&st.hls=off&_prevCmd=movieMain&tkn=4919&vdsig=3Aeh-UA5JVt86XndWTe2-R52Wz0
+#EXTINF:-1 tvg-id="tvg-name=""الهيبة (الرد) S4E18" tvg-logo="https://ww.eg1.shahidmosalsalat.net/uploads/thumbs/1a0412cf4-1.jpg"group-title="الهيبة (الرد)",الهيبة (الرد) S4E18
+http://conv.alarab.com/media/videos/h264/160522_720p.mp4
 #EXTINF:-1 tvg-id="tvg-name=""الهيبة (الرد) S4E19" tvg-logo="https://ww.eg1.shahidmosalsalat.net/uploads/thumbs/1a0412cf4-1.jpg"group-title="الهيبة (الرد)",الهيبة (الرد) S4E19
 http://turkish.trueiptv.re/Gulf/AlHayba/AlHayba.S04E19.mp4
 #EXTINF:-1 tvg-id="tvg-name=""الهيبة (الرد) S4E20" tvg-logo="https://ww.eg1.shahidmosalsalat.net/uploads/thumbs/1a0412cf4-1.jpg"group-title="الهيبة (الرد)",الهيبة (الرد) S4E20
@@ -194,6 +194,8 @@ http://conv.alarab.com/media/videos/h264/160433_720p.mp4
 http://conv.alarab.com/media/videos/h264/160503_720p.mp4
 #EXTINF:-1 tvg-id="tvg-name=""عروس بيروت S2E32" tvg-logo="https://algamal.net/UserFiles/News/2019/10/31/47394.jpg"group-title="عروس بيروت",عروس بيروت S2E32
 http://conv.alarab.com/media/videos/h264/160502_720p.mp4
+#EXTINF:-1 tvg-id="tvg-name=""عروس بيروت S2E33" tvg-logo="https://algamal.net/UserFiles/News/2019/10/31/47394.jpg"group-title="عروس بيروت",عروس بيروت S2E33
+http://conv.alarab.com/media/videos/h264/160524_720p.mp4
 #EXTINF
 
 
@@ -220,8 +222,9 @@ http://conv.alarab.com/media/videos/h264/160142_720p.mp4
 http://conv.alarab.com/media/videos/h264/160280_720p.mp4
 #EXTINF:-1 tvg-id="tvg-name=""الحفرة TUR S4E11" tvg-logo="https://1.bp.blogspot.com/-YtZY-3EJLb8/Wt-56QHv_nI/AAAAAAAAABw/wbJw4sEdCOk-lbaD7LXev7mczYTQW3nYwCLcBGAs/s640/%25D9%2585%25D8%25B3%25D9%2584%25D8%25B3%25D9%2584%2B%25D8%25A7%25D9%2584%25D8%25AD%25D9%2581%25D8%25B1%25D8%25A9%2BCukur-min.png"group-title="الحفرة TUR",الحفرة TUR S4E11
 http://conv.alarab.com/media/videos/h264/160404_720p.mp4
-"#EXTINF:-1 tvg-id="tvg-name=""الحفرة TUR S4E12" tvg-logo="https://1.bp.blogspot.com/-YtZY-3EJLb8/Wt-56QHv_nI/AAAAAAAAABw/wbJw4sEdCOk-lbaD7LXev7mczYTQW3nYwCLcBGAs/s640/%25D9%2585%25D8%25B3%25D9%2584%25D8%25B3%25D9%2584%2B%25D8%25A7%25D9%2584%25D8%25AD%25D9%2581%25D8%25B1%25D8%25A9%2BCukur-min.png"group-title="الحفرة TUR",الحفرة TUR S4E12
-#EXTINF:-1 tvg-id="tvg-name=""الحفرة TUR S4E13" tvg-logo="https://1.bp.blogspot.com/-YtZY-3EJLb8/Wt-56QHv_nI/AAAAAAAAABw/wbJw4sEdCOk-lbaD7LXev7mczYTQW3nYwCLcBGAs/s640/%25D9%2585%25D8%25B3%25D9%2584%25D8%25B3%25D9%2584%2B%25D8%25A7%25D9%2584%25D8%25AD%25D9%2581%25D8%25B1%25D8%25A9%2BCukur-min.png"group-title="الحفرة TUR",الحفرة TUR S4E13
+#EXTINF:-1 tvg-id="tvg-name=""الحفرة TUR S4E12" tvg-logo="https://1.bp.blogspot.com/-YtZY-3EJLb8/Wt-56QHv_nI/AAAAAAAAABw/wbJw4sEdCOk-lbaD7LXev7mczYTQW3nYwCLcBGAs/s640/%25D9%2585%25D8%25B3%25D9%2584%25D8%25B3%25D9%2584%2B%25D8%25A7%25D9%2584%25D8%25AD%25D9%2581%25D8%25B1%25D8%25A9%2BCukur-min.png"group-title="الحفرة TUR",الحفرة TUR S4E12
+http://conv.alarab.com/media/videos/h264/160526_720p.mp4
+"#EXTINF:-1 tvg-id="tvg-name=""الحفرة TUR S4E13" tvg-logo="https://1.bp.blogspot.com/-YtZY-3EJLb8/Wt-56QHv_nI/AAAAAAAAABw/wbJw4sEdCOk-lbaD7LXev7mczYTQW3nYwCLcBGAs/s640/%25D9%2585%25D8%25B3%25D9%2584%25D8%25B3%25D9%2584%2B%25D8%25A7%25D9%2584%25D8%25AD%25D9%2581%25D8%25B1%25D8%25A9%2BCukur-min.png"group-title="الحفرة TUR",الحفرة TUR S4E13
 #EXTINF:-1 tvg-id="tvg-name=""الحفرة TUR S4E14" tvg-logo="https://1.bp.blogspot.com/-YtZY-3EJLb8/Wt-56QHv_nI/AAAAAAAAABw/wbJw4sEdCOk-lbaD7LXev7mczYTQW3nYwCLcBGAs/s640/%25D9%2585%25D8%25B3%25D9%2584%25D8%25B3%25D9%2584%2B%25D8%25A7%25D9%2584%25D8%25AD%25D9%2581%25D8%25B1%25D8%25A9%2BCukur-min.png"group-title="الحفرة TUR",الحفرة TUR S4E14
 #EXTINF:-1 tvg-id="tvg-name=""الحفرة TUR S4E15" tvg-logo="https://1.bp.blogspot.com/-YtZY-3EJLb8/Wt-56QHv_nI/AAAAAAAAABw/wbJw4sEdCOk-lbaD7LXev7mczYTQW3nYwCLcBGAs/s640/%25D9%2585%25D8%25B3%25D9%2584%25D8%25B3%25D9%2584%2B%25D8%25A7%25D9%2584%25D8%25AD%25D9%2581%25D8%25B1%25D8%25A9%2BCukur-min.png"group-title="الحفرة TUR",الحفرة TUR S4E15
 #EXTINF:-1 tvg-id="tvg-name=""الحفرة TUR S4E16" tvg-logo="https://1.bp.blogspot.com/-YtZY-3EJLb8/Wt-56QHv_nI/AAAAAAAAABw/wbJw4sEdCOk-lbaD7LXev7mczYTQW3nYwCLcBGAs/s640/%25D9%2585%25D8%25B3%25D9%2584%25D8%25B3%25D9%2584%2B%25D8%25A7%25D9%2584%25D8%25AD%25D9%2581%25D8%25B1%25D8%25A9%2BCukur-min.png"group-title="الحفرة TUR",الحفرة TUR S4E16
@@ -481,9 +484,12 @@ http://conv.alarab.com/media/videos/h264/160395_720p.mp4
 http://conv.alarab.com/media/videos/h264/160396_720p.mp4
 #EXTINF:-1 tvg-id="tvg-name=""ابنة السفير2 TUR S2E33" tvg-logo="https://m.alwafd.news/images/news/9162c5522a7af5343817af994566ec24.jpg"group-title="ابنة السفير2 TUR",ابنة السفير2 TUR S2E33
 http://conv.alarab.com/media/videos/h264/160397_720p.mp4
-"#EXTINF:-1 tvg-id="tvg-name=""ابنة السفير2 TUR S2E34" tvg-logo="https://m.alwafd.news/images/news/9162c5522a7af5343817af994566ec24.jpg"group-title="ابنة السفير2 TUR",ابنة السفير2 TUR S2E34
+#EXTINF:-1 tvg-id="tvg-name=""ابنة السفير2 TUR S2E34" tvg-logo="https://m.alwafd.news/images/news/9162c5522a7af5343817af994566ec24.jpg"group-title="ابنة السفير2 TUR",ابنة السفير2 TUR S2E34
+http://conv.alarab.com/media/videos/h264/160520_720p.mp4
 #EXTINF:-1 tvg-id="tvg-name=""ابنة السفير2 TUR S2E35" tvg-logo="https://m.alwafd.news/images/news/9162c5522a7af5343817af994566ec24.jpg"group-title="ابنة السفير2 TUR",ابنة السفير2 TUR S2E35
+http://conv.alarab.com/media/videos/h264/160519_720p.mp4
 #EXTINF:-1 tvg-id="tvg-name=""ابنة السفير2 TUR S2E36" tvg-logo="https://m.alwafd.news/images/news/9162c5522a7af5343817af994566ec24.jpg"group-title="ابنة السفير2 TUR",ابنة السفير2 TUR S2E36
+http://conv.alarab.com/media/videos/h264/160521_720p.mp4
 #EXTINF:-1 tvg-id="tvg-name=""ابنة السفير2 TUR S2E37" tvg-logo="https://m.alwafd.news/images/news/9162c5522a7af5343817af994566ec24.jpg"group-title="ابنة السفير2 TUR",ابنة السفير2 TUR S2E37
 #EXTINF:-1 tvg-id="tvg-name=""ابنة السفير2 TUR S2E38" tvg-logo="https://m.alwafd.news/images/news/9162c5522a7af5343817af994566ec24.jpg"group-title="ابنة السفير2 TUR",ابنة السفير2 TUR S2E38
 #EXTINF:-1 tvg-id="tvg-name=""ابنة السفير2 TUR S2E39" tvg-logo="https://m.alwafd.news/images/news/9162c5522a7af5343817af994566ec24.jpg"group-title="ابنة السفير2 TUR",ابنة السفير2 TUR S2E39
