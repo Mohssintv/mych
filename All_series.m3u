@@ -94,7 +94,11 @@ http://conv.alarab.com/media/videos/h264/161968_720p.mp4
 #EXTINF:-1 tvg-id="tvg-name=""لؤلؤ S1E19" tvg-logo="https://r.fosta-tv.net/uploads/articles/47d311fb.jpg"group-title="لؤلؤ",لؤلؤ S1E19
 http://conv.alarab.com/media/videos/h264/161982_480p.mp4
 #EXTINF:-1 tvg-id="tvg-name=""لؤلؤ S1E20" tvg-logo="https://r.fosta-tv.net/uploads/articles/47d311fb.jpg"group-title="لؤلؤ",لؤلؤ S1E20
-https://m.ok.ru/dk/video.mp4?st.cmd=moviePlaybackRedirect&st.sig=a74503f6ec98d70b20eb7a93fb3b7ecfc41fc5e3&st.uid=579098039426&st.mq=3&st.mvid=2564037020216&st.ip=85.144.185.78&st.dla=on&st.exp=1611423487439&st.hls=off&_prevCmd=movieMain&tkn=1587&vdsig=GBbz4hHmUgECSq1mcfl88tns7TI
+http://conv.alarab.com/media/videos/h264/162019_720p.mp4
+#EXTINF:-1 tvg-id="tvg-name=""لؤلؤ S1E21" tvg-logo="https://r.fosta-tv.net/uploads/articles/47d311fb.jpg"group-title="لؤلؤ",لؤلؤ S1E21
+https://m.ok.ru/dk/video.mp4?st.cmd=moviePlaybackRedirect&st.sig=42aca84ddc3b532203097d58002324bed9d309bd&st.uid=579098039426&st.mq=3&st.mvid=1820531100290&st.ip=85.144.185.78&st.dla=on&st.exp=1611687797664&st.hls=off&_prevCmd=movieMain&tkn=4491&vdsig=Jv6rx67mNgLeZjf7oCaMhbj0Cwo
+
+
 
 
 --------------------------------------ضربة معلم-------------------------------------------------
@@ -538,9 +542,9 @@ http://conv.alarab.com/media/videos/h264/161966_720p.mp4
 #EXTINF:-1 tvg-id="tvg-name=""عروس بيروت S2E75" tvg-logo="https://algamal.net/UserFiles/News/2019/10/31/47394.jpg"group-title="عروس بيروت",عروس بيروت S2E75
 http://conv.alarab.com/media/videos/h264/161983_720p.mp4
 #EXTINF:-1 tvg-id="tvg-name=""عروس بيروت S2E76" tvg-logo="https://algamal.net/UserFiles/News/2019/10/31/47394.jpg"group-title="عروس بيروت",عروس بيروت S2E76
-https://m.ok.ru/dk?st.cmd=moviePlaybackRedirect&st.sig=9a54df1d8645c29ac447d67043c4cb85e5590076&st.uid=579098039426&st.mq=3&st.mvid=2499846408915&st.ip=85.144.185.78&st.dla=on&st.exp=1611606153977&st.hls=off&_prevCmd=movieLayer&tkn=1868
-
-
+http://conv.alarab.com/media/videos/h264/162017_720p.mp4
+#EXTINF:-1 tvg-id="tvg-name=""عروس بيروت S2E77" tvg-logo="https://algamal.net/UserFiles/News/2019/10/31/47394.jpg"group-title="عروس بيروت",عروس بيروت S2E77
+https://m.ok.ru/dk/video.mp4?st.cmd=moviePlaybackRedirect&st.sig=c1ff0695ecf903b05cc8699f2a86d6c01abeb617&st.uid=579098039426&st.mq=3&st.mvid=1820776729218&st.ip=85.144.185.78&st.dla=on&st.exp=1611687836029&st.hls=off&_prevCmd=movieLayer&tkn=2618&vdsig=Jv6rx67mNgLeZjf7oCaMhbj0Cwo
 
 -----------مسلسل الحفرة4 ----------------
 
@@ -1150,8 +1154,8 @@ http://conv.alarab.com/media/videos/h264/161498_720p.mp4
 http://conv.alarab.com/media/videos/h264/161740_720p.mp4
 #EXTINF:-1 tvg-id="tvg-name=""رامو TUR S1E28" tvg-logo="https://www.8nio.com/uploads/thumbs/6f345f635-1.jpg"group-title="رامو TUR",رامو TUR S1E28
 http://conv.alarab.com/media/videos/h264/161903_720p.mp4
-
-
+#EXTINF:-1 tvg-id="tvg-name=""رامو TUR S1E29" tvg-logo="https://www.8nio.com/uploads/thumbs/6f345f635-1.jpg"group-title="رامو TUR",رامو TUR S1E29
+http://conv.alarab.com/media/videos/h264/162021_720p.mp4
 
 ----------------------مسلسل دانتيل-----------------
 #EXTINF:-1 tvg-id="tvg-name=""دانتيل S1E1" tvg-logo="https://img.7lm.online/thumbs/188ce16e-1.jpg"group-title="دانتيل",دانتيل S1E1
