@@ -14,6 +14,21 @@ https://s60.uppom.live/d/srrrzrjwbgeyf3tkiuoi74aop7qxuroscmiurdfbvupotr5izbv6ebh
 #EXTINF:-1 tvg-id="" tvg-name="اسوار عالية" tvg-logo=""group-title="أفلام عربية"اسوار عالية
 https://m.ok.ru/dk/video.mp4?st.cmd=moviePlaybackRedirect&st.sig=71e0b421e9e2cfc6d0db14d98ecd0dad1cc5272f&st.uid=579098039426&st.mq=3&st.mvid=1642087975554&st.ip=87.148.219.36&st.dla=on&st.exp=1611001920158&st.hls=off&_prevCmd=movieMain&tkn=1292&vdsig=Tpb5jhLzEee0y_PghJdrFaRbDms
 
+#EXTM3U
+--------------------------------------أنــــا-------------------------------------------------
+#EXTINF:-1 tvg-id="tvg-name=""أنــــا S1E1" tvg-logo="https://x.brstej.com/uploads/articles/d7a5829a.jpg"group-title="أنــــا",أنــــا S1E1
+https://s24.anavids.com/yh5cco7xoxikjnl753a2r5d7467wln6qapu4h5eawf72cg27xpfe3wxht2jq/v.mp4
+#EXTINF:-1 tvg-id="tvg-name=""أنــــا S1E2" tvg-logo="https://x.brstej.com/uploads/articles/d7a5829a.jpg"group-title="أنــــا",أنــــا S1E2
+https://x.brstej.com/uploads/articles/d7a5829a.jpg
+#EXTINF:-1 tvg-id="tvg-name=""أنــــا S1E3" tvg-logo="https://x.brstej.com/uploads/articles/d7a5829a.jpg"group-title="أنــــا",أنــــا S1E3
+https://x.brstej.com/uploads/articles/d7a5829a.jpg
+#EXTINF:-1 tvg-id="tvg-name=""أنــــا S1E4" tvg-logo="https://x.brstej.com/uploads/articles/d7a5829a.jpg"group-title="أنــــا",أنــــا S1E4
+#EXTINF:-1 tvg-id="tvg-name=""أنــــا S1E5" tvg-logo="https://x.brstej.com/uploads/articles/d7a5829a.jpg"group-title="أنــــا",أنــــا S1E5
+#EXTINF:-1 tvg-id="tvg-name=""أنــــا S1E6" tvg-logo="https://x.brstej.com/uploads/articles/d7a5829a.jpg"group-title="أنــــا",أنــــا S1E6
+#EXTINF:-1 tvg-id="tvg-name=""أنــــا S1E7" tvg-logo="https://x.brstej.com/uploads/articles/d7a5829a.jpg"group-title="أنــــا",أنــــا S1E7
+#EXTINF:-1 tvg-id="tvg-name=""أنــــا S1E8" tvg-logo="https://x.brstej.com/uploads/articles/d7a5829a.jpg"group-title="أنــــا",أنــــا S1E8
+#EXTINF:-1 tvg-id="tvg-name=""أنــــا S1E9" tvg-logo="https://x.brstej.com/uploads/articles/d7a5829a.jpg"group-title="أنــــا",أنــــا S1E9
+#EXTINF:-1 tvg-id="tvg-name=""أنــــا S1E10" tvg-logo="https://x.brstej.com/uploads/articles/d7a5829a.jpg"group-title="أنــــا",أنــــا S1E10
 
 -------------------------------------لاحكم عليه-------------------------------------------------
 #EXTINF:-1 tvg-id="tvg-name=""لاحكم عليه S1E1" tvg-logo="https://4arabztv.net/wp-content/uploads/2021/01/Not.Guilty-scaled-450x430.jpg"group-title="لاحكم عليه",لاحكم عليه S1E1
@@ -124,7 +139,9 @@ http://conv.alarab.com/media/videos/h264/162371_720p.mp4
 #EXTINF:-1 tvg-id="tvg-name=""لؤلؤ S1E34 tvg-logo="https://r.fosta-tv.net/uploads/articles/47d311fb.jpg"group-title="لؤلؤ",لؤلؤ S1E34
 http://conv.alarab.com/media/videos/h264/162372_720p.mp4
 #EXTINF:-1 tvg-id="tvg-name=""لؤلؤ S1E35 tvg-logo="https://r.fosta-tv.net/uploads/articles/47d311fb.jpg"group-title="لؤلؤ",لؤلؤ S1E35
-https://yeni-02.anavids.com/yh5cbshroxikjnl753akrkjlvm33kijjosm3gufa5il5wfefh6uwecwi7axq/v.mp4
+https://yeni-02.anavids.com/yh5cbshroxikjnl753akrkjlvm33kijjosm3gufa5il5wfefh6uwecwi7axq/v.mp4.
+#EXTINF:-1 tvg-id="tvg-name=""لؤلؤ S1E36 tvg-logo="https://r.fosta-tv.net/uploads/articles/47d311fb.jpg"group-title="لؤلؤ",لؤلؤ S1E36
+https://m.ok.ru/dk/video.mp4?st.cmd=moviePlaybackRedirect&st.sig=477b373578a8d9017fa234479884dcdf79f498fa&st.uid=579098039426&st.mq=3&st.mvid=2559556520659&st.ip=85.144.185.78&st.dla=on&st.exp=1613484976469&st.hls=off&_prevCmd=movieMain&tkn=6813&vdsig=CCCIufs83iUtmJ61faA55BC9FMo
 
 
 
@@ -1272,8 +1289,8 @@ http://conv.alarab.com/media/videos/h264/162021_720p.mp4
 http://conv.alarab.com/media/videos/h264/162149_720p.mp4
 #EXTINF:-1 tvg-id="tvg-name=""رامو TUR S1E31"tvg-logo="https://www.8nio.com/uploads/thumbs/6f345f635-1.jpg"group-title="رامو TUR",رامو TUR S1E31
 http://conv.alarab.com/media/videos/h264/162305_720p.mp4
-#EXTINF:-1 tvg-id="tvg-name=""رامو TUR S1E31"tvg-logo="https://www.8nio.com/uploads/thumbs/6f345f635-1.jpg"group-title="رامو TUR",رامو TUR S1E31
-https://waffds22.anavids.com/yh5ch57toxikjnl753akr4dqw7kvbkytvhxf7ijzrfxjpx2fzayuzfd5dkoq/v.mp4
+#EXTINF:-1 tvg-id="tvg-name=""رامو TUR S1E32"tvg-logo="https://www.8nio.com/uploads/thumbs/6f345f635-1.jpg"group-title="رامو TUR",رامو TUR S1E32
+http://conv.alarab.com/media/videos/h264/162407_720p.mp4
 
 
 
