@@ -275,6 +275,7 @@ http://conv.alarab.com/media/videos/h264/163540_720p.mp4
 #EXTINF:-1 tvg-id="tvg-name=""ملوك الجدعنة S1E1" tvg-logo="https://o.shahid-online.net/uploads/thumbs/1bad2ba10-1.jpg"group-title="ملوك الجدعنة",ملوك الجدعنة S1E1
 http://conv.alarab.com/media/videos/h264/163525_480p.mp4
 #EXTINF:-1 tvg-id="tvg-name=""ملوك الجدعنة S1E2" tvg-logo="https://o.shahid-online.net/uploads/thumbs/1bad2ba10-1.jpg"group-title="ملوك الجدعنة",ملوك الجدعنة S1E2
+http://conv.alarab.com/media/videos/h264/163608_720p.mp4
 #EXTINF:-1 tvg-id="tvg-name=""ملوك الجدعنة S1E3" tvg-logo="https://o.shahid-online.net/uploads/thumbs/1bad2ba10-1.jpg"group-title="ملوك الجدعنة",ملوك الجدعنة S1E3
 #EXTINF:-1 tvg-id="tvg-name=""ملوك الجدعنة S1E4" tvg-logo="https://o.shahid-online.net/uploads/thumbs/1bad2ba10-1.jpg"group-title="ملوك الجدعنة",ملوك الجدعنة S1E4
 #EXTINF:-1 tvg-id="tvg-name=""ملوك الجدعنة S1E5" tvg-logo="https://o.shahid-online.net/uploads/thumbs/1bad2ba10-1.jpg"group-title="ملوك الجدعنة",ملوك الجدعنة S1E5
@@ -678,6 +679,7 @@ http://conv.alarab.com/media/videos/h264/163591_720p.mp4
 #EXTINF:-1 tvg-id="tvg-name=""المداح S1E1" tvg-logo="https://img.akwam.cc/uploads/33fQa.jpg"group-title="المداح",المداح S1E1
 http://conv.alarab.com/media/videos/h264/163551_720p.mp4
 #EXTINF:-1 tvg-id="tvg-name=""المداح S1E2" tvg-logo="https://img.akwam.cc/uploads/33fQa.jpg"group-title="المداح",المداح S1E2
+http://conv.alarab.com/media/videos/h264/163610_720p.mp4
 #EXTINF:-1 tvg-id="tvg-name=""المداح S1E3" tvg-logo="https://img.akwam.cc/uploads/33fQa.jpg"group-title="المداح",المداح S1E3
 #EXTINF:-1 tvg-id="tvg-name=""المداح S1E4" tvg-logo="https://img.akwam.cc/uploads/33fQa.jpg"group-title="المداح",المداح S1E4
 #EXTINF:-1 tvg-id="tvg-name=""المداح S1E5" tvg-logo="https://img.akwam.cc/uploads/33fQa.jpg"group-title="المداح",المداح S1E5
@@ -712,6 +714,7 @@ http://conv.alarab.com/media/videos/h264/163551_720p.mp4
 #EXTINF:-1 tvg-id="tvg-name=""مارغريت S1E1" tvg-logo="https://i.fosta-tv.org:2053/uploads/thumbs/6b9a00d4-1.jpg"group-title="مارغريت",مارغريت S1E1
 http://conv.alarab.com/media/videos/h264/163534_720p.mp4
 #EXTINF:-1 tvg-id="tvg-name=""مارغريت S1E2" tvg-logo="https://i.fosta-tv.org:2053/uploads/thumbs/6b9a00d4-1.jpg"group-title="مارغريت",مارغريت S1E2
+http://conv.alarab.com/media/videos/h264/163609_720p.mp4
 #EXTINF:-1 tvg-id="tvg-name=""مارغريت S1E3" tvg-logo="https://i.fosta-tv.org:2053/uploads/thumbs/6b9a00d4-1.jpg"group-title="مارغريت",مارغريت S1E3
 #EXTINF:-1 tvg-id="tvg-name=""مارغريت S1E4" tvg-logo="https://i.fosta-tv.org:2053/uploads/thumbs/6b9a00d4-1.jpg"group-title="مارغريت",مارغريت S1E4
 #EXTINF:-1 tvg-id="tvg-name=""مارغريت S1E5" tvg-logo="https://i.fosta-tv.org:2053/uploads/thumbs/6b9a00d4-1.jpg"group-title="مارغريت",مارغريت S1E5
@@ -1283,5 +1286,39 @@ http://conv.alarab.com/media/videos/h264/163597_720p.mp4
 #EXTINF:-1 tvg-id="tvg-name=""أحسن أب S1E28" tvg-logo="https://m.alwafd.news/images/news/9162c5522a7af5343817af994566ec24.jpg"group-title="أحسن أب",أحسن أب S1E28
 #EXTINF:-1 tvg-id="tvg-name=""أحسن أب S1E29" tvg-logo="https://m.alwafd.news/images/news/9162c5522a7af5343817af994566ec24.jpg"group-title="أحسن أب",أحسن أب S1E29
 #EXTINF:-1 tvg-id="tvg-name=""أحسن أب S1E30" tvg-logo="https://m.alwafd.news/images/news/9162c5522a7af5343817af994566ec24.jpg"group-title="أحسن أب",أحسن أب S1E30
+#EXTINF
+
+--------------------------------------نسل الاغراب-------------------------------------------------
+#EXTINF:-1 tvg-id="tvg-name=""نسل الاغراب S1E1" tvg-logo="https://img.youm7.com/large/20210412021403143.jpg"group-title="نسل الاغراب",نسل الاغراب S1E1
+http://conv.alarab.com/media/videos/h264/163607_720p.mp4
+#EXTINF:-1 tvg-id="tvg-name=""نسل الاغراب S1E2" tvg-logo="https://img.youm7.com/large/20210412021403143.jpg"group-title="نسل الاغراب",نسل الاغراب S1E2
+#EXTINF:-1 tvg-id="tvg-name=""نسل الاغراب S1E3" tvg-logo="https://img.youm7.com/large/20210412021403143.jpg"group-title="نسل الاغراب",نسل الاغراب S1E3
+#EXTINF:-1 tvg-id="tvg-name=""نسل الاغراب S1E4" tvg-logo="https://img.youm7.com/large/20210412021403143.jpg"group-title="نسل الاغراب",نسل الاغراب S1E4
+#EXTINF:-1 tvg-id="tvg-name=""نسل الاغراب S1E5" tvg-logo="https://img.youm7.com/large/20210412021403143.jpg"group-title="نسل الاغراب",نسل الاغراب S1E5
+#EXTINF:-1 tvg-id="tvg-name=""نسل الاغراب S1E6" tvg-logo="https://img.youm7.com/large/20210412021403143.jpg"group-title="نسل الاغراب",نسل الاغراب S1E6
+#EXTINF:-1 tvg-id="tvg-name=""نسل الاغراب S1E7" tvg-logo="https://img.youm7.com/large/20210412021403143.jpg"group-title="نسل الاغراب",نسل الاغراب S1E7
+#EXTINF:-1 tvg-id="tvg-name=""نسل الاغراب S1E8" tvg-logo="https://img.youm7.com/large/20210412021403143.jpg"group-title="نسل الاغراب",نسل الاغراب S1E8
+#EXTINF:-1 tvg-id="tvg-name=""نسل الاغراب S1E9" tvg-logo="https://img.youm7.com/large/20210412021403143.jpg"group-title="نسل الاغراب",نسل الاغراب S1E9
+#EXTINF:-1 tvg-id="tvg-name=""نسل الاغراب S1E10" tvg-logo="https://img.youm7.com/large/20210412021403143.jpg"group-title="نسل الاغراب",نسل الاغراب S1E10
+#EXTINF:-1 tvg-id="tvg-name=""نسل الاغراب S1E11" tvg-logo="https://img.youm7.com/large/20210412021403143.jpg"group-title="نسل الاغراب",نسل الاغراب S1E11
+#EXTINF:-1 tvg-id="tvg-name=""نسل الاغراب S1E12" tvg-logo="https://img.youm7.com/large/20210412021403143.jpg"group-title="نسل الاغراب",نسل الاغراب S1E12
+#EXTINF:-1 tvg-id="tvg-name=""نسل الاغراب S1E13" tvg-logo="https://img.youm7.com/large/20210412021403143.jpg"group-title="نسل الاغراب",نسل الاغراب S1E13
+#EXTINF:-1 tvg-id="tvg-name=""نسل الاغراب S1E14" tvg-logo="https://img.youm7.com/large/20210412021403143.jpg"group-title="نسل الاغراب",نسل الاغراب S1E14
+#EXTINF:-1 tvg-id="tvg-name=""نسل الاغراب S1E15" tvg-logo="https://img.youm7.com/large/20210412021403143.jpg"group-title="نسل الاغراب",نسل الاغراب S1E15
+#EXTINF:-1 tvg-id="tvg-name=""نسل الاغراب S1E16" tvg-logo="https://img.youm7.com/large/20210412021403143.jpg"group-title="نسل الاغراب",نسل الاغراب S1E16
+#EXTINF:-1 tvg-id="tvg-name=""نسل الاغراب S1E17" tvg-logo="https://img.youm7.com/large/20210412021403143.jpg"group-title="نسل الاغراب",نسل الاغراب S1E17
+#EXTINF:-1 tvg-id="tvg-name=""نسل الاغراب S1E18" tvg-logo="https://img.youm7.com/large/20210412021403143.jpg"group-title="نسل الاغراب",نسل الاغراب S1E18
+#EXTINF:-1 tvg-id="tvg-name=""نسل الاغراب S1E19" tvg-logo="https://img.youm7.com/large/20210412021403143.jpg"group-title="نسل الاغراب",نسل الاغراب S1E19
+#EXTINF:-1 tvg-id="tvg-name=""نسل الاغراب S1E20" tvg-logo="https://img.youm7.com/large/20210412021403143.jpg"group-title="نسل الاغراب",نسل الاغراب S1E20
+#EXTINF:-1 tvg-id="tvg-name=""نسل الاغراب S1E21" tvg-logo="https://img.youm7.com/large/20210412021403143.jpg"group-title="نسل الاغراب",نسل الاغراب S1E21
+#EXTINF:-1 tvg-id="tvg-name=""نسل الاغراب S1E22" tvg-logo="https://img.youm7.com/large/20210412021403143.jpg"group-title="نسل الاغراب",نسل الاغراب S1E22
+#EXTINF:-1 tvg-id="tvg-name=""نسل الاغراب S1E23" tvg-logo="https://img.youm7.com/large/20210412021403143.jpg"group-title="نسل الاغراب",نسل الاغراب S1E23
+#EXTINF:-1 tvg-id="tvg-name=""نسل الاغراب S1E24" tvg-logo="https://img.youm7.com/large/20210412021403143.jpg"group-title="نسل الاغراب",نسل الاغراب S1E24
+#EXTINF:-1 tvg-id="tvg-name=""نسل الاغراب S1E25" tvg-logo="https://img.youm7.com/large/20210412021403143.jpg"group-title="نسل الاغراب",نسل الاغراب S1E25
+#EXTINF:-1 tvg-id="tvg-name=""نسل الاغراب S1E26" tvg-logo="https://img.youm7.com/large/20210412021403143.jpg"group-title="نسل الاغراب",نسل الاغراب S1E26
+#EXTINF:-1 tvg-id="tvg-name=""نسل الاغراب S1E27" tvg-logo="https://img.youm7.com/large/20210412021403143.jpg"group-title="نسل الاغراب",نسل الاغراب S1E27
+#EXTINF:-1 tvg-id="tvg-name=""نسل الاغراب S1E28" tvg-logo="https://img.youm7.com/large/20210412021403143.jpg"group-title="نسل الاغراب",نسل الاغراب S1E28
+#EXTINF:-1 tvg-id="tvg-name=""نسل الاغراب S1E29" tvg-logo="https://img.youm7.com/large/20210412021403143.jpg"group-title="نسل الاغراب",نسل الاغراب S1E29
+#EXTINF:-1 tvg-id="tvg-name=""نسل الاغراب S1E30" tvg-logo="https://img.youm7.com/large/20210412021403143.jpg"group-title="نسل الاغراب",نسل الاغراب S1E30
 #EXTINF
 
