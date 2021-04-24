@@ -157,7 +157,8 @@ http://conv.alarab.com/media/videos/h264/164108_720p.mp4
 #EXTINF:-1 tvg-id="tvg-name=""ضد الكسر S1E10" tvg-logo="https://img.youm7.com/large/20210310110640640.jpg"group-title="ضد الكسر",ضد الكسر S1E10
 http://conv.alarab.com/media/videos/h264/164177_720p.mp4
 #EXTINF:-1 tvg-id="tvg-name=""ضد الكسر S1E11" tvg-logo="https://img.youm7.com/large/20210310110640640.jpg"group-title="ضد الكسر",ضد الكسر S1E11
-#EXTINF:-1 tvg-id="tvg-name=""ضد الكسر S1E12" tvg-logo="https://img.youm7.com/large/20210310110640640.jpg"group-title="ضد الكسر",ضد الكسر S1E12
+https://cdn.alarab.com/h264/164241_,48,24,0p.mp4.urlset/playlist.m3u8
+EXTINF:-1 tvg-id="tvg-name=""ضد الكسر S1E12" tvg-logo="https://img.youm7.com/large/20210310110640640.jpg"group-title="ضد الكسر",ضد الكسر S1E12
 http://conv.alarab.com/media/videos/h264/164288_720p.mp4
 #EXTINF:-1 tvg-id="tvg-name=""ضد الكسر S1E13" tvg-logo="https://img.youm7.com/large/20210310110640640.jpg"group-title="ضد الكسر",ضد الكسر S1E13
 #EXTINF:-1 tvg-id="tvg-name=""ضد الكسر S1E14" tvg-logo="https://img.youm7.com/large/20210310110640640.jpg"group-title="ضد الكسر",ضد الكسر S1E14
@@ -328,6 +329,7 @@ http://conv.alarab.com/media/videos/h264/164216_720p.mp4
 #EXTINF:-1 tvg-id="tvg-name=""للموت S1E12" tvg-logo="https://x.cimalight.io/uploads/articles/dfccdb2d.jpg"group-title="للموت",للموت S1E12
 http://conv.alarab.com/media/videos/h264/164266_720p.mp4
 #EXTINF:-1 tvg-id="tvg-name=""للموت S1E13" tvg-logo="https://x.cimalight.io/uploads/articles/dfccdb2d.jpg"group-title="للموت",للموت S1E13
+http://conv.alarab.com/media/videos/h264/164335_720p.mp4
 #EXTINF:-1 tvg-id="tvg-name=""للموت S1E14" tvg-logo="https://x.cimalight.io/uploads/articles/dfccdb2d.jpg"group-title="للموت",للموت S1E14
 #EXTINF:-1 tvg-id="tvg-name=""للموت S1E15" tvg-logo="https://x.cimalight.io/uploads/articles/dfccdb2d.jpg"group-title="للموت",للموت S1E15
 #EXTINF:-1 tvg-id="tvg-name=""للموت S1E16" tvg-logo="https://x.cimalight.io/uploads/articles/dfccdb2d.jpg"group-title="للموت",للموت S1E16
@@ -954,6 +956,7 @@ http://conv.alarab.com/media/videos/h264/164149_720p.mp4
 #EXTINF:-1 tvg-id="tvg-name=""مارغريت S1E11" tvg-logo="https://i.fosta-tv.org:2053/uploads/thumbs/6b9a00d4-1.jpg"group-title="مارغريت",مارغريت S1E11
 http://conv.alarab.com/media/videos/h264/164212_720p.mp4
 #EXTINF:-1 tvg-id="tvg-name=""مارغريت S1E12" tvg-logo="https://i.fosta-tv.org:2053/uploads/thumbs/6b9a00d4-1.jpg"group-title="مارغريت",مارغريت S1E12
+http://conv.alarab.com/media/videos/h264/164332_720p.mp4
 #EXTINF:-1 tvg-id="tvg-name=""مارغريت S1E13" tvg-logo="https://i.fosta-tv.org:2053/uploads/thumbs/6b9a00d4-1.jpg"group-title="مارغريت",مارغريت S1E13
 http://conv.alarab.com/media/videos/h264/164329_720p.mp4
 EXTINF:-1 tvg-id="tvg-name=""مارغريت S1E14" tvg-logo="https://i.fosta-tv.org:2053/uploads/thumbs/6b9a00d4-1.jpg"group-title="مارغريت",مارغريت S1E14
@@ -1800,6 +1803,7 @@ http://conv.alarab.com/media/videos/h264/164175_720p.mp4
 #EXTINF:-1 tvg-id="tvg-name=""برنامج 5 نجوم S1E12" tvg-logo="https://images.akhbarelyom.com//images/images/medium/20210410143026766.jpg"group-title="برنامج 5 نجوم",برنامج 5 نجوم S1E12
 http://conv.alarab.com/media/videos/h264/164209_720p.mp4
 #EXTINF:-1 tvg-id="tvg-name=""برنامج 5 نجوم S1E13" tvg-logo="https://images.akhbarelyom.com//images/images/medium/20210410143026766.jpg"group-title="برنامج 5 نجوم",برنامج 5 نجوم S1E13
+http://conv.alarab.com/media/videos/h264/164334_720p.mp4
 #EXTINF:-1 tvg-id="tvg-name=""برنامج 5 نجوم S1E14" tvg-logo="https://images.akhbarelyom.com//images/images/medium/20210410143026766.jpg"group-title="برنامج 5 نجوم",برنامج 5 نجوم S1E14
 #EXTINF:-1 tvg-id="tvg-name=""برنامج 5 نجوم S1E15" tvg-logo="https://images.akhbarelyom.com//images/images/medium/20210410143026766.jpg"group-title="برنامج 5 نجوم",برنامج 5 نجوم S1E15
 #EXTINF:-1 tvg-id="tvg-name=""برنامج 5 نجوم S1E16" tvg-logo="https://images.akhbarelyom.com//images/images/medium/20210410143026766.jpg"group-title="برنامج 5 نجوم",برنامج 5 نجوم S1E16
@@ -1928,6 +1932,7 @@ https://cdn.alarab.com/h264/164214_,48,24,0p.mp4.urlset/playlist.m3u8
 #EXTINF:-1 tvg-id="tvg-name=""مسلسل 2020 S1E12" tvg-logo="https://alarabclub.co/wp-content/uploads/2021/04/01010110.jpg"group-title="مسلسل 2020",مسلسل 2020 S1E12
 http://conv.alarab.com/media/videos/h264/164264_720p.mp4
 #EXTINF:-1 tvg-id="tvg-name=""مسلسل 2020 S1E13" tvg-logo="https://alarabclub.co/wp-content/uploads/2021/04/01010110.jpg"group-title="مسلسل 2020",مسلسل 2020 S1E13
+http://conv.alarab.com/media/videos/h264/164333_720p.mp4
 #EXTINF:-1 tvg-id="tvg-name=""مسلسل 2020 S1E14" tvg-logo="https://alarabclub.co/wp-content/uploads/2021/04/01010110.jpg"group-title="مسلسل 2020",مسلسل 2020 S1E14
 #EXTINF:-1 tvg-id="tvg-name=""مسلسل 2020 S1E15" tvg-logo="https://alarabclub.co/wp-content/uploads/2021/04/01010110.jpg"group-title="مسلسل 2020",مسلسل 2020 S1E15
 #EXTINF:-1 tvg-id="tvg-name=""مسلسل 2020 S1E16" tvg-logo="https://alarabclub.co/wp-content/uploads/2021/04/01010110.jpg"group-title="مسلسل 2020",مسلسل 2020 S1E16
