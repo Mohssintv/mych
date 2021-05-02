@@ -55,6 +55,8 @@ https://cdn.alarab.com/h264/164630_,48,24,0p.mp4.urlset/playlist.m3u8
 http://conv.alarab.com/media/videos/h264/164814_720p.mp4
 #EXTINF:-1 tvg-id="tvg-name=""أخوتي TUR S1E10" tvg-logo="https://3sheeq.net/wp-content/uploads/2021/02/Kardeslerim.jpg"group-title="أخوتي TUR",أخوتي TUR S1E10
 http://conv.alarab.com/media/videos/h264/164816_720p.mp4
+#EXTINF:-1 tvg-id="tvg-name=""أخوتي TUR S1E11" tvg-logo="https://3sheeq.net/wp-content/uploads/2021/02/Kardeslerim.jpg"group-title="أخوتي TUR",أخوتي TUR S1E11
+http://conv.alarab.com/media/videos/h264/164819_720p.mp4
 
 
 #EXTINF
