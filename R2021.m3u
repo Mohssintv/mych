@@ -810,7 +810,7 @@ http://conv.alarab.com/media/videos/h264/164845_720p.mp4
 #EXTINF
 
 --------------------------------------الأختيار 2-------------------------------------------------
-#EXTINF:-1 tvg-id="tvg-name=""الأختيار 2 S1E1" tvg-logo="https://3isk.media/wp-content/uploads/2021/04/maxresdefault-3.jpg"group-title="الأختيار 2",الأختيار 2 S1E1
+#EXTINF:-1 tvg-id="tvg-name=""الأختيار 2 S1E1" tvg-logo="https://raw.githubusercontent.com/6j9/mych/master/img/TST.png"group-title="الأختيار 2",الأختيار 2 S1E1
 http://conv.alarab.com/media/videos/h264/163604_720p.mp4
 #EXTINF:-1 tvg-id="tvg-name=""الأختيار 2 S1E2" tvg-logo="https://3isk.media/wp-content/uploads/2021/04/maxresdefault-3.jpg"group-title="الأختيار 2",الأختيار 2 S1E2
 https://cdn.alarab.com/h264/163660_,48,24,0p.mp4.urlset/playlist.m3u8
