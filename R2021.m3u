@@ -414,9 +414,11 @@ http://conv.alarab.com/media/videos/h264/164717_720p.mp4
 http://conv.alarab.com/media/videos/h264/164774_720p.mp4
 #EXTINF:-1 tvg-id="tvg-name=""لعبة نيوتن S1E20" tvg-logo="https://img.youm7.com/large/202104121126332633.jpg"group-title="لعبة نيوتن",لعبة نيوتن S1E20
 #EXTINF:-1 tvg-id="tvg-name=""لعبة نيوتن S1E21" tvg-logo="https://img.youm7.com/large/202104121126332633.jpg"group-title="لعبة نيوتن",لعبة نيوتن S1E21
-http://conv.alarab.com/media/videos/h264/164892_720p.mp4
+https://cdn.alarab.com/h264/164892_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 tvg-id="tvg-name=""لعبة نيوتن S1E22" tvg-logo="https://img.youm7.com/large/202104121126332633.jpg"group-title="لعبة نيوتن",لعبة نيوتن S1E22
+https://cdn.alarab.com/h264/164951_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 tvg-id="tvg-name=""لعبة نيوتن S1E23" tvg-logo="https://img.youm7.com/large/202104121126332633.jpg"group-title="لعبة نيوتن",لعبة نيوتن S1E23
+https://cdn.alarab.com/h264/165027_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 tvg-id="tvg-name=""لعبة نيوتن S1E24" tvg-logo="https://img.youm7.com/large/202104121126332633.jpg"group-title="لعبة نيوتن",لعبة نيوتن S1E24
 #EXTINF:-1 tvg-id="tvg-name=""لعبة نيوتن S1E25" tvg-logo="https://img.youm7.com/large/202104121126332633.jpg"group-title="لعبة نيوتن",لعبة نيوتن S1E25
 #EXTINF:-1 tvg-id="tvg-name=""لعبة نيوتن S1E26" tvg-logo="https://img.youm7.com/large/202104121126332633.jpg"group-title="لعبة نيوتن",لعبة نيوتن S1E26
@@ -1724,10 +1726,11 @@ http://conv.alarab.com/media/videos/h264/164726_720p.mp4
 #EXTINF:-1 tvg-id="tvg-name=""الطاووس S1E20" tvg-logo="https://cdn.elwatannews.com/watan/543x295/13792053971615220989.jpg"group-title="الطاووس",الطاووس S1E20
 http://conv.alarab.com/media/videos/h264/164767_720p.mp4
 #EXTINF:-1 tvg-id="tvg-name=""الطاووس S1E21" tvg-logo="https://cdn.elwatannews.com/watan/543x295/13792053971615220989.jpg"group-title="الطاووس",الطاووس S1E21
-
+https://cdn.alarab.com/h264/164960_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 tvg-id="tvg-name=""الطاووس S1E22" tvg-logo="https://cdn.elwatannews.com/watan/543x295/13792053971615220989.jpg"group-title="الطاووس",الطاووس S1E22
-http://conv.alarab.com/media/videos/h264/164886_720p.mp4
+https://cdn.alarab.com/h264/164886_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 tvg-id="tvg-name=""الطاووس S1E23" tvg-logo="https://cdn.elwatannews.com/watan/543x295/13792053971615220989.jpg"group-title="الطاووس",الطاووس S1E23
+https://cdn.alarab.com/h264/164956_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 tvg-id="tvg-name=""الطاووس S1E24" tvg-logo="https://cdn.elwatannews.com/watan/543x295/13792053971615220989.jpg"group-title="الطاووس",الطاووس S1E24
 #EXTINF:-1 tvg-id="tvg-name=""الطاووس S1E25" tvg-logo="https://cdn.elwatannews.com/watan/543x295/13792053971615220989.jpg"group-title="الطاووس",الطاووس S1E25
 #EXTINF:-1 tvg-id="tvg-name=""الطاووس S1E26" tvg-logo="https://cdn.elwatannews.com/watan/543x295/13792053971615220989.jpg"group-title="الطاووس",الطاووس S1E26
@@ -1896,6 +1899,7 @@ https://cdn.alarab.com/h264/164904_,48,24,0p.mp4.urlset/playlist.m3u8
 #EXTINF:-1 tvg-id="tvg-name=""على صفيح ساخن S1E23" tvg-logo="https://cdn.statically.io/img/j.brstej.com/f=webp,q=80/uploads/articles/ad537ec9.jpg"group-title="على صفيح ساخن",على صفيح ساخن S1E23
 https://cdn.alarab.com/h264/164967_,48,24,0p.mp4.urlset/playlist.m3u8
 #EXTINF:-1 tvg-id="tvg-name=""على صفيح ساخن S1E24" tvg-logo="https://cdn.statically.io/img/j.brstej.com/f=webp,q=80/uploads/articles/ad537ec9.jpg"group-title="على صفيح ساخن",على صفيح ساخن S1E24
+https://cdn.alarab.com/h264/165012_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 tvg-id="tvg-name=""على صفيح ساخن S1E25" tvg-logo="https://cdn.statically.io/img/j.brstej.com/f=webp,q=80/uploads/articles/ad537ec9.jpg"group-title="على صفيح ساخن",على صفيح ساخن S1E25
 #EXTINF:-1 tvg-id="tvg-name=""على صفيح ساخن S1E26" tvg-logo="https://cdn.statically.io/img/j.brstej.com/f=webp,q=80/uploads/articles/ad537ec9.jpg"group-title="على صفيح ساخن",على صفيح ساخن S1E26
 #EXTINF:-1 tvg-id="tvg-name=""على صفيح ساخن S1E27" tvg-logo="https://cdn.statically.io/img/j.brstej.com/f=webp,q=80/uploads/articles/ad537ec9.jpg"group-title="على صفيح ساخن",على صفيح ساخن S1E27
