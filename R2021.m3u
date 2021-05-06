@@ -162,7 +162,7 @@ https://cdn.alarab.com/h264/164928_,48,24,0p.mp4.urlset/playlist.m3u8
 #EXTINF:-1 tvg-id="tvg-name=""حارة القبة S1E23" tvg-logo="https://raw.githubusercontent.com/6j9/mych/master/img/3.jpg"group-title="حارة القبة",حارة القبة S1E23
 https://cdn.alarab.com/h264/164991_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 tvg-id="tvg-name=""حارة القبة S1E24" tvg-logo="https://raw.githubusercontent.com/6j9/mych/master/img/3.jpg"group-title="حارة القبة",حارة القبة S1E24
-https://s1ycljyupdisdcvewb8fyd6v4b86rdcnzxyth3j33fq4.holavid.com/hls/wya4w25rr54awxqxiuqn2q57ol75ekrpogfvziq5bx6hnvru5v3jl4t4ibza/index-v1-a1.m3u8
+https://cdn.alarab.com/h264/165064_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 tvg-id="tvg-name=""حارة القبة S1E25" tvg-logo="https://raw.githubusercontent.com/6j9/mych/master/img/3.jpg"group-title="حارة القبة",حارة القبة S1E25
 #EXTINF:-1 tvg-id="tvg-name=""حارة القبة S1E26" tvg-logo="https://raw.githubusercontent.com/6j9/mych/master/img/3.jpg"group-title="حارة القبة",حارة القبة S1E26
 #EXTINF:-1 tvg-id="tvg-name=""حارة القبة S1E27" tvg-logo="https://raw.githubusercontent.com/6j9/mych/master/img/3.jpg"group-title="حارة القبة",حارة القبة S1E27
@@ -363,13 +363,15 @@ http://conv.alarab.com/media/videos/h264/164723_720p.mp4
 #EXTINF:-1 tvg-id="tvg-name=""قصر النيل S1E20" tvg-logo="https://7fnon.com/wp-content/uploads/2021/03/FB_IMG_1615973311758.jpg"group-title="قصر النيل",قصر النيل S1E20
 http://conv.alarab.com/media/videos/h264/164785_720p.mp4
 #EXTINF:-1 tvg-id="tvg-name=""قصر النيل S1E21" tvg-logo="https://7fnon.com/wp-content/uploads/2021/03/FB_IMG_1615973311758.jpg"group-title="قصر النيل",قصر النيل S1E21
-http://conv.alarab.com/media/videos/h264/164847_720p.mp4
+https://cdn.alarab.com/h264/164847_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 tvg-id="tvg-name=""قصر النيل S1E22" tvg-logo="https://7fnon.com/wp-content/uploads/2021/03/FB_IMG_1615973311758.jpg"group-title="قصر النيل",قصر النيل S1E22
 https://cdn.alarab.com/h264/164924_,48,24,0p.mp4.urlset/playlist.m3u8
 #EXTINF:-1 tvg-id="tvg-name=""قصر النيل S1E23" tvg-logo="https://7fnon.com/wp-content/uploads/2021/03/FB_IMG_1615973311758.jpg"group-title="قصر النيل",قصر النيل S1E23
 https://cdn.alarab.com/h264/164963_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 tvg-id="tvg-name=""قصر النيل S1E24" tvg-logo="https://7fnon.com/wp-content/uploads/2021/03/FB_IMG_1615973311758.jpg"group-title="قصر النيل",قصر النيل S1E24
+https://cdn.alarab.com/h264/165029_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 tvg-id="tvg-name=""قصر النيل S1E25" tvg-logo="https://7fnon.com/wp-content/uploads/2021/03/FB_IMG_1615973311758.jpg"group-title="قصر النيل",قصر النيل S1E25
+https://cdn.alarab.com/h264/165092_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 tvg-id="tvg-name=""قصر النيل S1E26" tvg-logo="https://7fnon.com/wp-content/uploads/2021/03/FB_IMG_1615973311758.jpg"group-title="قصر النيل",قصر النيل S1E26
 #EXTINF:-1 tvg-id="tvg-name=""قصر النيل S1E27" tvg-logo="https://7fnon.com/wp-content/uploads/2021/03/FB_IMG_1615973311758.jpg"group-title="قصر النيل",قصر النيل S1E27
 #EXTINF:-1 tvg-id="tvg-name=""قصر النيل S1E28" tvg-logo="https://7fnon.com/wp-content/uploads/2021/03/FB_IMG_1615973311758.jpg"group-title="قصر النيل",قصر النيل S1E28
@@ -474,14 +476,15 @@ http://conv.alarab.com/media/videos/h264/164731_720p.mp4
 #EXTINF:-1 tvg-id="tvg-name=""للموت S1E20" tvg-logo="https://x.cimalight.io/uploads/articles/dfccdb2d.jpg"group-title="للموت",للموت S1E20
 http://conv.alarab.com/media/videos/h264/164794_720p.mp4
 #EXTINF:-1 tvg-id="tvg-name=""للموت S1E21" tvg-logo="https://x.cimalight.io/uploads/articles/dfccdb2d.jpg"group-title="للموت",للموت S1E21
-http://conv.alarab.com/media/videos/h264/164844_720p.mp4
+https://cdn.alarab.com/h264/164844_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 tvg-id="tvg-name=""للموت S1E22" tvg-logo="https://x.cimalight.io/uploads/articles/dfccdb2d.jpg"group-title="للموت",للموت S1E22
 https://cdn.alarab.com/h264/164898_,48,24,0p.mp4.urlset/playlist.m3u8
 #EXTINF:-1 tvg-id="tvg-name=""للموت S1E23" tvg-logo="https://x.cimalight.io/uploads/articles/dfccdb2d.jpg"group-title="للموت",للموت S1E23
-https://cloud.cdncv.net/hls/,mfqjtxprtpo6sr7qw4mu5japw3j6qy3sgahuzihpcsmjzu7wwudr7aor45oa,.urlset/master.m3u8
+https://cdn.alarab.com/h264/164966_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 tvg-id="tvg-name=""للموت S1E24" tvg-logo="https://x.cimalight.io/uploads/articles/dfccdb2d.jpg"group-title="للموت",للموت S1E24
-https://s1ycljyupdisdcvewb8fyd6v4b86rdcnzxyth3j33fq4.holavid.com/hls/wya4w75rr54awxqxiuqn2tn2hcyflr3mmh5mrwwdf6pwblm7ajr6zn4fasca/index-v1-a1.m3u8
+https://cdn.alarab.com/h264/165009_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 tvg-id="tvg-name=""للموت S1E25" tvg-logo="https://x.cimalight.io/uploads/articles/dfccdb2d.jpg"group-title="للموت",للموت S1E25
+https://cdn.alarab.com/h264/165102_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 tvg-id="tvg-name=""للموت S1E26" tvg-logo="https://x.cimalight.io/uploads/articles/dfccdb2d.jpg"group-title="للموت",للموت S1E26
 #EXTINF:-1 tvg-id="tvg-name=""للموت S1E27" tvg-logo="https://x.cimalight.io/uploads/articles/dfccdb2d.jpg"group-title="للموت",للموت S1E27
 #EXTINF:-1 tvg-id="tvg-name=""للموت S1E28" tvg-logo="https://x.cimalight.io/uploads/articles/dfccdb2d.jpg"group-title="للموت",للموت S1E28
@@ -531,13 +534,15 @@ http://conv.alarab.com/media/videos/h264/164704_720p.mp4
 #EXTINF:-1 tvg-id="tvg-name=""ملوك الجدعنة S1E20" tvg-logo="https://o.shahid-online.net/uploads/thumbs/1bad2ba10-1.jpg"group-title="ملوك الجدعنة",ملوك الجدعنة S1E20
 http://conv.alarab.com/media/videos/h264/164761_720p.mp4
 #EXTINF:-1 tvg-id="tvg-name=""ملوك الجدعنة S1E21" tvg-logo="https://o.shahid-online.net/uploads/thumbs/1bad2ba10-1.jpg"group-title="ملوك الجدعنة",ملوك الجدعنة S1E21
-http://conv.alarab.com/media/videos/h264/164834_720p.mp4
+https://cdn.alarab.com/h264/164834_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 tvg-id="tvg-name=""ملوك الجدعنة S1E22" tvg-logo="https://o.shahid-online.net/uploads/thumbs/1bad2ba10-1.jpg"group-title="ملوك الجدعنة",ملوك الجدعنة S1E22
 https://cdn.alarab.com/h264/164887_,48,24,0p.mp4.urlset/playlist.m3u8
 #EXTINF:-1 tvg-id="tvg-name=""ملوك الجدعنة S1E23" tvg-logo="https://o.shahid-online.net/uploads/thumbs/1bad2ba10-1.jpg"group-title="ملوك الجدعنة",ملوك الجدعنة S1E23
 https://cdn.alarab.com/h264/164941_,48,24,0p.mp4.urlset/playlist.m3u
 #EXTINF:-1 tvg-id="tvg-name=""ملوك الجدعنة S1E24" tvg-logo="https://o.shahid-online.net/uploads/thumbs/1bad2ba10-1.jpg"group-title="ملوك الجدعنة",ملوك الجدعنة S1E24
+https://cdn.alarab.com/h264/165004_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 tvg-id="tvg-name=""ملوك الجدعنة S1E25" tvg-logo="https://o.shahid-online.net/uploads/thumbs/1bad2ba10-1.jpg"group-title="ملوك الجدعنة",ملوك الجدعنة S1E25
+https://cdn.alarab.com/h264/165071_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 tvg-id="tvg-name=""ملوك الجدعنة S1E26" tvg-logo="https://o.shahid-online.net/uploads/thumbs/1bad2ba10-1.jpg"group-title="ملوك الجدعنة",ملوك الجدعنة S1E26
 #EXTINF:-1 tvg-id="tvg-name=""ملوك الجدعنة S1E27" tvg-logo="https://o.shahid-online.net/uploads/thumbs/1bad2ba10-1.jpg"group-title="ملوك الجدعنة",ملوك الجدعنة S1E27
 #EXTINF:-1 tvg-id="tvg-name=""ملوك الجدعنة S1E28" tvg-logo="https://o.shahid-online.net/uploads/thumbs/1bad2ba10-1.jpg"group-title="ملوك الجدعنة",ملوك الجدعنة S1E28
@@ -641,13 +646,15 @@ http://conv.alarab.com/media/videos/h264/164712_720p.mp4
 #EXTINF:-1 tvg-id="tvg-name=""موسى S1E19" tvg-logo="https://3isk.media/wp-content/uploads/2021/04/09_04_2021-22_50_16-470x470.png"group-title="موسى",موسى S1E19
 http://conv.alarab.com/media/videos/h264/164772_720p.mp4
 #EXTINF:-1 tvg-id="tvg-name=""موسى S1E20" tvg-logo="https://3isk.media/wp-content/uploads/2021/04/09_04_2021-22_50_16-470x470.png"group-title="موسى",موسى S1E20
-http://conv.alarab.com/media/videos/h264/164837_480p.mp4
+https://cdn.alarab.com/h264/164837_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 tvg-id="tvg-name=""موسى S1E21" tvg-logo="https://3isk.media/wp-content/uploads/2021/04/09_04_2021-22_50_16-470x470.png"group-title="موسى",موسى S1E21
-http://conv.alarab.com/media/videos/h264/164889_720p.mp4
+https://cdn.alarab.com/h264/164889_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 tvg-id="tvg-name=""موسى S1E22" tvg-logo="https://3isk.media/wp-content/uploads/2021/04/09_04_2021-22_50_16-470x470.png"group-title="موسى",موسى S1E22
 https://cdn.alarab.com/h264/164944_,48,24,0p.mp4.urlset/playlist.m3u8
 #EXTINF:-1 tvg-id="tvg-name=""موسى S1E23" tvg-logo="https://3isk.media/wp-content/uploads/2021/04/09_04_2021-22_50_16-470x470.png"group-title="موسى",موسى S1E23
+https://cdn.alarab.com/h264/165002_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 tvg-id="tvg-name=""موسى S1E24" tvg-logo="https://3isk.media/wp-content/uploads/2021/04/09_04_2021-22_50_16-470x470.png"group-title="موسى",موسى S1E24
+https://cdn.alarab.com/h264/165076_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 tvg-id="tvg-name=""موسى S1E25" tvg-logo="https://3isk.media/wp-content/uploads/2021/04/09_04_2021-22_50_16-470x470.png"group-title="موسى",موسى S1E25
 #EXTINF:-1 tvg-id="tvg-name=""موسى S1E26" tvg-logo="https://3isk.media/wp-content/uploads/2021/04/09_04_2021-22_50_16-470x470.png"group-title="موسى",موسى S1E26
 #EXTINF:-1 tvg-id="tvg-name=""موسى S1E27" tvg-logo="https://3isk.media/wp-content/uploads/2021/04/09_04_2021-22_50_16-470x470.png"group-title="موسى",موسى S1E27
@@ -698,12 +705,13 @@ http://conv.alarab.com/media/videos/h264/164764_720p.mp4
 #EXTINF:-1 tvg-id="tvg-name=""نجيب زاهي زركش S1E20" tvg-logo="https://i.ytimg.com/vi/pCArZt0BMQY/maxresdefault.jpg"group-title="نجيب زاهي زركش",نجيب زاهي زركش S1E20
 http://conv.alarab.com/media/videos/h264/164828_720p.mp4
 #EXTINF:-1 tvg-id="tvg-name=""نجيب زاهي زركش S1E21" tvg-logo="https://i.ytimg.com/vi/pCArZt0BMQY/maxresdefault.jpg"group-title="نجيب زاهي زركش",نجيب زاهي زركش S1E21
-http://conv.alarab.com/media/videos/h264/164882_720p.mp4
+https://cdn.alarab.com/h264/164882_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 tvg-id="tvg-name=""نجيب زاهي زركش S1E22" tvg-logo="https://i.ytimg.com/vi/pCArZt0BMQY/maxresdefault.jpg"group-title="نجيب زاهي زركش",نجيب زاهي زركش S1E22
 https://cdn.alarab.com/h264/164938_,48,24,0p.mp4.urlset/playlist.m3u8
 #EXTINF:-1 tvg-id="tvg-name=""نجيب زاهي زركش S1E23" tvg-logo="https://i.ytimg.com/vi/pCArZt0BMQY/maxresdefault.jpg"group-title="نجيب زاهي زركش",نجيب زاهي زركش S1E23
 https://cdn.alarab.com/h264/164996_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 tvg-id="tvg-name=""نجيب زاهي زركش S1E24" tvg-logo="https://i.ytimg.com/vi/pCArZt0BMQY/maxresdefault.jpg"group-title="نجيب زاهي زركش",نجيب زاهي زركش S1E24
+https://cdn.alarab.com/h264/165068_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 tvg-id="tvg-name=""نجيب زاهي زركش S1E25" tvg-logo="https://i.ytimg.com/vi/pCArZt0BMQY/maxresdefault.jpg"group-title="نجيب زاهي زركش",نجيب زاهي زركش S1E25
 #EXTINF:-1 tvg-id="tvg-name=""نجيب زاهي زركش S1E26" tvg-logo="https://i.ytimg.com/vi/pCArZt0BMQY/maxresdefault.jpg"group-title="نجيب زاهي زركش",نجيب زاهي زركش S1E26
 #EXTINF:-1 tvg-id="tvg-name=""نجيب زاهي زركش S1E27" tvg-logo="https://i.ytimg.com/vi/pCArZt0BMQY/maxresdefault.jpg"group-title="نجيب زاهي زركش",نجيب زاهي زركش S1E27
@@ -753,12 +761,13 @@ http://conv.alarab.com/media/videos/h264/164757_720p.mp4
 #EXTINF:-1 tvg-id="tvg-name=""هجمة مرتدة S1E20" tvg-logo="https://img.youm7.com/large/20210302100719719.jpg"group-title="هجمة مرتدة",هجمة مرتدة S1E20
 http://conv.alarab.com/media/videos/h264/164823_720p.mp4
 #EXTINF:-1 tvg-id="tvg-name=""هجمة مرتدة S1E21" tvg-logo="https://img.youm7.com/large/20210302100719719.jpg"group-title="هجمة مرتدة",هجمة مرتدة S1E21
-http://conv.alarab.com/media/videos/h264/164868_720p.mp4
+https://cdn.alarab.com/h264/164868_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 tvg-id="tvg-name=""هجمة مرتدة S1E22" tvg-logo="https://img.youm7.com/large/20210302100719719.jpg"group-title="هجمة مرتدة",هجمة مرتدة S1E22
 https://cdn.alarab.com/h264/164931_,48,24,0p.mp4.urlset/playlist.m3u8
 #EXTINF:-1 tvg-id="tvg-name=""هجمة مرتدة S1E23" tvg-logo="https://img.youm7.com/large/20210302100719719.jpg"group-title="هجمة مرتدة",هجمة مرتدة S1E23
 https://cdn.alarab.com/h264/164986_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 tvg-id="tvg-name=""هجمة مرتدة S1E24" tvg-logo="https://img.youm7.com/large/20210302100719719.jpg"group-title="هجمة مرتدة",هجمة مرتدة S1E24
+https://cdn.alarab.com/h264/165060_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 tvg-id="tvg-name=""هجمة مرتدة S1E25" tvg-logo="https://img.youm7.com/large/20210302100719719.jpg"group-title="هجمة مرتدة",هجمة مرتدة S1E25
 #EXTINF:-1 tvg-id="tvg-name=""هجمة مرتدة S1E26" tvg-logo="https://img.youm7.com/large/20210302100719719.jpg"group-title="هجمة مرتدة",هجمة مرتدة S1E26
 #EXTINF:-1 tvg-id="tvg-name=""هجمة مرتدة S1E27" tvg-logo="https://img.youm7.com/large/20210302100719719.jpg"group-title="هجمة مرتدة",هجمة مرتدة S1E27
@@ -848,6 +857,7 @@ https://cdn.alarab.com/h264/164933_,48,24,0p.mp4.urlset/playlist.m3u8
 #EXTINF:-1 tvg-id="tvg-name=""حرب أهلية S1E23" tvg-logo="https://k.shahidmosalsalat.net/uploads/thumbs/78badd354-1.jpg"group-title="حرب أهلية",حرب أهلية S1E23
 https://cdn.alarab.com/h264/164998_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 tvg-id="tvg-name=""حرب أهلية S1E24" tvg-logo="https://k.shahidmosalsalat.net/uploads/thumbs/78badd354-1.jpg"group-title="حرب أهلية",حرب أهلية S1E24
+https://cdn.alarab.com/h264/165065_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 tvg-id="tvg-name=""حرب أهلية S1E25" tvg-logo="https://k.shahidmosalsalat.net/uploads/thumbs/78badd354-1.jpg"group-title="حرب أهلية",حرب أهلية S1E25
 #EXTINF:-1 tvg-id="tvg-name=""حرب أهلية S1E26" tvg-logo="https://k.shahidmosalsalat.net/uploads/thumbs/78badd354-1.jpg"group-title="حرب أهلية",حرب أهلية S1E26
 #EXTINF:-1 tvg-id="tvg-name=""حرب أهلية S1E27" tvg-logo="https://k.shahidmosalsalat.net/uploads/thumbs/78badd354-1.jpg"group-title="حرب أهلية",حرب أهلية S1E27
@@ -901,7 +911,9 @@ http://conv.alarab.com/media/videos/h264/164903_720p.mp4
 #EXTINF:-1 tvg-id="tvg-name=""350 جرام S1E22" tvg-logo="https://k.shahidmosalsalat.net/uploads/thumbs/b0a358efe-1.jpg"group-title="350 جرام",350 جرام S1E22
 https://cdn.alarab.com/h264/164964_,,0p.mp4.urlset/playlist.m3u8
 #EXTINF:-1 tvg-id="tvg-name=""350 جرام S1E23" tvg-logo="https://k.shahidmosalsalat.net/uploads/thumbs/b0a358efe-1.jpg"group-title="350 جرام",350 جرام S1E23
+https://cdn.alarab.com/h264/165014_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 tvg-id="tvg-name=""350 جرام S1E24" tvg-logo="https://k.shahidmosalsalat.net/uploads/thumbs/b0a358efe-1.jpg"group-title="350 جرام",350 جرام S1E24
+https://cdn.alarab.com/h264/165097_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 tvg-id="tvg-name=""350 جرام S1E25" tvg-logo="https://k.shahidmosalsalat.net/uploads/thumbs/b0a358efe-1.jpg"group-title="350 جرام",350 جرام S1E25
 #EXTINF:-1 tvg-id="tvg-name=""350 جرام S1E26" tvg-logo="https://k.shahidmosalsalat.net/uploads/thumbs/b0a358efe-1.jpg"group-title="350 جرام",350 جرام S1E26
 #EXTINF:-1 tvg-id="tvg-name=""350 جرام S1E27" tvg-logo="https://k.shahidmosalsalat.net/uploads/thumbs/b0a358efe-1.jpg"group-title="350 جرام",350 جرام S1E27
@@ -952,10 +964,13 @@ http://conv.alarab.com/media/videos/h264/164786_720p.mp4
 #EXTINF:-1 tvg-id="tvg-name=""الأختيار 2 S1E20" tvg-logo="https://3isk.media/wp-content/uploads/2021/04/maxresdefault-3.jpg"group-title="الأختيار 2",الأختيار 2 S1E20
 http://conv.alarab.com/media/videos/h264/164842_720p.mp4
 #EXTINF:-1 tvg-id="tvg-name=""الأختيار 2 S1E21" tvg-logo="https://3isk.media/wp-content/uploads/2021/04/maxresdefault-3.jpg"group-title="الأختيار 2",الأختيار 2 S1E21
-http://conv.alarab.com/media/videos/h264/164895_720p.mp4
+https://cdn.alarab.com/h264/164895_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 tvg-id="tvg-name=""الأختيار 2 S1E22" tvg-logo="https://3isk.media/wp-content/uploads/2021/04/maxresdefault-3.jpg"group-title="الأختيار 2",الأختيار 2 S1E22
+https://cdn.alarab.com/h264/164962_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 tvg-id="tvg-name=""الأختيار 2 S1E23" tvg-logo="https://3isk.media/wp-content/uploads/2021/04/maxresdefault-3.jpg"group-title="الأختيار 2",الأختيار 2 S1E23
+https://cdn.alarab.com/h264/165010_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 tvg-id="tvg-name=""الأختيار 2 S1E24" tvg-logo="https://3isk.media/wp-content/uploads/2021/04/maxresdefault-3.jpg"group-title="الأختيار 2",الأختيار 2 S1E24
+https://cdn.alarab.com/h264/165098_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 tvg-id="tvg-name=""الأختيار 2 S1E25" tvg-logo="https://3isk.media/wp-content/uploads/2021/04/maxresdefault-3.jpg"group-title="الأختيار 2",الأختيار 2 S1E25
 #EXTINF:-1 tvg-id="tvg-name=""الأختيار 2 S1E26" tvg-logo="https://3isk.media/wp-content/uploads/2021/04/maxresdefault-3.jpg"group-title="الأختيار 2",الأختيار 2 S1E26
 #EXTINF:-1 tvg-id="tvg-name=""الأختيار 2 S1E27" tvg-logo="https://3isk.media/wp-content/uploads/2021/04/maxresdefault-3.jpg"group-title="الأختيار 2",الأختيار 2 S1E27
@@ -1060,12 +1075,13 @@ http://conv.alarab.com/media/videos/h264/164778_720p.mp4
 #EXTINF:-1 tvg-id="tvg-name=""اللي مالوش كبير S1E20" tvg-logo="https://www.dostor.org/upload/photo/news/339/2/600x338o/560.jpg"group-title="اللي مالوش كبير",اللي مالوش كبير S1E20
 http://conv.alarab.com/media/videos/h264/164840_720p.mp4
 #EXTINF:-1 tvg-id="tvg-name=""اللي مالوش كبير S1E21" tvg-logo="https://www.dostor.org/upload/photo/news/339/2/600x338o/560.jpg"group-title="اللي مالوش كبير",اللي مالوش كبير S1E21
-http://conv.alarab.com/media/videos/h264/164899_720p.mp4
+https://cdn.alarab.com/h264/164899_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 tvg-id="tvg-name=""اللي مالوش كبير S1E22" tvg-logo="https://www.dostor.org/upload/photo/news/339/2/600x338o/560.jpg"group-title="اللي مالوش كبير",اللي مالوش كبير S1E22
 https://cdn.alarab.com/h264/164955_,48,24,0p.mp4.urlset/playlist.m3u8
 #EXTINF:-1 tvg-id="tvg-name=""اللي مالوش كبير S1E23" tvg-logo="https://www.dostor.org/upload/photo/news/339/2/600x338o/560.jpg"group-title="اللي مالوش كبير",اللي مالوش كبير S1E23
-https://s1ycljyupdisdcvewb8fyd6v4b86rdcnzxyth3j33fq4.holavid.com/hls/wya4vb5qr54awxqxiuqn2c7lnch2zerrmjkpnurfl674x235mumid2oad7tq/index-v1-a1.m3u8
+https://cdn.alarab.com/h264/165013_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 tvg-id="tvg-name=""اللي مالوش كبير S1E24" tvg-logo="https://www.dostor.org/upload/photo/news/339/2/600x338o/560.jpg"group-title="اللي مالوش كبير",اللي مالوش كبير S1E24
+https://cdn.alarab.com/h264/165101_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 tvg-id="tvg-name=""اللي مالوش كبير S1E25" tvg-logo="https://www.dostor.org/upload/photo/news/339/2/600x338o/560.jpg"group-title="اللي مالوش كبير",اللي مالوش كبير S1E25
 #EXTINF:-1 tvg-id="tvg-name=""اللي مالوش كبير S1E26" tvg-logo="https://www.dostor.org/upload/photo/news/339/2/600x338o/560.jpg"group-title="اللي مالوش كبير",اللي مالوش كبير S1E26
 #EXTINF:-1 tvg-id="tvg-name=""اللي مالوش كبير S1E27" tvg-logo="https://www.dostor.org/upload/photo/news/339/2/600x338o/560.jpg"group-title="اللي مالوش كبير",اللي مالوش كبير S1E27
@@ -1113,14 +1129,15 @@ http://conv.alarab.com/media/videos/h264/164706_720p.mp4
 #EXTINF:-1 tvg-id="tvg-name=""النمر S1E19" tvg-logo="https://q8hashtagat.com/wp-content/uploads/2021/02/maxresdefault-5.jpg"group-title="النمر",النمر S1E19
 http://conv.alarab.com/media/videos/h264/164766_720p.mp4
 #EXTINF:-1 tvg-id="tvg-name=""النمر S1E20" tvg-logo="https://q8hashtagat.com/wp-content/uploads/2021/02/maxresdefault-5.jpg"group-title="النمر",النمر S1E20
-http://conv.alarab.com/media/videos/h264/164832_720p.mp4
+https://cdn.alarab.com/h264/164832_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 tvg-id="tvg-name=""النمر S1E21" tvg-logo="https://q8hashtagat.com/wp-content/uploads/2021/02/maxresdefault-5.jpg"group-title="النمر",النمر S1E21
-http://conv.alarab.com/media/videos/h264/164884_720p.mp4
+https://cdn.alarab.com/h264/164884_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 tvg-id="tvg-name=""النمر S1E22" tvg-logo="https://q8hashtagat.com/wp-content/uploads/2021/02/maxresdefault-5.jpg"group-title="النمر",النمر S1E22
 https://cdn.alarab.com/h264/164942_,48,24,0p.mp4.urlset/playlist.m3u8
 #EXTINF:-1 tvg-id="tvg-name=""النمر S1E23" tvg-logo="https://q8hashtagat.com/wp-content/uploads/2021/02/maxresdefault-5.jpg"group-title="النمر",النمر S1E23
-https://s1ycljyupdisdcvewb8fyd6v4b86rdcnzxyth3j33fq4.holavid.com/hls/wya4xbfqr54awxqxiuqn2sftmaybkumdyirjeld4qhdi3vn3yornyfzak2pa/index-v1-a1.m3u8
+https://cdn.alarab.com/h264/165000_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 tvg-id="tvg-name=""النمر S1E24" tvg-logo="https://q8hashtagat.com/wp-content/uploads/2021/02/maxresdefault-5.jpg"group-title="النمر",النمر S1E24
+https://cdn.alarab.com/h264/165083_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 tvg-id="tvg-name=""النمر S1E25" tvg-logo="https://q8hashtagat.com/wp-content/uploads/2021/02/maxresdefault-5.jpg"group-title="النمر",النمر S1E25
 #EXTINF:-1 tvg-id="tvg-name=""النمر S1E26" tvg-logo="https://q8hashtagat.com/wp-content/uploads/2021/02/maxresdefault-5.jpg"group-title="النمر",النمر S1E26
 #EXTINF:-1 tvg-id="tvg-name=""النمر S1E27" tvg-logo="https://q8hashtagat.com/wp-content/uploads/2021/02/maxresdefault-5.jpg"group-title="النمر",النمر S1E27
@@ -1177,6 +1194,7 @@ https://cdn.alarab.com/h264/164987_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 tvg-id="tvg-name=""المداح S1E23" tvg-logo="https://img.akwam.cc/uploads/33fQa.jpg"group-title="المداح",المداح S1E23
 https://cdn.alarab.com/h264/164968_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 tvg-id="tvg-name=""المداح S1E24" tvg-logo="https://img.akwam.cc/uploads/33fQa.jpg"group-title="المداح",المداح S1E24
+https://cdn.alarab.com/h264/165038_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 tvg-id="tvg-name=""المداح S1E25" tvg-logo="https://img.akwam.cc/uploads/33fQa.jpg"group-title="المداح",المداح S1E25
 #EXTINF:-1 tvg-id="tvg-name=""المداح S1E26" tvg-logo="https://img.akwam.cc/uploads/33fQa.jpg"group-title="المداح",المداح S1E26
 #EXTINF:-1 tvg-id="tvg-name=""المداح S1E27" tvg-logo="https://img.akwam.cc/uploads/33fQa.jpg"group-title="المداح",المداح S1E27
@@ -1948,18 +1966,31 @@ http://conv.alarab.com/media/videos/h264/164173_720p.mp4
 #EXTINF:-1 tvg-id="tvg-name=""وكل ما نفترق S1E11" tvg-logo="https://s.shahidmosalsalat.co/uploads/thumbs/adc10e914-1.jpg"group-title="وكل ما نفترق",وكل ما نفترق S1E11
 http://conv.alarab.com/media/videos/h264/164229_720p.mp4
 #EXTINF:-1 tvg-id="tvg-name=""وكل ما نفترق S1E12" tvg-logo="https://s.shahidmosalsalat.co/uploads/thumbs/adc10e914-1.jpg"group-title="وكل ما نفترق",وكل ما نفترق S1E12
+https://cdn.alarab.com/h264/165041_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 tvg-id="tvg-name=""وكل ما نفترق S1E13" tvg-logo="https://s.shahidmosalsalat.co/uploads/thumbs/adc10e914-1.jpg"group-title="وكل ما نفترق",وكل ما نفترق S1E13
+https://cdn.alarab.com/h264/165040_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 tvg-id="tvg-name=""وكل ما نفترق S1E14" tvg-logo="https://s.shahidmosalsalat.co/uploads/thumbs/adc10e914-1.jpg"group-title="وكل ما نفترق",وكل ما نفترق S1E14
+https://cdn.alarab.com/h264/165039_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 tvg-id="tvg-name=""وكل ما نفترق S1E15" tvg-logo="https://s.shahidmosalsalat.co/uploads/thumbs/adc10e914-1.jpg"group-title="وكل ما نفترق",وكل ما نفترق S1E15
+https://cdn.alarab.com/h264/165043_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 tvg-id="tvg-name=""وكل ما نفترق S1E16" tvg-logo="https://s.shahidmosalsalat.co/uploads/thumbs/adc10e914-1.jpg"group-title="وكل ما نفترق",وكل ما نفترق S1E16
+https://cdn.alarab.com/h264/165045_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 tvg-id="tvg-name=""وكل ما نفترق S1E17" tvg-logo="https://s.shahidmosalsalat.co/uploads/thumbs/adc10e914-1.jpg"group-title="وكل ما نفترق",وكل ما نفترق S1E17
+https://cdn.alarab.com/h264/165050_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 tvg-id="tvg-name=""وكل ما نفترق S1E18" tvg-logo="https://s.shahidmosalsalat.co/uploads/thumbs/adc10e914-1.jpg"group-title="وكل ما نفترق",وكل ما نفترق S1E18
+https://cdn.alarab.com/h264/165046_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 tvg-id="tvg-name=""وكل ما نفترق S1E19" tvg-logo="https://s.shahidmosalsalat.co/uploads/thumbs/adc10e914-1.jpg"group-title="وكل ما نفترق",وكل ما نفترق S1E19
+https://cdn.alarab.com/h264/165048_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 tvg-id="tvg-name=""وكل ما نفترق S1E20" tvg-logo="https://s.shahidmosalsalat.co/uploads/thumbs/adc10e914-1.jpg"group-title="وكل ما نفترق",وكل ما نفترق S1E20
+https://cdn.alarab.com/h264/165047_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 tvg-id="tvg-name=""وكل ما نفترق S1E21" tvg-logo="https://s.shahidmosalsalat.co/uploads/thumbs/adc10e914-1.jpg"group-title="وكل ما نفترق",وكل ما نفترق S1E21
+https://cdn.alarab.com/h264/165051_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 tvg-id="tvg-name=""وكل ما نفترق S1E22" tvg-logo="https://s.shahidmosalsalat.co/uploads/thumbs/adc10e914-1.jpg"group-title="وكل ما نفترق",وكل ما نفترق S1E22
+https://cdn.alarab.com/h264/165053_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 tvg-id="tvg-name=""وكل ما نفترق S1E23" tvg-logo="https://s.shahidmosalsalat.co/uploads/thumbs/adc10e914-1.jpg"group-title="وكل ما نفترق",وكل ما نفترق S1E23
+https://cdn.alarab.com/h264/165056_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 tvg-id="tvg-name=""وكل ما نفترق S1E24" tvg-logo="https://s.shahidmosalsalat.co/uploads/thumbs/adc10e914-1.jpg"group-title="وكل ما نفترق",وكل ما نفترق S1E24
+https://cdn.alarab.com/h264/165057_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 tvg-id="tvg-name=""وكل ما نفترق S1E25" tvg-logo="https://s.shahidmosalsalat.co/uploads/thumbs/adc10e914-1.jpg"group-title="وكل ما نفترق",وكل ما نفترق S1E25
 #EXTINF:-1 tvg-id="tvg-name=""وكل ما نفترق S1E26" tvg-logo="https://s.shahidmosalsalat.co/uploads/thumbs/adc10e914-1.jpg"group-title="وكل ما نفترق",وكل ما نفترق S1E26
 #EXTINF:-1 tvg-id="tvg-name=""وكل ما نفترق S1E27" tvg-logo="https://s.shahidmosalsalat.co/uploads/thumbs/adc10e914-1.jpg"group-title="وكل ما نفترق",وكل ما نفترق S1E27
@@ -2058,11 +2089,13 @@ http://conv.alarab.com/media/videos/h264/164781_720p.mp4
 #EXTINF:-1 tvg-id="tvg-name=""نسل الاغراب S1E20" tvg-logo="https://img.youm7.com/large/20210412021403143.jpg"group-title="نسل الاغراب",نسل الاغراب S1E20
 http://conv.alarab.com/media/videos/h264/164839_720p.mp4
 #EXTINF:-1 tvg-id="tvg-name=""نسل الاغراب S1E21" tvg-logo="https://img.youm7.com/large/20210412021403143.jpg"group-title="نسل الاغراب",نسل الاغراب S1E21
-http://conv.alarab.com/media/videos/h264/164894_720p.mp4
+https://cdn.alarab.com/h264/164894_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 tvg-id="tvg-name=""نسل الاغراب S1E22" tvg-logo="https://img.youm7.com/large/20210412021403143.jpg"group-title="نسل الاغراب",نسل الاغراب S1E22
 https://cdn.alarab.com/h264/164958_,48,24,0p.mp4.urlset/playlist.m3u8
 #EXTINF:-1 tvg-id="tvg-name=""نسل الاغراب S1E23" tvg-logo="https://img.youm7.com/large/20210412021403143.jpg"group-title="نسل الاغراب",نسل الاغراب S1E23
+https://cdn.alarab.com/h264/165011_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 tvg-id="tvg-name=""نسل الاغراب S1E24" tvg-logo="https://img.youm7.com/large/20210412021403143.jpg"group-title="نسل الاغراب",نسل الاغراب S1E24
+https://cdn.alarab.com/h264/165093_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 tvg-id="tvg-name=""نسل الاغراب S1E25" tvg-logo="https://img.youm7.com/large/20210412021403143.jpg"group-title="نسل الاغراب",نسل الاغراب S1E25
 #EXTINF:-1 tvg-id="tvg-name=""نسل الاغراب S1E26" tvg-logo="https://img.youm7.com/large/20210412021403143.jpg"group-title="نسل الاغراب",نسل الاغراب S1E26
 #EXTINF:-1 tvg-id="tvg-name=""نسل الاغراب S1E27" tvg-logo="https://img.youm7.com/large/20210412021403143.jpg"group-title="نسل الاغراب",نسل الاغراب S1E27
@@ -2145,13 +2178,17 @@ http://conv.alarab.com/media/videos/h264/164660_720p.mp4
 #EXTINF:-1 tvg-id="tvg-name=""زوج تحت الاقامة الجبرية S1E18" tvg-logo="https://cima2day.cam/wp-content/uploads/2021/04/%D9%85%D8%B3%D9%84%D8%B3%D9%84-%D8%B2%D9%88%D8%AC-%D8%AA%D8%AD%D8%AA-%D8%A7%D9%84%D8%A7%D9%82%D8%A7%D9%85%D8%A9-%D8%A7%D9%84%D8%AC%D8%A8%D8%B1%D9%8A%D8%A9-2021-%D8%A7%D9%88%D9%86-%D9%84%D8%A7%D9%8A%D9%86.jpg"group-title="زوج تحت الاقامة الجبرية",زوج تحت الاقامة الجبرية S1E18
 http://conv.alarab.com/media/videos/h264/164714_720p.mp4
 #EXTINF:-1 tvg-id="tvg-name=""زوج تحت الاقامة الجبرية S1E19" tvg-logo="https://cima2day.cam/wp-content/uploads/2021/04/%D9%85%D8%B3%D9%84%D8%B3%D9%84-%D8%B2%D9%88%D8%AC-%D8%AA%D8%AD%D8%AA-%D8%A7%D9%84%D8%A7%D9%82%D8%A7%D9%85%D8%A9-%D8%A7%D9%84%D8%AC%D8%A8%D8%B1%D9%8A%D8%A9-2021-%D8%A7%D9%88%D9%86-%D9%84%D8%A7%D9%8A%D9%86.jpg"group-title="زوج تحت الاقامة الجبرية",زوج تحت الاقامة الجبرية S1E19
-http://conv.alarab.com/media/videos/h264/164784_720p.mp4
+https://cdn.alarab.com/h264/164784_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 tvg-id="tvg-name=""زوج تحت الاقامة الجبرية S1E20" tvg-logo="https://cima2day.cam/wp-content/uploads/2021/04/%D9%85%D8%B3%D9%84%D8%B3%D9%84-%D8%B2%D9%88%D8%AC-%D8%AA%D8%AD%D8%AA-%D8%A7%D9%84%D8%A7%D9%82%D8%A7%D9%85%D8%A9-%D8%A7%D9%84%D8%AC%D8%A8%D8%B1%D9%8A%D8%A9-2021-%D8%A7%D9%88%D9%86-%D9%84%D8%A7%D9%8A%D9%86.jpg"group-title="زوج تحت الاقامة الجبرية",زوج تحت الاقامة الجبرية S1E20
-http://conv.alarab.com/media/videos/h264/164875_720p.mp4
+https://cdn.alarab.com/h264/164875_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 tvg-id="tvg-name=""زوج تحت الاقامة الجبرية S1E21" tvg-logo="https://cima2day.cam/wp-content/uploads/2021/04/%D9%85%D8%B3%D9%84%D8%B3%D9%84-%D8%B2%D9%88%D8%AC-%D8%AA%D8%AD%D8%AA-%D8%A7%D9%84%D8%A7%D9%82%D8%A7%D9%85%D8%A9-%D8%A7%D9%84%D8%AC%D8%A8%D8%B1%D9%8A%D8%A9-2021-%D8%A7%D9%88%D9%86-%D9%84%D8%A7%D9%8A%D9%86.jpg"group-title="زوج تحت الاقامة الجبرية",زوج تحت الاقامة الجبرية S1E21
+https://cdn.alarab.com/h264/164936_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 tvg-id="tvg-name=""زوج تحت الاقامة الجبرية S1E22" tvg-logo="https://cima2day.cam/wp-content/uploads/2021/04/%D9%85%D8%B3%D9%84%D8%B3%D9%84-%D8%B2%D9%88%D8%AC-%D8%AA%D8%AD%D8%AA-%D8%A7%D9%84%D8%A7%D9%82%D8%A7%D9%85%D8%A9-%D8%A7%D9%84%D8%AC%D8%A8%D8%B1%D9%8A%D8%A9-2021-%D8%A7%D9%88%D9%86-%D9%84%D8%A7%D9%8A%D9%86.jpg"group-title="زوج تحت الاقامة الجبرية",زوج تحت الاقامة الجبرية S1E22
+https://cdn.alarab.com/h264/164957_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 tvg-id="tvg-name=""زوج تحت الاقامة الجبرية S1E23" tvg-logo="https://cima2day.cam/wp-content/uploads/2021/04/%D9%85%D8%B3%D9%84%D8%B3%D9%84-%D8%B2%D9%88%D8%AC-%D8%AA%D8%AD%D8%AA-%D8%A7%D9%84%D8%A7%D9%82%D8%A7%D9%85%D8%A9-%D8%A7%D9%84%D8%AC%D8%A8%D8%B1%D9%8A%D8%A9-2021-%D8%A7%D9%88%D9%86-%D9%84%D8%A7%D9%8A%D9%86.jpg"group-title="زوج تحت الاقامة الجبرية",زوج تحت الاقامة الجبرية S1E23
+https://cdn.alarab.com/h264/165035_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 tvg-id="tvg-name=""زوج تحت الاقامة الجبرية S1E24" tvg-logo="https://cima2day.cam/wp-content/uploads/2021/04/%D9%85%D8%B3%D9%84%D8%B3%D9%84-%D8%B2%D9%88%D8%AC-%D8%AA%D8%AD%D8%AA-%D8%A7%D9%84%D8%A7%D9%82%D8%A7%D9%85%D8%A9-%D8%A7%D9%84%D8%AC%D8%A8%D8%B1%D9%8A%D8%A9-2021-%D8%A7%D9%88%D9%86-%D9%84%D8%A7%D9%8A%D9%86.jpg"group-title="زوج تحت الاقامة الجبرية",زوج تحت الاقامة الجبرية S1E24
+https://cdn.alarab.com/h264/165096_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 tvg-id="tvg-name=""زوج تحت الاقامة الجبرية S1E25" tvg-logo="https://cima2day.cam/wp-content/uploads/2021/04/%D9%85%D8%B3%D9%84%D8%B3%D9%84-%D8%B2%D9%88%D8%AC-%D8%AA%D8%AD%D8%AA-%D8%A7%D9%84%D8%A7%D9%82%D8%A7%D9%85%D8%A9-%D8%A7%D9%84%D8%AC%D8%A8%D8%B1%D9%8A%D8%A9-2021-%D8%A7%D9%88%D9%86-%D9%84%D8%A7%D9%8A%D9%86.jpg"group-title="زوج تحت الاقامة الجبرية",زوج تحت الاقامة الجبرية S1E25
 #EXTINF:-1 tvg-id="tvg-name=""زوج تحت الاقامة الجبرية S1E26" tvg-logo="https://cima2day.cam/wp-content/uploads/2021/04/%D9%85%D8%B3%D9%84%D8%B3%D9%84-%D8%B2%D9%88%D8%AC-%D8%AA%D8%AD%D8%AA-%D8%A7%D9%84%D8%A7%D9%82%D8%A7%D9%85%D8%A9-%D8%A7%D9%84%D8%AC%D8%A8%D8%B1%D9%8A%D8%A9-2021-%D8%A7%D9%88%D9%86-%D9%84%D8%A7%D9%8A%D9%86.jpg"group-title="زوج تحت الاقامة الجبرية",زوج تحت الاقامة الجبرية S1E26
 #EXTINF:-1 tvg-id="tvg-name=""زوج تحت الاقامة الجبرية S1E27" tvg-logo="https://cima2day.cam/wp-content/uploads/2021/04/%D9%85%D8%B3%D9%84%D8%B3%D9%84-%D8%B2%D9%88%D8%AC-%D8%AA%D8%AD%D8%AA-%D8%A7%D9%84%D8%A7%D9%82%D8%A7%D9%85%D8%A9-%D8%A7%D9%84%D8%AC%D8%A8%D8%B1%D9%8A%D8%A9-2021-%D8%A7%D9%88%D9%86-%D9%84%D8%A7%D9%8A%D9%86.jpg"group-title="زوج تحت الاقامة الجبرية",زوج تحت الاقامة الجبرية S1E27
@@ -2355,10 +2392,11 @@ https://cdn.alarab.com/h264/164897_,48,24,0p.mp4.urlset/playlist.m3u8
 #EXTINF:-1 tvg-id="tvg-name=""مسلسل 2020 S1E23" tvg-logo="https://raw.githubusercontent.com/6j9/mych/master/img/2.jpg"group-title="مسلسل 2020",مسلسل 2020 S1E23
 https://cdn.alarab.com/h264/164965_,48,24,0p.mp4.urlset/playlist.m3u8
 #EXTINF:-1 tvg-id="tvg-name=""مسلسل 2020 S1E24" tvg-logo="https://raw.githubusercontent.com/6j9/mych/master/img/2.jpg"group-title="مسلسل 2020",مسلسل 2020 S1E24
-https://user-content-det-369-vid.moly.cloud/hls/xqx2p6mrjfokjiqbtejspjybunsr4rhi2dligofppn7hzjejkqmwgbeq3cpq/index-v1-a1.m3u8
+https://cdn.alarab.com/h264/164965_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 tvg-id="tvg-name=""مسلسل 2020 S1E25" tvg-logo="https://raw.githubusercontent.com/6j9/mych/master/img/2.jpg"group-title="مسلسل 2020",مسلسل 2020 S1E25
-https://lb.vidscloud.tv/playlist/91e3596acaa5956deef3601c6aa113b0/91e3596acaa5956deef3601c6aa113b0.m3u8
+https://cdn.alarab.com/h264/165008_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 tvg-id="tvg-name=""مسلسل 2020 S1E26" tvg-logo="https://raw.githubusercontent.com/6j9/mych/master/img/2.jpg"group-title="مسلسل 2020",مسلسل 2020 S1E26
+https://cdn.alarab.com/h264/165103_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 tvg-id="tvg-name=""مسلسل 2020 S1E27" tvg-logo="https://raw.githubusercontent.com/6j9/mych/master/img/2.jpg"group-title="مسلسل 2020",مسلسل 2020 S1E27
 #EXTINF:-1 tvg-id="tvg-name=""مسلسل 2020 S1E28" tvg-logo="https://raw.githubusercontent.com/6j9/mych/master/img/2.jpg"group-title="مسلسل 2020",مسلسل 2020 S1E28
 #EXTINF:-1 tvg-id="tvg-name=""مسلسل 2020 S1E29" tvg-logo="https://raw.githubusercontent.com/6j9/mych/master/img/2.jpg"group-title="مسلسل 2020",مسلسل 2020 S1E29
@@ -2594,7 +2632,9 @@ https://cdn.alarab.com/h264/164900_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 tvg-id="tvg-name=""خلي بالك من زيزي S1E24" tvg-logo="https://www.almashhadalaraby.com/photos/605dbf4a478e6.jpeg"group-title="خلي بالك من زيزي",خلي بالك من زيزي S1E24
 https://cdn.alarab.com/h264/164959_,48,24,0p.mp4.urlset/playlist.m3u8
 #EXTINF:-1 tvg-id="tvg-name=""خلي بالك من زيزي S1E25" tvg-logo="https://www.almashhadalaraby.com/photos/605dbf4a478e6.jpeg"group-title="خلي بالك من زيزي",خلي بالك من زيزي S1E25
+https://cdn.alarab.com/h264/165015_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 tvg-id="tvg-name=""خلي بالك من زيزي S1E26" tvg-logo="https://www.almashhadalaraby.com/photos/605dbf4a478e6.jpeg"group-title="خلي بالك من زيزي",خلي بالك من زيزي S1E26
+https://cdn.alarab.com/h264/165088_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 tvg-id="tvg-name=""خلي بالك من زيزي S1E27" tvg-logo="https://www.almashhadalaraby.com/photos/605dbf4a478e6.jpeg"group-title="خلي بالك من زيزي",خلي بالك من زيزي S1E27
 #EXTINF:-1 tvg-id="tvg-name=""خلي بالك من زيزي S1E28" tvg-logo="https://www.almashhadalaraby.com/photos/605dbf4a478e6.jpeg"group-title="خلي بالك من زيزي",خلي بالك من زيزي S1E28
 #EXTINF:-1 tvg-id="tvg-name=""خلي بالك من زيزي S1E29" tvg-logo="https://www.almashhadalaraby.com/photos/605dbf4a478e6.jpeg"group-title="خلي بالك من زيزي",خلي بالك من زيزي S1E29
