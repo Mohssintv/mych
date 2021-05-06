@@ -1,5 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="ext" tvg-logo="https://bit.ly/3s3YSwy" group-title="☆NETFLIX MIX☆",Rakuten TV
+#EXTINF:-1 tvg-id="tvg-name=""قيد مجهول S1E1" tvg-logo="https://i.fosta-tv.org/uploads/articles/5bca9def.jpg"group-title="قيد مجهول",قيد مجهول S1E1
+
+#EXTINF:-1 tvg-id="" 
 https://rakuten-comedymovies-3-de.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://denachtvlinders.nl/wp-content/uploads/2018/04/netflix-nederland-300x169.jpg" group-title="☆NETFLIX MIX☆",Action Movies DE
 https://rakuten-actionmovies-3-de.samsung.wurl.com/manifest/playlist.m3u8
