@@ -1,0 +1,123 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://bit.ly/3s3YSwy" group-title="☆NETFLIX MIX☆",Rakuten TV
+https://rakuten-comedymovies-3-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://denachtvlinders.nl/wp-content/uploads/2018/04/netflix-nederland-300x169.jpg" group-title="☆NETFLIX MIX☆",Action Movies DE
+https://rakuten-actionmovies-3-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://denachtvlinders.nl/wp-content/uploads/2018/04/netflix-nederland-300x169.jpg" group-title="☆NETFLIX MIX☆",Action Movies AT
+https://rakuten-actionmovies-5-at.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://denachtvlinders.nl/wp-content/uploads/2018/04/netflix-nederland-300x169.jpg" group-title="☆NETFLIX MIX☆",Action Movies CH
+https://rakuten-actionmovies-4-ch.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://denachtvlinders.nl/wp-content/uploads/2018/04/netflix-nederland-300x169.jpg" group-title="☆NETFLIX MIX☆",Comedy Movies DE
+https://rakuten-comedymovies-3-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://denachtvlinders.nl/wp-content/uploads/2018/04/netflix-nederland-300x169.jpg" group-title="☆NETFLIX MIX☆",Comedy Movies AT
+https://rakuten-comedymovies-5-at.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://denachtvlinders.nl/wp-content/uploads/2018/04/netflix-nederland-300x169.jpg" group-title="☆NETFLIX MIX☆",Comedy Movies CH
+https://rakuten-comedymovies-4-ch.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://denachtvlinders.nl/wp-content/uploads/2018/04/netflix-nederland-300x169.jpg" group-title="☆NETFLIX MIX☆",Drama DE
+https://rakuten-tvshows-3-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://denachtvlinders.nl/wp-content/uploads/2018/04/netflix-nederland-300x169.jpg" group-title="☆NETFLIX MIX☆",Drama AT
+https://rakuten-tvshows-5-at.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://denachtvlinders.nl/wp-content/uploads/2018/04/netflix-nederland-300x169.jpg" group-title="☆NETFLIX MIX☆",Drama CH
+https://rakuten-tvshows-4-ch.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://denachtvlinders.nl/wp-content/uploads/2018/04/netflix-nederland-300x169.jpg" group-title="☆NETFLIX MIX☆",Der Serienkanal DE (breaks off)
+https://endemol-derserienkanal-1-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://denachtvlinders.nl/wp-content/uploads/2018/04/netflix-nederland-300x169.jpg" group-title="☆NETFLIX MIX☆",Der Serienkanal AT (stop at ads)
+https://endemol-derserienkanal-1-at.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://denachtvlinders.nl/wp-content/uploads/2018/04/netflix-nederland-300x169.jpg" group-title="☆NETFLIX MIX☆",Der Serienkanal CH (stop at ads)
+https://endemol-derserienkanal-1-ch.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://denachtvlinders.nl/wp-content/uploads/2018/04/netflix-nederland-300x169.jpg" group-title="☆NETFLIX MIX☆",Amuse Animation (FR)
+https://amuse-amuseanimation-2-fr.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://denachtvlinders.nl/wp-content/uploads/2018/04/netflix-nederland-300x169.jpg" group-title="☆NETFLIX MIX☆",Bloomberg TV+
+https://bloomberg-bloombergtv-1-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://denachtvlinders.nl/wp-content/uploads/2018/04/netflix-nederland-300x169.jpg" group-title="☆NETFLIX MIX☆",Classical Harmony (FR)
+https://alchimie-classical-harmony-1-fr.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://denachtvlinders.nl/wp-content/uploads/2018/04/netflix-nederland-300x169.jpg" group-title="☆NETFLIX MIX☆",CNN International
+https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://denachtvlinders.nl/wp-content/uploads/2018/04/netflix-nederland-300x169.jpg" group-title="☆NETFLIX MIX☆",DUST
+https://dust-samsung-uk-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://denachtvlinders.nl/wp-content/uploads/2018/04/netflix-nederland-300x169.jpg" group-title="☆NETFLIX MIX☆",Edge Sport (US)
+https://img-edgesport.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://denachtvlinders.nl/wp-content/uploads/2018/04/netflix-nederland-300x169.jpg" group-title="☆NETFLIX MIX☆",Eleven Sports (UK)
+https://elevensports-samsunguk-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://denachtvlinders.nl/wp-content/uploads/2018/04/netflix-nederland-300x169.jpg" group-title="☆NETFLIX MIX☆",ESR (US)
+https://esr-samsung.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://denachtvlinders.nl/wp-content/uploads/2018/04/netflix-nederland-300x169.jpg" group-title="☆NETFLIX MIX☆",Fashion TV
+https://fashiontv-fashiontv-4-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://denachtvlinders.nl/wp-content/uploads/2018/04/netflix-nederland-300x169.jpg" group-title="☆NETFLIX MIX☆",Froot TV (EU)
+https://outtv-froottv-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://denachtvlinders.nl/wp-content/uploads/2018/04/netflix-nederland-300x169.jpg" group-title="☆NETFLIX MIX☆",Fuel TV
+https://fueltv-fueltv-5-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://denachtvlinders.nl/wp-content/uploads/2018/04/netflix-nederland-300x169.jpg" group-title="☆NETFLIX MIX☆",GUSTO TV (UK)
+https://gustotv-samsung-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://denachtvlinders.nl/wp-content/uploads/2018/04/netflix-nederland-300x169.jpg" group-title="☆NETFLIX MIX☆",Insight TV
+https://insighttv-samsung-de.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://denachtvlinders.nl/wp-content/uploads/2018/04/netflix-nederland-300x169.jpg" group-title="☆NETFLIX MIX☆",Inwonder TV
+https://inwonder-samsung-de.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://denachtvlinders.nl/wp-content/uploads/2018/04/netflix-nederland-300x169.jpg" group-title="☆NETFLIX MIX☆",Masters of Food (UK)
+https://endemol-mastersoffood-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/zcFYJLu.png" group-title="☆NETFLIX MIX☆",Motorvision TV (UK)
+https://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-motorvisiontv/CDN/master.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/fZDrLpd.png" group-title="☆NETFLIX MIX☆",Outdoor America (US)
+https://obsession-media-sinclair.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/1CViR0E.png" group-title="☆NETFLIX MIX☆",Outside TV (US)
+https://outside-tv.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/2U84ozo.png" group-title="☆NETFLIX MIX☆",People are Awesome
+https://jukin-peopleareawesome-2-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/iJmj6zC.png" group-title="☆NETFLIX MIX☆",Power Nation (US)
+https://rtmtv-samsung.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/IVUgJPY.png" group-title="☆NETFLIX MIX☆",Qello Concerts by Stingray
+https://stingray-qelloconcerts-2-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/bhSrOea.jpg" group-title="☆NETFLIX MIX☆",QUEST TV Jazz and Beyond (UK)
+https://qwestjazz-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/B69BHnx.jpg" group-title="☆NETFLIX MIX☆",QUEST TV Classical (UK)
+https://qwestclassic-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/B69BHnx.jpg" group-title="☆NETFLIX MIX☆",QUEST TV MIX (UK)
+https://qwestmix-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/VUlZlJe.jpg" group-title="☆NETFLIX MIX☆",Reuters TV (EU)
+https://reuters-reuters-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/x06npU2.png" group-title="☆NETFLIX MIX☆",Samsung Wildlife TV (US)
+https://d23gend7a1exlu.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/Srxa6cR.png" group-title="☆NETFLIX MIX☆",Sofy TV
+https://sofy-ger-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/vbb3bjW.png" group-title="☆NETFLIX MIX☆",Spotlight DE
+https://rakuten-spotlight-3-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/vbb3bjW.png" group-title="☆NETFLIX MIX☆",Spotlight AT
+https://rakuten-spotlight-5-at.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/vbb3bjW.png" group-title="☆NETFLIX MIX☆",Spotlight CH
+https://rakuten-spotlight-4-ch.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/XkBOu3Q.jpg" group-title="☆NETFLIX MIX☆",Stingray Karaoke
+https://stingray-karaoke-2-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/sw1LtJ4.png" group-title="☆NETFLIX MIX☆",Stingray Naturescape (US)
+https://stingray-naturescape-1.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/35BpWJh.jpg" group-title="☆NETFLIX MIX☆",Supertoons TV
+https://kedoo-supertoonstv-5-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/dwMUVhs.png" group-title="☆NETFLIX MIX☆",Tastemade
+https://tastemade-de-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/FlCXGip.jpg" group-title="☆NETFLIX MIX☆",Teletubbies
+https://dhx-teletubbies-3-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/WEM9B83.png" group-title="☆NETFLIX MIX☆",Tennis Channel (UK)
+https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/EwPX6o9.png" group-title="☆NETFLIX MIX☆",The Boat Show (EU)
+https://vitor-theboatshow-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/RHqiy4Z.png" group-title="☆NETFLIX MIX☆",The Pet Collective
+https://the-pet-collective-international-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/9JTMh3F.jpg" group-title="☆NETFLIX MIX☆",Timeline (UK)
+https://timeline-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/o8ooqA1.png" group-title="☆NETFLIX MIX☆",Tiny House Nation (US)
+https://aenetworks-tinyhousenation-1.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/6V48LwT.jpg" group-title="☆NETFLIX MIX☆",Travel XP
+https://travelxp-travelxp-2-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/CbZzzAI.png" group-title="☆NETFLIX MIX☆",True Stories (UK)
+https://realstories-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/SAZF1cq.jpg" group-title="☆NETFLIX MIX☆",Weather Spy (UK)
+https://jukin-weatherspy-2-eu.rakuten.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/VaDrfKr.png" group-title="☆NETFLIX MIX☆",XITE
+https://xite-samsung-de.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/X27MGHd.png" group-title="☆NETFLIX MIX☆",Young Hollywood (US)
+https://younghollywood-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/85LA7Zm.png" group-title="☆NETFLIX MIX☆",ZooMoo (EU)
+https://rockentertainment-zoomoo-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://content.weyyak.com/5a7c9610-5562-407b-b711-f31ce6267786/poster-image" group-title="☆OSN BLACK TV☆",Zee Aflam
+https://weyyak-live.akamaized.net/weyyak_zee_aflam/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://content.weyyak.com/25a860af-4bbc-4289-8e1f-b3bed0dcc64a/poster-image" group-title="☆OSN BLACK TV☆",Zee Alwan
+https://weyyak-live.akamaized.net/weyyak_zee_alwan/index.m3u8
