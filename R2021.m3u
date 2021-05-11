@@ -247,6 +247,7 @@ https://cdn.alarab.com/h264/165294_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 tvg-id="tvg-name=""سوق الحرير 2 S1E29" tvg-logo="https://raw.githubusercontent.com/6j9/mych/master/img/S4.jpg"group-title="سوق الحرير 2",سوق الحرير 2 S1E29
 https://cdn.alarab.com/h264/165389_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 tvg-id="tvg-name=""سوق الحرير 2 S1E30" tvg-logo="https://raw.githubusercontent.com/6j9/mych/master/img/S4.jpg"group-title="سوق الحرير 2",سوق الحرير 2 S1E30
+https://cdn.alarab.com/h264/165503_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 tvg-id="tvg-name=""سوق الحرير 2 S1E31" tvg-logo="https://raw.githubusercontent.com/6j9/mych/master/img/S4.jpg"group-title="سوق الحرير 2",سوق الحرير 2 S1E31
 #EXTINF:-1 tvg-id="tvg-name=""سوق الحرير 2 S1E32" tvg-logo="https://raw.githubusercontent.com/6j9/mych/master/img/S4.jpg"group-title="سوق الحرير 2",سوق الحرير 2 S1E32
 #EXTINF:-1 tvg-id="tvg-name=""سوق الحرير 2 S1E33" tvg-logo="https://raw.githubusercontent.com/6j9/mych/master/img/S4.jpg"group-title="سوق الحرير 2",سوق الحرير 2 S1E33
@@ -415,40 +416,41 @@ https://cdn.alarab.com/h264/163545_,48,24,0p.mp4.urlset/playlist.m3u8
 #EXTINF:-1 tvg-id="tvg-name=""لعبة نيوتن S1E2" tvg-logo="https://img.youm7.com/large/202104121126332633.jpg"group-title="لعبة نيوتن",لعبة نيوتن S1E2
 https://cdn.alarab.com/h264/163663_,48,24,0p.mp4.urlset/playlist.m3u8
 #EXTINF:-1 tvg-id="tvg-name=""لعبة نيوتن S1E3" tvg-logo="https://img.youm7.com/large/202104121126332633.jpg"group-title="لعبة نيوتن",لعبة نيوتن S1E3
-http://conv.alarab.com/media/videos/h264/163722_720p.mp4
+https://cdn.alarab.com/h264/163722_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 tvg-id="tvg-name=""لعبة نيوتن S1E4" tvg-logo="https://img.youm7.com/large/202104121126332633.jpg"group-title="لعبة نيوتن",لعبة نيوتن S1E4
-http://conv.alarab.com/media/videos/h264/163791_720p.mp4
+https://cdn.alarab.com/h264/163791_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 tvg-id="tvg-name=""لعبة نيوتن S1E5" tvg-logo="https://img.youm7.com/large/202104121126332633.jpg"group-title="لعبة نيوتن",لعبة نيوتن S1E5
-http://conv.alarab.com/media/videos/h264/163847_720p.mp4
+https://cdn.alarab.com/h264/163847_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 tvg-id="tvg-name=""لعبة نيوتن S1E6" tvg-logo="https://img.youm7.com/large/202104121126332633.jpg"group-title="لعبة نيوتن",لعبة نيوتن S1E6
-http://conv.alarab.com/media/videos/h264/163913_720p.mp4
+https://cdn.alarab.com/h264/163913_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 tvg-id="tvg-name=""لعبة نيوتن S1E7" tvg-logo="https://img.youm7.com/large/202104121126332633.jpg"group-title="لعبة نيوتن",لعبة نيوتن S1E7
-http://conv.alarab.com/media/videos/h264/163983_720p.mp4
+https://cdn.alarab.com/h264/163983_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 tvg-id="tvg-name=""لعبة نيوتن S1E8" tvg-logo="https://img.youm7.com/large/202104121126332633.jpg"group-title="لعبة نيوتن",لعبة نيوتن S1E8
-http://conv.alarab.com/media/videos/h264/164062_720p.mp4
+https://cdn.alarab.com/h264/164062_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 tvg-id="tvg-name=""لعبة نيوتن S1E9" tvg-logo="https://img.youm7.com/large/202104121126332633.jpg"group-title="لعبة نيوتن",لعبة نيوتن S1E9
-http://conv.alarab.com/media/videos/h264/164129_720p.mp4
+https://cdn.alarab.com/h264/164129_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 tvg-id="tvg-name=""لعبة نيوتن S1E10" tvg-logo="https://img.youm7.com/large/202104121126332633.jpg"group-title="لعبة نيوتن",لعبة نيوتن S1E10
-http://conv.alarab.com/media/videos/h264/164196_720p.mp4
+https://cdn.alarab.com/h264/164196_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 tvg-id="tvg-name=""لعبة نيوتن S1E11" tvg-logo="https://img.youm7.com/large/202104121126332633.jpg"group-title="لعبة نيوتن",لعبة نيوتن S1E11
-http://conv.alarab.com/media/videos/h264/164256_720p.mp4
+https://cdn.alarab.com/h264/164254_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 tvg-id="tvg-name=""لعبة نيوتن S1E12" tvg-logo="https://img.youm7.com/large/202104121126332633.jpg"group-title="لعبة نيوتن",لعبة نيوتن S1E12
-http://conv.alarab.com/media/videos/h264/164314_720p.mp4
+https://cdn.alarab.com/h264/164314_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 tvg-id="tvg-name=""لعبة نيوتن S1E13" tvg-logo="https://img.youm7.com/large/202104121126332633.jpg"group-title="لعبة نيوتن",لعبة نيوتن S1E13
-http://conv.alarab.com/media/videos/h264/164373_720p.mp4
+https://cdn.alarab.com/h264/164373_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 tvg-id="tvg-name=""لعبة نيوتن S1E14" tvg-logo="https://img.youm7.com/large/202104121126332633.jpg"group-title="لعبة نيوتن",لعبة نيوتن S1E14
-http://conv.alarab.com/media/videos/h264/164437_720p.mp4
+https://cdn.alarab.com/h264/164437_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 tvg-id="tvg-name=""لعبة نيوتن S1E15" tvg-logo="https://img.youm7.com/large/202104121126332633.jpg"group-title="لعبة نيوتن",لعبة نيوتن S1E15
-http://conv.alarab.com/media/videos/h264/164512_720p.mp4
+https://cdn.alarab.com/h264/164512_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 tvg-id="tvg-name=""لعبة نيوتن S1E16" tvg-logo="https://img.youm7.com/large/202104121126332633.jpg"group-title="لعبة نيوتن",لعبة نيوتن S1E16
-http://conv.alarab.com/media/videos/h264/164581_720p.mp4
+https://cdn.alarab.com/h264/164581_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 tvg-id="tvg-name=""لعبة نيوتن S1E17" tvg-logo="https://img.youm7.com/large/202104121126332633.jpg"group-title="لعبة نيوتن",لعبة نيوتن S1E17
-http://conv.alarab.com/media/videos/h264/164649_720p.mp4
+https://cdn.alarab.com/h264/164649_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 tvg-id="tvg-name=""لعبة نيوتن S1E18" tvg-logo="https://img.youm7.com/large/202104121126332633.jpg"group-title="لعبة نيوتن",لعبة نيوتن S1E18
-http://conv.alarab.com/media/videos/h264/164717_720p.mp4
+https://cdn.alarab.com/h264/164717_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 tvg-id="tvg-name=""لعبة نيوتن S1E19" tvg-logo="https://img.youm7.com/large/202104121126332633.jpg"group-title="لعبة نيوتن",لعبة نيوتن S1E19
-http://conv.alarab.com/media/videos/h264/164774_720p.mp4
+https://cdn.alarab.com/h264/164774_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 tvg-id="tvg-name=""لعبة نيوتن S1E20" tvg-logo="https://img.youm7.com/large/202104121126332633.jpg"group-title="لعبة نيوتن",لعبة نيوتن S1E20
+https://cdn.alarab.com/h264/164774_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 tvg-id="tvg-name=""لعبة نيوتن S1E21" tvg-logo="https://img.youm7.com/large/202104121126332633.jpg"group-title="لعبة نيوتن",لعبة نيوتن S1E21
 https://cdn.alarab.com/h264/164892_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 tvg-id="tvg-name=""لعبة نيوتن S1E22" tvg-logo="https://img.youm7.com/large/202104121126332633.jpg"group-title="لعبة نيوتن",لعبة نيوتن S1E22
@@ -466,6 +468,7 @@ https://cdn.alarab.com/h264/165293_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 tvg-id="tvg-name=""لعبة نيوتن S1E28" tvg-logo="https://img.youm7.com/large/202104121126332633.jpg"group-title="لعبة نيوتن",لعبة نيوتن S1E28
 https://cdn.alarab.com/h264/165387_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 tvg-id="tvg-name=""لعبة نيوتن S1E29" tvg-logo="https://img.youm7.com/large/202104121126332633.jpg"group-title="لعبة نيوتن",لعبة نيوتن S1E29
+https://cdn.alarab.com/h264/165497_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 tvg-id="tvg-name=""لعبة نيوتن S1E30" tvg-logo="https://img.youm7.com/large/202104121126332633.jpg"group-title="لعبة نيوتن",لعبة نيوتن S1E30
 #EXTINF
 
@@ -591,6 +594,7 @@ https://cdn.alarab.com/h264/165283_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 tvg-id="tvg-name=""ملوك الجدعنة S1E29" tvg-logo="https://o.shahid-online.net/uploads/thumbs/1bad2ba10-1.jpg"group-title="ملوك الجدعنة",ملوك الجدعنة S1E29
 https://cdn.alarab.com/h264/165376_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 tvg-id="tvg-name=""ملوك الجدعنة S1E30" tvg-logo="https://o.shahid-online.net/uploads/thumbs/1bad2ba10-1.jpg"group-title="ملوك الجدعنة",ملوك الجدعنة S1E30
+https://cdn.alarab.com/h264/165496_480p.mp4/index-v1-a1.m3u8
 #EXTINF
 
 --------------------------------------ممنوع التجول-------------------------------------------------
@@ -713,6 +717,7 @@ https://cdn.alarab.com/h264/165285_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 tvg-id="tvg-name=""موسى S1E28" tvg-logo="https://3isk.media/wp-content/uploads/2021/04/09_04_2021-22_50_16-470x470.png"group-title="موسى",موسى S1E28
 https://cdn.alarab.com/h264/165383_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 tvg-id="tvg-name=""موسى S1E29" tvg-logo="https://3isk.media/wp-content/uploads/2021/04/09_04_2021-22_50_16-470x470.png"group-title="موسى",موسى S1E29
+https://cdn.alarab.com/h264/165490_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 tvg-id="tvg-name=""موسى S1E30" tvg-logo="https://3isk.media/wp-content/uploads/2021/04/09_04_2021-22_50_16-470x470.png"group-title="موسى",موسى S1E30
 #EXTINF
 
@@ -1609,7 +1614,7 @@ https://cdn.alarab.com/h264/165289_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 tvg-id="tvg-name=""رامز جلال 2021 S2E28" tvg-logo="https://i.ytimg.com/vi/tOjkdYXomEY/maxresdefault.jpg"group-title="رامز جلال 2021",رامز جلال 2021 S2E28
 https://cdn.alarab.com/h264/165384_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 tvg-id="tvg-name=""رامز جلال 2021 S2E29" tvg-logo="https://i.ytimg.com/vi/tOjkdYXomEY/maxresdefault.jpg"group-title="رامز جلال 2021",رامز جلال 2021 S2E29
-https://s1ycljyupdisdcvewb8fyd6v4b86rdcnzxyth3j33fq4.holavid.com/hls/wya4xvvrr54awxqxiuqn2apincwu3kgxlmdlr2plkprtmpvy7mifdl242nyq/index-v1-a1.m3u8
+https://cdn.alarab.com/h264/165494_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 tvg-id="tvg-name=""رامز جلال 2021 S2E30" tvg-logo="https://i.ytimg.com/vi/tOjkdYXomEY/maxresdefault.jpg"group-title="رامز جلال 2021",رامز جلال 2021 S2E30
 #EXTINF
 
