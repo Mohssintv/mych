@@ -991,9 +991,12 @@ http://conv.alarab.com/media/videos/h264/163310_720p.mp4
 http://conv.alarab.com/media/videos/h264/163419_720p.mp4
 #EXTINF:-1 tvg-id="tvg-name=""الخائن TUR S1E26" tvg-logo="https://m.brstej.com/uploads/articles/ed387739.jpg"group-title="الخائن TUR",الخائن TUR S1E26
 http://conv.alarab.com/media/videos/h264/163707_720p.mp4
-#EXTINF:-1 tvg-id="tvg-name=""الخائن TUR S1E27" tvg-logo="https://m.brstej.com/uploads/articles/ed387739.jpg"group-title="الخائن TUR",الخائن TUR S1E267
+#EXTINF:-1 tvg-id="tvg-name=""الخائن TUR S1E27" tvg-logo="https://m.brstej.com/uploads/articles/ed387739.jpg"group-title="الخائن TUR",الخائن TUR S1E27
 http://conv.alarab.com/media/videos/h264/164813_720p.mp4
-#EXTINF
+#EXTINF:-1 tvg-id="tvg-name=""الخائن TUR S1E28" tvg-logo="https://m.brstej.com/uploads/articles/ed387739.jpg"group-title="الخائن TUR",الخائن TUR S1E28
+https://cdn.alarab.com/h264/165080_480p.mp4/index-v1-a1.m3u8
+#EXTINF:-1 tvg-id="tvg-name=""الخائن TUR S1E29" tvg-logo="https://m.brstej.com/uploads/articles/ed387739.jpg"group-title="الخائن TUR",الخائن TUR S1E29
+https://cdn.alarab.com/h264/165611_480p.mp4/index-v1-a1.m3u8
 
 --------------------------------------------------------الوجه الاخر--------------
 #EXTINF:-1 tvg-id="" tvg-name=" الوجه الأخر 01" tvg-logo="https://video.itfaragtv.com/uploads/thumbs/467980d37-1.jpg" group-title="الوجه الأخر",1
