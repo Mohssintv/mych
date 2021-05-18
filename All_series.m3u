@@ -59,8 +59,10 @@ https://cdn.alarab.com/h264/164816_480p.mp4/index-v1-a1.m3u8
 https://cdn.alarab.com/h264/164819_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 tvg-id="tvg-name=""أخوتي TUR S1E12" tvg-logo="https://3sheeq.net/wp-content/uploads/2021/02/Kardeslerim.jpg"group-title="أخوتي TUR",أخوتي TUR S1E12
 https://cdn.alarab.com/h264/165355_480p.mp4/index-v1-a1.m3u8
+#EXTINF:-1 tvg-id="tvg-name=""أخوتي TUR S1E13" tvg-logo="https://3sheeq.net/wp-content/uploads/2021/02/Kardeslerim.jpg"group-title="أخوتي TUR",أخوتي TUR S1E13
+https://cdn.alarab.com/h264/165699_480p.mp4/index-v1-a1.m3u8
 
-#EXTINF
+
 --------------------------------------قيد مجهول-------------------------------------------------
 #EXTINF:-1 tvg-id="tvg-name=""قيد مجهول S1E1" tvg-logo="https://i.fosta-tv.org/uploads/articles/5bca9def.jpg"group-title="قيد مجهول",قيد مجهول S1E1
 http://conv.alarab.com/media/videos/h264/163074_720p.mp4
@@ -935,9 +937,10 @@ http://conv.alarab.com/media/videos/h264/164025_720p.mp4
 http://conv.alarab.com/media/videos/h264/164479_720p.mp4
 #EXTINF:-1 tvg-id="tvg-name=""الحفرة TUR S4E35" tvg-logo="https://1.bp.blogspot.com/-YtZY-3EJLb8/Wt-56QHv_nI/AAAAAAAAABw/wbJw4sEdCOk-lbaD7LXev7mczYTQW3nYwCLcBGAs/s640/%25D9%2585%25D8%25B3%25D9%2584%25D8%25B3%25D9%2584%2B%25D8%25A7%25D9%2584%25D8%25AD%25D9%2581%25D8%25B1%25D8%25A9%2BCukur-min.png"group-title="الحفرة TUR",الحفرة TUR S4E35
 
-#EXTINF:-1 tvg-id="tvg-name=""الحفرة TUR S4E35" tvg-logo="https://1.bp.blogspot.com/-YtZY-3EJLb8/Wt-56QHv_nI/AAAAAAAAABw/wbJw4sEdCOk-lbaD7LXev7mczYTQW3nYwCLcBGAs/s640/%25D9%2585%25D8%25B3%25D9%2584%25D8%25B3%25D9%2584%2B%25D8%25A7%25D9%2584%25D8%25AD%25D9%2581%25D8%25B1%25D8%25A9%2BCukur-min.png"group-title="الحفرة TUR",الحفرة TUR S4E35
+#EXTINF:-1 tvg-id="tvg-name=""الحفرة TUR S4E36" tvg-logo="https://1.bp.blogspot.com/-YtZY-3EJLb8/Wt-56QHv_nI/AAAAAAAAABw/wbJw4sEdCOk-lbaD7LXev7mczYTQW3nYwCLcBGAs/s640/%25D9%2585%25D8%25B3%25D9%2584%25D8%25B3%25D9%2584%2B%25D8%25A7%25D9%2584%25D8%25AD%25D9%2581%25D8%25B1%25D8%25A9%2BCukur-min.png"group-title="الحفرة TUR",الحفرة TUR S4E36
 https://proxy-006.ix7.dailymotion.com/sec(x7QhsFQT25E0iGMBVv6oUJTh2f_YnLxhuXwigjKcG-UBZp0aZSwJ6tbAJK68F3q6L0SizrbMLn3frBP-FhNd1HnfHvpnUouDl3pDpr1FwTs)/video/453/547/485745354_mp4_h264_aac_hd.m3u8#cell=core&qos_part=1&qos_stail=1
-
+#EXTINF:-1 tvg-id="tvg-name=""الحفرة TUR S4E37" tvg-logo="https://1.bp.blogspot.com/-YtZY-3EJLb8/Wt-56QHv_nI/AAAAAAAAABw/wbJw4sEdCOk-lbaD7LXev7mczYTQW3nYwCLcBGAs/s640/%25D9%2585%25D8%25B3%25D9%2584%25D8%25B3%25D9%2584%2B%25D8%25A7%25D9%2584%25D8%25AD%25D9%2581%25D8%25B1%25D8%25A9%2BCukur-min.png"group-title="الحفرة TUR",الحفرة TUR S4E37
+https://cdn-cached-06-w.dailymotions.cam/hls/mkkhhmsscasl4zz6qkdfiq2opdmrs622fbhwi2btpzdxol4sprdhcorqll6q/index-v1-a1.m3u8
 
 --------------------------------------الخائن TUR-------------------------------------------------
 #EXTINF:-1 tvg-id="tvg-name=""الخائن TUR S1E1" tvg-logo="https://m.brstej.com/uploads/articles/ed387739.jpg"group-title="الخائن TUR",الخائن TUR S1E1
