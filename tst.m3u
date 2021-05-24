@@ -1,6 +1,5 @@
 #EXTM3U 
-#EXTINF:-1,أمينة حاف S1E1, أمينة حاف
-R2021.m3u,https://cdn.alarab.com/h264/163633_480p.mp4/index-v1-a1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: دار الهنا S01 E28" tvg-logo="https://s.shahidmosalsalat.co/uploads/thumbs/682029c18-1.jpg" group-title="SERIES R2021.m3u,https://cdn.alarab.com/h264/163633_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1,Series
 All_series.m3u
 #EXTINF:-1,Rmadan2021
