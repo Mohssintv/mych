@@ -1,5 +1,5 @@
 #EXTM3U 
-#EXTINF:-1 tvg-id="tvg-name=""أمينة حاف S1E1" tvg-logo="https://i0.wp.com/i.krmallk.tv/uploads/articles/5c7935fa.jpg"group-title="أمينة حاف"
+#EXTINF:-1,أمينة حاف S1E1, tvg-logo="https://i0.wp.com/i.krmallk.tv/uploads/articles/5c7935fa.jpg"group-title="أمينة حاف"
 #EXTINF:-1,Series
 All_series.m3u
 #EXTINF:-1,Rmadan2021
