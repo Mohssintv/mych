@@ -1,17 +1,10 @@
 #EXTM3U
 coming soon (https://static.videezy.com/system/resources/previews/000/051/767/original/200717-LoopComingSoonBlueNeonSpace.mp4)
---------------------------------------الافلام-------------------------------------------------
-http://conv.alarab.com/media/videos/h264/160178_480p.mp4
-#EXTINF:-1 tvg-id="" tvg-name="SPELL_2020" tعvg-logo="https://i.ytimg.com/vi/fTznGVd8nyo/maxresdefault.jpg"group-title="E أفلام",SPELL_2020
-http://conv.alarab.com/media/vidبeos/h264/160263_720p.mp4
-#EXTINF:-1 tvg-id="" tvg-name="the.new.mutants.2020" tvg-logo="https://www.filmstories.co.uk/wp-content/uploads/2019/12/the-new-mutants.jpg"group-title="E أفلام",the.new.mutants.2020														
-http://conv.alarab.com/media/videos/h264/160285_720p.mp4
-#EXTINF:-1 tvg-id="" tvg-name="العمر الجديد enm" tvg-logo="https://lab-1.nl/wp-content/uploads/2020/11/the-croods-2-a-new-age.jpg"group-title="E أفلام",العمر الجديد enm														
-http://conv.alarab.com/media/videos/h264/161234_720p.mp4
-#EXTINF:-1 tvg-id="" tvg-name="الفلوس" tvg-logo=""group-title="أفلام عربية"الفلوس
-https://s60.uppom.live/d/srrrzrjwbgeyf3tkiuoi74aop7qxuroscmiurdfbvupotr5izbv6ebhlp3ayy7h6t3lr76ja/Elflos.2020.1080p.HDTV.MyCima.ME.mp4										
-#EXTINF:-1 tvg-id="" tvg-name="مسرحية بدي جارد" tvg-logo=""group-title="أفلام عربية"مسرحية بدي جارد
-https://m.ok.ru/dk/video.mp4?st.cmd=moviePlaybackRedirect&st.sig=d028151388420240e7e5b89376eb0daac0e7609c&st.uid=579098039426&st.mq=3&st.mvid=1892440803970&st.ip=85.144.185.78&st.dla=on&st.exp=1614541591408&st.hls=off&_prevCmd=movieMain&tkn=8035&vdsig=rtmCxszQ0hGNUUQz4xkyrj548lU
+
+---------------------------------------حكاية جزيرة ------------------------------------------------
+#EXTINF:-1 tvg-id="tvg-name=""حكاية جزيرة TUR S1E1" tvg-logo="https://raw.githubusercontent.com/6j9/mych/master/img/Tur/%D8%AD%D9%83%D8%A7%D9%8A%D8%A9%20%D8%AC%D8%B2%D9%8A%D8%B1%D8%A9.jpg"group-title="حكاية جزيرة TUR",حكاية جزيرة TUR S1E1
+https://cdn-cached-for-03-w.dailymotians.cam/hls/liwapkynlm2nsti77f3cuciqwr46gg77gtnzolrcyibr6yfx2h7weqtpzpca/index-v1-a1.m3u8
+
 
 --------------------------------------البراءة TUR-------------------------------------------------
 #EXTINF:-1 tvg-id="tvg-name=""البراءة TUR S1E1" tvg-logo="https://karakib.net/wp-content/uploads/2021/02/1024x576-1ZBKe-780x470.jpeg"group-title="البراءة TUR",البراءة TUR S1E1
@@ -1858,3 +1851,15 @@ https://proxy-025.dc3.dailymotion.com/sec(fYlMOLHzXWLllXEdVcKhPMbJyFDDdn01Bna1FO
 
 #EXTINF:-1 tvg-id="tst2"tvg-name="" tvg-logo=""group-title="tst",tst2
 https://proxy-025.dc3.dailymotion.com/sec(LcnVsQvXPMcs9CgZnJSQ4ZRdGGbomDi3MeK-3dEIlkkPLcMLGLA_of25xIfcvzDMKHLche7GKdKF7p6FS1PiAA)/video/086/959/485959680_mp4_h264_aac_hd.mp4#cell=core&qos_ugc=1
+--------------------------------------الافلام-------------------------------------------------
+http://conv.alarab.com/media/videos/h264/160178_480p.mp4
+#EXTINF:-1 tvg-id="" tvg-name="SPELL_2020" tعvg-logo="https://i.ytimg.com/vi/fTznGVd8nyo/maxresdefault.jpg"group-title="E أفلام",SPELL_2020
+http://conv.alarab.com/media/vidبeos/h264/160263_720p.mp4
+#EXTINF:-1 tvg-id="" tvg-name="the.new.mutants.2020" tvg-logo="https://www.filmstories.co.uk/wp-content/uploads/2019/12/the-new-mutants.jpg"group-title="E أفلام",the.new.mutants.2020														
+http://conv.alarab.com/media/videos/h264/160285_720p.mp4
+#EXTINF:-1 tvg-id="" tvg-name="العمر الجديد enm" tvg-logo="https://lab-1.nl/wp-content/uploads/2020/11/the-croods-2-a-new-age.jpg"group-title="E أفلام",العمر الجديد enm														
+http://conv.alarab.com/media/videos/h264/161234_720p.mp4
+#EXTINF:-1 tvg-id="" tvg-name="الفلوس" tvg-logo=""group-title="أفلام عربية"الفلوس
+https://s60.uppom.live/d/srrrzrjwbgeyf3tkiuoi74aop7qxuroscmiurdfbvupotr5izbv6ebhlp3ayy7h6t3lr76ja/Elflos.2020.1080p.HDTV.MyCima.ME.mp4										
+#EXTINF:-1 tvg-id="" tvg-name="مسرحية بدي جارد" tvg-logo=""group-title="أفلام عربية"مسرحية بدي جارد
+https://m.ok.ru/dk/video.mp4?st.cmd=moviePlaybackRedirect&st.sig=d028151388420240e7e5b89376eb0daac0e7609c&st.uid=579098039426&st.mq=3&st.mvid=1892440803970&st.ip=85.144.185.78&st.dla=on&st.exp=1614541591408&st.hls=off&_prevCmd=movieMain&tkn=8035&vdsig=rtmCxszQ0hGNUUQz4xkyrj548lU
