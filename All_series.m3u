@@ -3,8 +3,11 @@ coming soon (https://static.videezy.com/system/resources/previews/000/051/767/or
 
 ---------------------------------------حكاية جزيرة ------------------------------------------------
 #EXTINF:-1 tvg-id="tvg-name=""حكاية جزيرة TUR S1E1" tvg-logo="https://raw.githubusercontent.com/6j9/mych/master/img/Tur/%D8%AD%D9%83%D8%A7%D9%8A%D8%A9%20%D8%AC%D8%B2%D9%8A%D8%B1%D8%A9.jpg"group-title="حكاية جزيرة TUR",حكاية جزيرة TUR S1E1
-https://oba8.fastcdn.online/hls/ftg473nzpvh473xqlseuaed3nsc6k5hrpcljzbvlcjlsslyxv3qprnbwnmtq/index-v1-a1.m3u8
+https://cdn.alarab.com/h264/166213_480p.mp4/index-v1-a1.m3u8
 
+---------------------------------------لعبة حظ-------------------------------
+#EXTINF:-1 tvg-id="tvg-name=""لعبة حظ TUR S1E1" tvg-logo="https://raw.githubusercontent.com/6j9/mych/master/img/Tur/labet%20haaz.jpg"group-title="لعبة حظ TUR",لعبة حظ TUR S1E1
+https://cdn.alarab.com/h264/166214_480p.mp4/index-v1-a1.m3u8
 ----------------------------------------------أبي البطل--------------------------------------------------
 #EXTINF:-1 tvg-id="tvg-name=""أبي البطل TUR S1E1" tvg-logo="https://raw.githubusercontent.com/6j9/mych/master/img/Tur/Abi-batal.jpg"group-title="أبي البطل TUR",أبي البطل TUR S1E1
 https://oba2.fastcdn.online/hls/ftg4zrtwprh473xqlscuaatnmvocgkxg75swk7abbosxtn2t4yq57l54g3la/index-v1-a1.m3u8
