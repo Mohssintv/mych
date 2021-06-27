@@ -117,6 +117,14 @@ https://cdn.alarab.com/h264/165159_480p.mp4/index-v1-a1.m3u8?/series/
 https://cdn.alarab.com/h264/165237_480p.mp4/index-v1-a1.m3u8?/series/
 #EXTINF: -1 tvg-logo="https://i.ytimg.com/vi/WGjPNzh85JA/maxresdefault.jpg" group-title="يلي مالوش كبير",يلي مالوش كبير S01E27
 https://cdn.alarab.com/h264/165291_480p.mp4/index-v1-a1.m3u8?/series/
+#EXTINF: -1 tvg-logo="https://i.ytimg.com/vi/WGjPNzh85JA/maxresdefault.jpg" group-title="يلي مالوش كبير",يلي مالوش كبير S01E28
+https://www.dailymotion.com/cdn/manifest/video/x81mi97.m3u8?sec=H6-XfXJL5yxbzeGRRSZwQMJhwGgjHkuUA6gQB0Z-_sHFWb6eyVZT7HUvodtY5UiVpRbkyE46XG3VjGRAMd7L2g
+#EXTINF: -1 tvg-logo="https://i.ytimg.com/vi/WGjPNzh85JA/maxresdefault.jpg" group-title="يلي مالوش كبير",يلي مالوش كبير S01E29
+https://proxy-001.dc3.dailymotion.com/sec(wIhAEtcGY0FlKmw_K5ItmSJFd6aZc53cxOrfvwiJwnMhKS1o2YvhoyMvRgNARMbQ5ENv_k1kN0-XLE1VegjoQbLxtuz2oNhAhW3PZ5WeuMg)/video/711/954/486459117_mp4_h264_aac_hq.m3u8#cell=core&qos_part=1&qos_stail=1
+#EXTINF: -1 tvg-logo="https://i.ytimg.com/vi/WGjPNzh85JA/maxresdefault.jpg" group-title="يلي مالوش كبير",يلي مالوش كبير S01E30
+https://proxy-042.dc3.dailymotion.com/sec(f2DpPaaM8u15Kq2lKySPGKKvMH1ZSOQyMXVO5yVsfXhEkt9okWmY9nJQPRIYgL84s-sG3i_5oCY1RrBwsrMnhqFo-oiGe-M5g39Mp3Kq494)/video/811/954/486459118_mp4_h264_aac_hq.m3u8#cell=core&qos_part=1
+
+
 --------------------------------------ضل راجل-------------------------------------------------
 #EXTINF:-1 tvg-id="tvg-name=""ضل راجل S1E1" tvg-logo="https://media.gemini.media/img/large/2021/4/11/2021_4_11_1_55_39_481.jpg"group-title="ضل راجل",ضل راجل S1E1
 https://cdn.alarab.com/h264/163543_480p.mp4/index-v1-a1.m3u8
