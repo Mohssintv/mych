@@ -1,6 +1,6 @@
   
 #EXTM3U
-#EXTINF:-1 tvg-group-title="منوعات يومية",وقت الموت
-#EXTINF:-1 tvg
+#EXTINF:-1 tvg-id="وقت الموت"
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/6j9/mych/master/img/color.png"
+#EXTINF:-1 tvg-group-title="منوعات يومية",وقت الموت
 https://oba8.fastcdn.online/hls/ftg47rnepvh473xqlseuatlgfyiuvox7ie6ceedg4uxogyy3eg5zm35jqkha/index-v1-a1.m3u8
