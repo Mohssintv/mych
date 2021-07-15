@@ -1078,13 +1078,13 @@ https://cdn.alarab.com/h264/165577_480p.mp4/index-v1-a1.m3u8
 
 --------------------------------------الأختيار 2-------------------------------------------------
 #EXTINF:-1 tvg-id="tvg-name=""الأختيار 2 S1E1" tvg-logo="https://raw.githubusercontent.com/6j9/mych/master/img/TST.png"group-title="الأختيار 2",الأختيار 2 S1E1
-http://conv.alarab.com/media/videos/h264/163604_720p.mp4
+https://cdn.alarab.com/h264/163604_480p.mp4/index-v1-a1.m3u8?/series/
 #EXTINF:-1 tvg-id="tvg-name=""الأختيار 2 S1E2" tvg-logo="https://3isk.media/wp-content/uploads/2021/04/maxresdefault-3.jpg"group-title="الأختيار 2",الأختيار 2 S1E2
 https://cdn.alarab.com/h264/163660_,48,24,0p.mp4.urlset/playlist.m3u8
 #EXTINF:-1 tvg-id="tvg-name=""الأختيار 2 S1E3" tvg-logo="https://3isk.media/wp-content/uploads/2021/04/maxresdefault-3.jpg"group-title="الأختيار 2",الأختيار 2 S1E3
-http://conv.alarab.com/media/videos/h264/163729_720p.mp4
+https://cdn.alarab.com/h264/163729_480p.mp4/index-v1-a1.m3u8?/series/
 #EXTINF:-1 tvg-id="tvg-name=""الأختيار 2 S1E4" tvg-logo="https://3isk.media/wp-content/uploads/2021/04/maxresdefault-3.jpg"group-title="الأختيار 2",الأختيار 2 S1E4
-http://conv.alarab.com/media/videos/h264/163801_720p.mp4
+https://cdn.alarab.com/h264/163801_480p.mp4/index-v1-a1.m3u8?/series/
 #EXTINF:-1 tvg-id="tvg-name=""الأختيار 2 S1E5" tvg-logo="https://3isk.media/wp-content/uploads/2021/04/maxresdefault-3.jpg"group-title="الأختيار 2",الأختيار 2 S1E5
 http://conv.alarab.com/media/videos/h264/163860_720p.mp4
 #EXTINF:-1 tvg-id="tvg-name=""الأختيار 2 S1E6" tvg-logo="https://3isk.media/wp-content/uploads/2021/04/maxresdefault-3.jpg"group-title="الأختيار 2",الأختيار 2 S1E6
