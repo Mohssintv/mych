@@ -1077,7 +1077,7 @@ https://cdn.alarab.com/h264/165530_480p.mp4/index-v1-a1.m3u8
 https://cdn.alarab.com/h264/165577_480p.mp4/index-v1-a1.m3u8
 
 --------------------------------------الأختيار 2-------------------------------------------------
-#EXTINF:-1 tvg-id="tvg-name=""الأختيار 2 S1E1" tvg-logo="https://raw.githubusercontent.com/6j9/mych/master/img/TST.png"group-title="الأختيار 2",الأختيار 2 S1E1
+#EXTINF:-1 tvg-id="tvg-name=""الأختيار 2 S1E1" tvg-logo="https://3isk.media/wp-content/uploads/2021/04/maxresdefault-3.jpg"group-title="الأختيار 2",الأختيار 2 S1E1
 https://cdn.alarab.com/h264/163604_480p.mp4/index-v1-a1.m3u8?/series/
 #EXTINF:-1 tvg-id="tvg-name=""الأختيار 2 S1E2" tvg-logo="https://3isk.media/wp-content/uploads/2021/04/maxresdefault-3.jpg"group-title="الأختيار 2",الأختيار 2 S1E2
 https://cdn.alarab.com/h264/163660_,48,24,0p.mp4.urlset/playlist.m3u8
@@ -1136,6 +1136,7 @@ https://cdn.alarab.com/h264/165393_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 tvg-id="tvg-name=""الأختيار 2 S1E29" tvg-logo="https://3isk.media/wp-content/uploads/2021/04/maxresdefault-3.jpg"group-title="الأختيار 2",الأختيار 2 S1E29
 https://cdn.alarab.com/h264/165513_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 tvg-id="tvg-name=""الأختيار 2 S1E30" tvg-logo="https://3isk.media/wp-content/uploads/2021/04/maxresdefault-3.jpg"group-title="الأختيار 2",الأختيار 2 S1E30
+https://cdn.alarab.com/h264/165576_480p.mp4/index-v1-a1.m3u8
 #EXTINF
 
 --------------------------------------القاهرة كابول-------------------------------------------------
