@@ -1,10 +1,27 @@
 #EXTM3U
 coming soon (https://static.videezy.com/system/resources/previews/000/051/767/original/200717-LoopComingSoonBlueNeonSpace.mp4)
-
-#EXTINF:-1,مصيبة رأسي 1 group-title="مصيبة رأس "
+--------------------------------------مصيبة رأسي-------------------------------------------------
+#EXTINF:-1 tvg-id="tvg-name=""مصيبة رأسي S1E1" tvg-logo="https://ww.3sheeq.com/wp-content/uploads/2021/05/1037160-780x470-1.jpg"group-title="مصيبة رأسي",مصيبة رأسي S1E1
 https://cdn.alarab.com/h264/166511_,48,24,0p.mp4.urlset/playlist.m3u8
-#EXTINF:-1,مصيبة رأسي 2 group-title="مصيبة رأسي"
+#EXTINF:-1 tvg-id="tvg-name=""مصيبة رأسي S1E2" tvg-logo="https://ww.3sheeq.com/wp-content/uploads/2021/05/1037160-780x470-1.jpg"group-title="مصيبة رأسي",مصيبة رأسي S1E2
 https://cdn.alarab.com/h264/166389_,48,24,0p.mp4.urlset/playlist.m3u8
+#EXTINF:-1 tvg-id="tvg-name=""مصيبة رأسي S1E3" tvg-logo="https://ww.3sheeq.com/wp-content/uploads/2021/05/1037160-780x470-1.jpg"group-title="مصيبة رأسي",مصيبة رأسي S1E3
+https://cdn.alarab.com/h264/166525_,48,24,0p.mp4.urlset/playlist.m3u8
+#EXTINF:-1 tvg-id="tvg-name=""مصيبة رأسي S1E4" tvg-logo="https://ww.3sheeq.com/wp-content/uploads/2021/05/1037160-780x470-1.jpg"group-title="مصيبة رأسي",مصيبة رأسي S1E4
+https://cdn.alarab.com/h264/166654_,48,24,0p.mp4.urlset/playlist.m3u8
+#EXTINF:-1 tvg-id="tvg-name=""مصيبة رأسي S1E5" tvg-logo="https://ww.3sheeq.com/wp-content/uploads/2021/05/1037160-780x470-1.jpg"group-title="مصيبة رأسي",مصيبة رأسي S1E5
+https://cdn.alarab.com/h264/166748_,48,24,0p.mp4.urlset/playlist.m3u8
+#EXTINF:-1 tvg-id="tvg-name=""مصيبة رأسي S1E6" tvg-logo="https://ww.3sheeq.com/wp-content/uploads/2021/05/1037160-780x470-1.jpg"group-title="مصيبة رأسي",مصيبة رأسي S1E6
+https://cdn.alarab.com/h264/166794_,48,24,0p.mp4.urlset/playlist.m3u8
+#EXTINF:-1 tvg-id="tvg-name=""مصيبة رأسي S1E7" tvg-logo="https://ww.3sheeq.com/wp-content/uploads/2021/05/1037160-780x470-1.jpg"group-title="مصيبة رأسي",مصيبة رأسي S1E7
+https://cdn.alarab.com/h264/166965_,48,24,0p.mp4.urlset/playlist.m3u8
+#EXTINF:-1 tvg-id="tvg-name=""مصيبة رأسي S1E8" tvg-logo="https://ww.3sheeq.com/wp-content/uploads/2021/05/1037160-780x470-1.jpg"group-title="مصيبة رأسي",مصيبة رأسي S1E8
+https://cdn.alarab.com/h264/166967_,48,24,0p.mp4.urlset/playlist.m3u8
+#EXTINF:-1 tvg-id="tvg-name=""مصيبة رأسي S1E9" tvg-logo="https://ww.3sheeq.com/wp-content/uploads/2021/05/1037160-780x470-1.jpg"group-title="مصيبة رأسي",مصيبة رأسي S1E9
+https://cdn.alarab.com/h264/167057_,48,24,0p.mp4.urlset/playlist.m3u8
+#EXTINF:-1 tvg-id="tvg-name=""مصيبة رأسي S1E10" tvg-logo="https://ww.3sheeq.com/wp-content/uploads/2021/05/1037160-780x470-1.jpg"group-title="مصيبة رأسي",مصيبة رأسي S1E10
+https://cdn.alarab.com/h264/167168_,48,24,0p.mp4.urlset/playlist.m3u8
+#EXTINF:-1 tvg-id="tvg-name=""مصيبة رأسي S1E11" tvg-logo="https://ww.3sheeq.com/wp-content/uploads/2021/05/1037160-780x470-1.jpg"group-title="مصيبة رأسي",مصيبة رأسي S1E11
 
 --------------------------------------صالون زهرة-------------------------------------------------
 #EXTINF:-1 tvg-id="tvg-name=""صالون زهرة S1E1" tvg-logo="https://alarabclub.net:2053/wp-content/uploads/2021/08/photo_2021-08-18_14-26-39.jpg"group-title="صالون زهرة",صالون زهرة S1E1
