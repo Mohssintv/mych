@@ -1,8 +1,5 @@
 #EXTM3U
-#EXTINF:-1,صالون زهرة
-https://cdn.alarab.com/h264/163524_480p.mp4/index-v1-a1.m3u8?/series/1
-#EXTINF:-1,صرخة نملة
-https://cdn.alarab.com/textfilenames/5a290cf8f4e02df2826f00d8fe6b2481.mp4/index-v1-a1.m3u8?/movie/
+
 #EXTINF:-1 tvg-id="tvg-name=""مصيبة رأسي S1E1" tvg-logo="https://ww.3sheeq.com/wp-content/uploads/2021/05/1037160-780x470-1.jpg"group-title="مصيبة رأسي",مصيبة رأسي S1E1
 https://cdn.alarab.com/h264/166511_,48,24,0p.mp4.urlset/playlist.m3u8?/series/
 #EXTINF:-1 tvg-id="tvg-name=""مصيبة رأسي S1E2" tvg-logo="https://ww.3sheeq.com/wp-content/uploads/2021/05/1037160-780x470-1.jpg"group-title="مصيبة رأسي",مصيبة رأسي S1E2
@@ -24,5 +21,3 @@ https://cdn.alarab.com/h264/167057_,48,24,0p.mp4.urlset/playlist.m3u8?/series/
 #EXTINF:-1 tvg-id="tvg-name=""مصيبة رأسي S1E10" tvg-logo="https://ww.3sheeq.com/wp-content/uploads/2021/05/1037160-780x470-1.jpg"group-title="مصيبة رأسي",مصيبة رأسي S1E10
 https://cdn.alarab.com/h264/167168_,48,24,0p.mp4.urlset/playlist.m3u8?/series/
 #EXTINF:-1 tvg-id="tvg-name=""مصيبة رأسي S1E11" tvg-logo="https://ww.3sheeq.com/wp-content/uploads/2021/05/1037160-780x470-1.jpg"group-title="مصيبة رأسي",مصيبة رأسي S1E11
-
---------------------------------------صالون زهرة-------------------------------------------------
