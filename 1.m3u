@@ -1,5 +1,5 @@
 #EXTM3U
 #EXTINF: -1 tvg-logo="https://cdn.statically.io/img/j.brstej.com/f=webp,q=80/uploads/articles/12d25185.jpg" group-title="مسلسلات لبنانية رمضان 2021",راحو S01E1
-https://cdn.alarab.com/h264/163524_480p.mp4/index-v1-a1.m3u8?/series/
+https://cdn.alarab.com/h264/163524_480p.mp4/index-v1-a1.m3u8?/Series
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/2NXaqmN" group-title="MOVEIS ARABIC",صرخة نملة
-https://cdn.alarab.com/textfilenames/5a290cf8f4e02df2826f00d8fe6b2481.mp4/index-v1-a1.m3u8?/movie/
+https://cdn.alarab.com/textfilenames/5a290cf8f4e02df2826f00d8fe6b2481.mp4/index-v1-a1.m3u8?/Movie
