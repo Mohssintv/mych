@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3rd0V0Z" group-title="MOVEIS ARABIC",اسد واربع قطط
+https://cdn.alarab.com/textfilenames/ff2b37027d49d262d1842207582bc9e1.mp4/index-v1-a1.m3u8?/movie/
 #EXTINF:-1 tvg-id="tvg-name=""مصيبة رأسي S1E1" tvg-logo="https://ww.3sheeq.com/wp-content/uploads/2021/05/1037160-780x470-1.jpg"group-title="مصيبة رأسي",مصيبة رأسي S1E1
 https://cdn.alarab.com/h264/166511_,48,24,0p.mp4.urlset/playlist.m3u8?/series/
 #EXTINF:-1 tvg-id="tvg-name=""مصيبة رأسي S1E2" tvg-logo="https://ww.3sheeq.com/wp-content/uploads/2021/05/1037160-780x470-1.jpg"group-title="مصيبة رأسي",مصيبة رأسي S1E2
