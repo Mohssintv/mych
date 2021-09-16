@@ -76,21 +76,26 @@ https://cdn.alarab.com/h264/167168_,48,24,0p.mp4.urlset/playlist.m3u8
 
 --------------------------------------صالون زهرة-------------------------------------------------
 #EXTINF:-1 tvg-id="tvg-name=""صالون زهرة S1E1" tvg-logo="https://alarabclub.net:2053/wp-content/uploads/2021/08/photo_2021-08-18_14-26-39.jpg"group-title="صالون زهرة",صالون زهرة S1E1
-https://ostream2.nextcdn.net/vod/786/786435/786435.mp4/playlist.m3u8
+https://ostream2.nextcdn.net/vod/786/786435/786435.mp4/playlist.m3u8?/series/
 #EXTINF:-1 tvg-id="tvg-name=""صالون زهرة S1E2" tvg-logo="https://alarabclub.net:2053/wp-content/uploads/2021/08/photo_2021-08-18_14-26-39.jpg"group-title="صالون زهرة",صالون زهرة S1E2
-https://ostream2.nextcdn.net/vod/786/786402/786402.mp4/playlist.m3u8
+https://ostream2.nextcdn.net/vod/786/786402/786402.mp4/playlist.m3u8?/series/
 #EXTINF:-1 tvg-id="tvg-name=""صالون زهرة S1E3" tvg-logo="https://alarabclub.net:2053/wp-content/uploads/2021/08/photo_2021-08-18_14-26-39.jpg"group-title="صالون زهرة",صالون زهرة S1E3
-https://ostream2.nextcdn.net/vod/787/787689/787689.mp4/playlist.m3u8
+https://ostream2.nextcdn.net/vod/787/787689/787689.mp4/playlist.m3u8?/series/
 #EXTINF:-1 tvg-id="tvg-name=""صالون زهرة S1E4" tvg-logo="https://alarabclub.net:2053/wp-content/uploads/2021/08/photo_2021-08-18_14-26-39.jpg"group-title="صالون زهرة",صالون زهرة S1E4
-https://ostream3.nextcdn.net/vod/787/787711/787711.mp4/playlist.m3u8
+https://ostream3.nextcdn.net/vod/787/787711/787711.mp4/playlist.m3u8?/series/
 #EXTINF:-1 tvg-id="tvg-name=""صالون زهرة S1E5" tvg-logo="https://alarabclub.net:2053/wp-content/uploads/2021/08/photo_2021-08-18_14-26-39.jpg"group-title="صالون زهرة",صالون زهرة S1E5
-https://ostream3.nextcdn.net/vod/790/790098/790098.mp4/chunk.m3u8
+https://ostream3.nextcdn.net/vod/790/790098/790098.mp4/chunk.m3u8?/series/
 #EXTINF:-1 tvg-id="tvg-name=""صالون زهرة S1E6" tvg-logo="https://alarabclub.net:2053/wp-content/uploads/2021/08/photo_2021-08-18_14-26-39.jpg"group-title="صالون زهرة",صالون زهرة S1E6
-https://ostream3.nextcdn.net/vod/790/790013/790013.mp4/chunk.m3u8
+https://ostream3.nextcdn.net/vod/790/790013/790013.mp4/chunk.m3u8?/series/
 #EXTINF:-1 tvg-id="tvg-name=""صالون زهرة S1E7" tvg-logo="https://alarabclub.net:2053/wp-content/uploads/2021/08/photo_2021-08-18_14-26-39.jpg"group-title="صالون زهرة",صالون زهرة S1E7
-https://files38.seeeed.xyz/d/hyqpt2frfsrnuwfu756jfyhhxxv24bxpto22s6pbbpfr6cs4kkdnviuaikpvv3zaimjok2ae/video.mp4
+https://files38.seeeed.xyz/d/hyqpt2frfsrnuwfu756jfyhhxxv24bxpto22s6pbbpfr6cs4kkdnviuaikpvv3zaimjok2ae/video.mp4?/series/
 #EXTINF:-1 tvg-id="tvg-name=""صالون زهرة S1E8" tvg-logo="https://alarabclub.net:2053/wp-content/uploads/2021/08/photo_2021-08-18_14-26-39.jpg"group-title="صالون زهرة",صالون زهرة S1E8
-https://ostream3.nextcdn.net/vod/786/786402/786402.mp4/playlist.m3u8
+https://ostream3.nextcdn.net/vod/786/786402/786402.mp4/playlist.m3u8?/series/
+#EXTINF:-1 tvg-id="tvg-name=""صالون زهرة S1E9" tvg-logo="https://alarabclub.net:2053/wp-content/uploads/2021/08/photo_2021-08-18_14-26-39.jpg"group-title="صالون زهرة",صالون زهرة S1E8
+https://ostream2.nextcdn.net/vod/794/794064/794064.mp4/playlist.m3u8?/series/
+#EXTINF:-1 tvg-id="tvg-name=""صالون زهرة S1E10" tvg-logo="https://alarabclub.net:2053/wp-content/uploads/2021/08/photo_2021-08-18_14-26-39.jpg"group-title="صالون زهرة",صالون زهرة S1E8
+https://ostream3.nextcdn.net/vod/794/794111/794111.mp4/playlist.m3u8?/series/
+
 
 ---------------------------------------حكاية جزيرة ------------------------------------------------
 #EXTINF:-1 tvg-id="tvg-name=""حكاية جزيرة TUR S1E1" tvg-logo="https://raw.githubusercont#EXTINF: -1 tvg-logo="https://r.emotionvideo.tv/uploads/thumbs/8dcf13ea2-1.jpg" group-title="مسلسلات لبنانية رمضان 2021",زوج تحت الاقامة الجبرية S01E1
@@ -224,8 +229,10 @@ https://cdn.alarab.com/h264/165952_480p.mp4/index-v1-a1.m3u8
 https://cdn.alarab.com/h264/166059_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 tvg-id="tvg-name=""أخوتي TUR S1E17" tvg-logo="https://3sheeq.net/wp-content/uploads/2021/02/Kardeslerim.jpg"group-title="أخوتي TUR",أخوتي TUR S1E17
 https://cdn.alarab.com/h264/166174_480p.mp4/index-v1-a1.m3u8
-#EXTINF:-1 tvg-id="tvg-name=""أخوتي TUR S1E187" tvg-logo="https://3sheeq.net/wp-content/uploads/2021/02/Kardeslerim.jpg"group-title="أخوتي TUR",أخوتي TUR S1E18
+#EXTINF:-1 tvg-id="tvg-name=""أخوتي TUR S1E18" tvg-logo="https://3sheeq.net/wp-content/uploads/2021/02/Kardeslerim.jpg"group-title="أخوتي TUR",أخوتي TUR S1E18
 https://cdn.alarab.com/h264/166282_480p.mp4/index-v1-a1.m3u8
+#EXTINF:-1 tvg-id="tvg-name=""أخوتي TUR S1E19" tvg-logo="https://3sheeq.net/wp-content/uploads/2021/02/Kardeslerim.jpg"group-title="أخوتي TUR",أخوتي TUR S1E19
+https://ostream2.nextcdn.net/vod/793/793421/793421.mp4/playlist.m3u8
 
 --------------------------------------قيد مجهول-------------------------------------------------
 #EXTINF:-1 tvg-id="tvg-name=""قيد مجهول S1E1" tvg-logo="https://i.fosta-tv.org/uploads/articles/5bca9def.jpg"group-title="قيد مجهول",قيد مجهول S1E1
