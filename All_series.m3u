@@ -1,7 +1,26 @@
 #EXTM3U
 coming soon (https://static.videezy.com/system/resources/previews/000/051/767/original/200717-LoopComingSoonBlueNeonSpace.mp4)
-#EXTINF:-1 فسسسسسسس
-https://vod-movies.panet.co.il/Sa77eb-El-makam/1.mp4/playlist.m3u8
+--------------------------------------دور العمر-------------------------------------------------
+#EXTINF:-1 tvg-id="tvg-name=""دور العمر S1E01" tvg-logo="https://github.com/6j9/mych/raw/master/img/%D8%AF_%D8%B9.png"group-title="دور العمر",دور العمر S1E01
+https://ostream2.nextcdn.net/vod/775/775633/775633.mp4/playlist.m3u8
+#EXTINF:-1 tvg-id="tvg-name=""دور العمر S1E02" tvg-logo="https://github.com/6j9/mych/raw/master/img/%D8%AF_%D8%B9.png"group-title="دور العمر",دور العمر S1E02
+https://ostream3.nextcdn.net/vod/775/775643/775643.mp4/playlist.m3u8
+#EXTINF:-1 tvg-id="tvg-name=""دور العمر S1E03" tvg-logo="https://github.com/6j9/mych/raw/master/img/%D8%AF_%D8%B9.png"group-title="دور العمر",دور العمر S1E03
+https://ostream2.nextcdn.net/vod/778/778356/778356.mp4/playlist.m3u8
+#EXTINF:-1 tvg-id="tvg-name=""دور العمر S1E04" tvg-logo="https://github.com/6j9/mych/raw/master/img/%D8%AF_%D8%B9.png"group-title="دور العمر",دور العمر S1E04
+https://ostream2.nextcdn.net/vod/778/778366/778366.mp4/playlist.m3u8
+#EXTINF:-1 tvg-id="tvg-name=""دور العمر S1E05" tvg-logo="https://github.com/6j9/mych/raw/master/img/%D8%AF_%D8%B9.png"group-title="دور العمر",دور العمر S1E05
+https://ostream2.nextcdn.net/vod/779/779313/779313.mp4/playlist.m3u8
+#EXTINF:-1 tvg-id="tvg-name=""دور العمر S1E06" tvg-logo="https://github.com/6j9/mych/raw/master/img/%D8%AF_%D8%B9.png"group-title="دور العمر",دور العمر S1E06
+https://ostream3.nextcdn.net/vod/779/779331/779331.mp4/playlist.m3u8
+#EXTINF:-1 tvg-id="tvg-name=""دور العمر S1E07" tvg-logo="https://github.com/6j9/mych/raw/master/img/%D8%AF_%D8%B9.png"group-title="دور العمر",دور العمر S1E07
+https://ostream3.nextcdn.net/vod/781/781631/781631.mp4/playlist.m3u8
+#EXTINF:-1 tvg-id="tvg-name=""دور العمر S1E08" tvg-logo="https://github.com/6j9/mych/raw/master/img/%D8%AF_%D8%B9.png"group-title="دور العمر",دور العمر S1E08
+https://ostream3.nextcdn.net/vod/781/781593/781593.mp4/playlist.m3u8
+#EXTINF:-1 tvg-id="tvg-name=""دور العمر S1E09" tvg-logo="https://github.com/6j9/mych/raw/master/img/%D8%AF_%D8%B9.png"group-title="دور العمر",دور العمر S1E09
+https://ostream2.nextcdn.net/vod/785/785381/785381.mp4/playlist.m3u8
+#EXTINF:-1 tvg-id="tvg-name=""دور العمر S1E10" tvg-logo="https://github.com/6j9/mych/raw/master/img/%D8%AF_%D8%B9.png"group-title="دور العمر",دور العمر S1E10
+https://ostream2.nextcdn.net/vod/785/785361/785361.mp4/playlist.m3u8
 --------------------------------------باب جهنم-------------------------------------------------
 #EXTINF:-1 tvg-id="tvg-name=""باب جهنم S1E1" tvg-logo="https://raw.githubusercontent.com/6j9/mych/master/img/%D8%A8%D8%A7%D8%A8%20%D8%AC.png"group-title="باب جهنم",باب جهنم S1E1
 https://ostream3.nextcdn.net/vod/793/793399/793399.mp4/playlist.m3u8?
