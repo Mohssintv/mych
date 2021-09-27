@@ -264,7 +264,9 @@ https://cdn.alarab.com/h264/166174_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 tvg-id="tvg-name=""أخوتي TUR S1E18" tvg-logo="https://3sheeq.net/wp-content/uploads/2021/02/Kardeslerim.jpg"group-title="أخوتي TUR",أخوتي TUR S1E18
 https://cdn.alarab.com/h264/166282_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 tvg-id="tvg-name=""أخوتي TUR S1E19" tvg-logo="https://3sheeq.net/wp-content/uploads/2021/02/Kardeslerim.jpg"group-title="أخوتي TUR",أخوتي TUR S1E19
-https://ostream2.nextcdn.net/vod/793/793421/793421.mp4/playlist.m3u8
+https://cdn.alarab.com/h264/167449_,48,24,0p.mp4.urlset/playlist.m3u8
+#EXTINF:-1 tvg-id="tvg-name=""أخوتي TUR S1E20" tvg-logo="https://3sheeq.net/wp-content/uploads/2021/02/Kardeslerim.jpg"group-title="أخوتي TUR",أخوتي TUR S1E20
+https://cdn.alarab.com/h264/167511_,48,24,0p.mp4.urlset/playlist.m3u8
 
 --------------------------------------قيد مجهول-------------------------------------------------
 #EXTINF:-1 tvg-id="tvg-name=""قيد مجهول S1E1" tvg-logo="https://i.fosta-tv.org/uploads/articles/5bca9def.jpg"group-title="قيد مجهول",قيد مجهول S1E1
