@@ -355,6 +355,15 @@ https://cdn.alarab.com/h264/164818_480p.mp4/index-v1-a1.m3u8
 https://cdn.alarab.com/h264/165830_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 tvg-id="tvg-name=""الصيف الاخير TUR S1E20" tvg-logo="https://yaqot.net/upload/articles/8a9b3e5d.jpg"group-title="الصيف الاخير TUR",الصيف الاخير TUR S1E20
 https://cdn.alarab.com/h264/165954_480p.mp4/index-v1-a1.m3u8
+#EXTINF:-1 tvg-id="tvg-name=""الصيف الاخير TUR S1E21" tvg-logo="https://yaqot.net/upload/articles/8a9b3e5d.jpg"group-title="الصيف الاخير TUR",الصيف الاخير TUR S1E21
+https://cdn.alarab.com/h264/167636_,48,24,0p.mp4.urlset/playlist.m3u8
+#EXTINF:-1 tvg-id="tvg-name=""الصيف الاخير TUR S1E22" tvg-logo="https://yaqot.net/upload/articles/8a9b3e5d.jpg"group-title="الصيف الاخير TUR",الصيف الاخير TUR S1E22
+https://cdn.alarab.com/h264/167526_,48,24,0p.mp4.urlset/playlist.m3u8
+#EXTINF:-1 tvg-id="tvg-name=""الصيف الاخير TUR S1E23" tvg-logo="https://yaqot.net/upload/articles/8a9b3e5d.jpg"group-title="الصيف الاخير TUR",الصيف الاخير TUR S1E23
+https://cdn.alarab.com/h264/167706_,48,24,0p.mp4.urlset/playlist.m3u8
+
+
+
 --------------------------------------المنظمة TUR-------------------------------------------------
 #EXTINF:-1 tvg-id="tvg-name=""المنظمة TUR S1E1" tvg-logo="https://m.cimalight.cam/uploads/articles/de50e07c.jpg"group-title="المنظمة TUR",المنظمة TUR S1E1
 http://conv.alarab.com/media/videos/h264/162820_720p.mp4
@@ -385,7 +394,9 @@ https://cdn.alarab.com/h264/165967_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 tvg-id="tvg-name=""المنظمة TUR S1E13" tvg-logo="https://m.cimalight.cam/uploads/articles/de50e07c.jpg"group-title="المنظمة TUR",المنظمة TUR S1E13
 https://cdn.alarab.com/h264/166079_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 tvg-id="tvg-name=""المنظمة TUR S1E14 tvg-logo="https://m.cimalight.cam/uploads/articles/de50e07c.jpg"group-title="المنظمة TUR",المنظمة TUR S1E14
-https://lb.vidscloud.tv/hls/1386f2432ada3163b4a285fde2cbe47a/1386f2432ada3163b4a285fde2cbe47a.m3u8
+https://cdn.alarab.com/h264/166079_,48,24,0p.mp4.urlset/playlist.m3u8
+#EXTINF:-1 tvg-id="tvg-name=""المنظمة TUR S1E15 tvg-logo="https://m.cimalight.cam/uploads/articles/de50e07c.jpg"group-title="المنظمة TUR",المنظمة TUR S1E15
+https://cdn.alarab.com/h264/167662_,48,24,0p.mp4.urlset/playlist.m3u8
 --------------------------------------أنــــا-------------------------------------------------
 #EXTINF:-1 tvg-id="tvg-name=""أنــــا S1E1" tvg-logo="https://x.brstej.com/uploads/articles/d7a5829a.jpg"group-title="أنــــا",أنــــا S1E1
 http://conv.alarab.com/media/videos/h264/162444_480p.mp4
