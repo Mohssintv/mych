@@ -9,11 +9,11 @@ https://www.dailymotion.com/cdn/manifest/video/x853fbl.m3u8?sec=UgDIyPB-qPA1h0U7
 
 --------------------------------------Panoria-------------------------------------------------
 #EXTINF:-1 tvg-id="tvg-name=""Paranoia S1E01" tvg-logo="https://raw.githubusercontent.com/6j9/mych/master/img/pnoria.png"group-title="Paranoia",Paranoia S1E01
-https://s16.upstreamcdn.co/hls/w47rz3tm5zbnx2nro2fk2qnsiz2kfw5oxjnbgbedff3vjct2o6qllahbaw7q/index-v1-a1.m3u8
+https://github.com/6j9/mych/raw/master/tst/321.m3u8
 #EXTINF:-1 tvg-id="tvg-name=""Paranoia S1E02" tvg-logo="https://raw.githubusercontent.com/6j9/mych/master/img/pnoria.png"group-title="Paranoia",Paranoia S1E02
 https://s30.upstreamcdn.co/hls/w47ryatt5zbnx2nro2fk2uhskltiym4gyt2a7fs6wwa4i5fxbf4nbzzo7lna/index-v1-a1.m3u8
 #EXTINF:-1 tvg-id="tvg-name=""Paranoia S1E03" tvg-logo="https://raw.githubusercontent.com/6j9/mych/master/img/pnoria.png"group-title="Paranoia",Paranoia S1E03
-https://github.com/6j9/mych/raw/master/tst/321.m3u8
+
 #EXTINF:-1 tvg-id="tvg-name=""Paranoia S1E04" tvg-logo="https://raw.githubusercontent.com/6j9/mych/master/img/pnoria.png"group-title="Paranoia",Paranoia S1E04
 #EXTINF:-1 tvg-id="tvg-name=""Paranoia S1E05" tvg-logo="https://raw.githubusercontent.com/6j9/mych/master/img/pnoria.png"group-title="Paranoia",Paranoia S1E05
 #EXTINF:-1 tvg-id="tvg-name=""Paranoia S1E06" tvg-logo="https://raw.githubusercontent.com/6j9/mych/master/img/pnoria.png"group-title="Paranoia",Paranoia S1E06
