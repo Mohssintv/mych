@@ -34,8 +34,8 @@ https://m.ok.ru/dk/video.mp4?st.cmd=moviePlaybackRedirect&st.sig=f9ade38e4cb50c9
 https://m.ok.ru/dk/video.mp4?st.cmd=moviePlaybackRedirect&st.sig=c53e5958bb3c80e42f3a59f10f78f6ed165424b5&st.uid=579098039426&st.mq=2&st.mvid=3131181238853&st.ip=143.177.152.38&st.dla=on&st.exp=1639845718457&st.hls=off&_prevCmd=movieMain&tkn=7983&vdsig=9s0v4owT3MXLomDHd51kYcjmci8
 #EXTINF:-1 tvg-id="tvg-name=""Paranoia S1E13" tvg-logo="https://raw.githubusercontent.com/6j9/mych/master/img/pnoria.png"group-title="Paranoia",Paranoia S1E13
 https://m.ok.ru/dk/video.mp4?st.cmd=moviePlaybackRedirect&st.sig=ab430945ce3ba3197a3bea6c582020793f1a1c39&st.uid=579098039426&st.mq=3&st.mvid=3529031944915&st.ip=143.177.152.38&st.dla=on&st.exp=1640116362919&st.hls=off&_prevCmd=movieMain&tkn=8996&vdsig=lT3M2e4uABH_hJ7QWroPc__eFh4
-
-
+#EXTINF:-1 tvg-id="tvg-name=""Paranoia S1E14" tvg-logo="https://raw.githubusercontent.com/6j9/mych/master/img/pnoria.png"group-title="Paranoia",Paranoia S1E14
+http://127.0.0.1:80/transcoded?channel=1&bitrate=2500&res=640x360
 -------------------------------------sh-by-------------------------------------------------
 #EXTINF:-1 tvg-id="tvg-name=""sh-by S1E01" tvg-logo="https://raw.githubusercontent.com/6j9/mych/master/img/sh-by.png"group-title="sh-by",sh-by S1E01
 https://cdn-chashed-velbo-s1-fvu.yautube.cam/hls/ftg4ygqopvh473xqlshuahdrgxmiygaya2jqkxnmf3uqonnns2gh4nlzu6sq/index-v1-a1.m3u8
